@@ -1,0 +1,163 @@
+PROPRIETARY EXTENSION LICENSE AND TERMS OF SERVICE
+Copyright (c) 2026 Buckram Studio (or its successors and assigns). All Rights Reserved.
+
+By installing, accessing, or using this Software, you agree to be bound by 
+these terms. If you do not agree, do not install or use the Software.
+
+1. LICENSE GRANT
+The Author grants you a limited, non-exclusive, non-transferable, revocable 
+license to install and use this Software within the Cursor editor environment. 
+This license is for a single user. If this Software is provided as part of a 
+paid subscription, this license remains valid only while your subscription 
+is active and in good standing.
+
+2. INTELLECTUAL PROPERTY AND ARCHITECTURAL PROTECTION (RESTRICTIONS)
+The Software, including its specific sequencing, user interface layout, 
+unique architectural logic, and proprietary workflow concepts, constitutes 
+valuable trade secrets and confidential intellectual property of the Author.
+
+You are strictly prohibited from, and agree not to assist others in:
+a) Extracting, decompiling, or reverse-engineering the package files to 
+   access the source code.
+b) Replicating, copying, or mimicking the unique operational workflows, 
+   feature-sequencing, or user-experience concepts of this Software to 
+   create a competing extension, derivative product, or clone.
+c) Redistributing, selling, or re-uploading this Software to the Cursor 
+   Marketplace or any other platform under your name or a third-party name.
+
+Any attempt to replicate the core workflows or copy the functional design 
+of this Software will be treated as misappropriation of intellectual property 
+and trade secrets, and will be met with immediate legal escalation, including 
+but not limited to DMCA Takedown demands and claims for economic damages.
+
+3. USER WORK PRODUCT AND COMMERCIAL RIGHTS (YOUR OUTPUT IS YOURS)
+For the avoidance of doubt, the Author claims NO ownership, NO intellectual 
+property rights, and NO royalties over any text, data, files, books, or 
+manuscripts produced by you using this tool. You retain full, unrestricted 
+ownership of your output, including the absolute right to publish, sell, 
+distribute, and commercially exploit books or documents created with the 
+assistance of this Software.
+
+AI-assisted or machine-generated text is not guaranteed to be original, 
+accurate, complete, or non-infringing. You are solely responsible for 
+reviewing, editing, and clearing any output before publication or commercial 
+use.
+
+4. ACCEPTABLE USE
+You agree not to:
+a) Use the Software for any unlawful purpose or in violation of applicable 
+   law.
+b) Circumvent, disable, or interfere with Free/Premium entitlement checks, 
+   license verification, usage limits, or other technical restrictions.
+c) Abuse, overload, or misuse the Software or connected third-party services 
+   in a manner that violates their terms (including Cursor and billing 
+   providers).
+
+5. USER CONTENT RESPONSIBILITY
+You are solely responsible for all content you create, import, store, or 
+process with the Software, including manuscripts and project files. You 
+represent that you have the rights needed to use that content. You agree to 
+defend and hold the Author harmless from claims, damages, and expenses 
+arising from your content or your use of the Software, to the maximum extent 
+permitted by law.
+
+6. LOCAL FILES AND BACKUPS
+Project files, manuscripts, and related data reside on your local machine 
+(or storage you control). The Author is not responsible for loss, corruption, 
+deletion, or unauthorized access to your files. You are responsible for 
+maintaining your own backups.
+
+7. TERMINATION
+This License is effective until terminated. Your rights under this License 
+will terminate automatically without notice from the Author if you fail to 
+comply with any term(s) of this agreement. Upon termination, you must cease 
+all use of the Software and destroy all copies in your possession.
+
+8. THIRD-PARTY COMPONENTS & OPEN SOURCE
+The Software may include third-party open-source components subject to their 
+own license agreements. An inventory of production dependencies and their 
+licenses is provided in THIRD_PARTY_NOTICES.md (included with the Software). 
+Your use of the Software is also subject to the terms of service and API 
+usage policies of the Cursor editor. Nothing in this License overrides or 
+modifies the terms of those third-party agreements.
+
+9. PRIVACY, DATA TRANSMISSION, AND EXTERNAL SERVICE INTEGRATION
+The Author does not operate data-harvesting or telemetry infrastructure, nor 
+does the Software track or store your personal identity or background usage 
+behavior.
+
+However, the Software operates as a local client that relies on cloud-integrated 
+features to function. You acknowledge and agree that user-initiated actions 
+within the Software may require the transmission of text, source code, 
+and associated data to external third-party servers for processing. 
+This includes, but is not limited to, external services providing:
+
+(a) Text, code, linguistic, and computational processing or formatting;
+(b) Content analysis, transformation, and automated generation;
+(c) License verification, authentication, and marketplace compliance.
+
+All such external data transmissions are governed exclusively by the terms and 
+privacy policies of those respective third-party providers. The Author has no 
+control over, and assumes zero liability for, the data handling practices, 
+security, or uptime of these independent external services.
+
+10. BILLING, REFUNDS, AND PLAN CHANGES
+Paid subscriptions, license keys, invoices, cancellations, and refunds are 
+handled by the applicable billing or marketplace provider (for example, Polar 
+or the extension marketplace), not by the Author personally. Their terms 
+govern payment disputes and refund eligibility.
+
+The Author may change Free and Premium feature boundaries, usage limits, and 
+available functionality over time. No Free-tier feature is guaranteed to 
+remain free indefinitely.
+
+11. TRADEMARKS
+This License does not grant you any right to use the Author’s names, logos, 
+product names (including “Buckram Studio”), or other trademarks, except as 
+needed to refer factually to the Software. You may not imply endorsement or 
+affiliation without prior written permission.
+
+12. FEEDBACK
+If you provide ideas, suggestions, or feedback about the Software, the Author 
+may use them without restriction or compensation to you, and without any 
+obligation to keep them confidential.
+
+13. CHANGES TO THESE TERMS
+The Author may update this License from time to time. The version shipped with 
+a given release of the Software applies to that release. Continued use of a 
+newer release constitutes acceptance of the License included with that release.
+
+14. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+15. LIMITATION OF LIABILITY
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DAMAGES (INCLUDING, WITHOUT 
+LIMITATION, LOST PROFITS, BUSINESS INTERRUPTION, OR LOST INFORMATION) ARISING 
+OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF THE AUTHOR HAS 
+BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT WILL THE AUTHOR’S 
+TOTAL LIABILITY EXCEED THE AMOUNT PAID BY YOU FOR THE SOFTWARE (IF ANY).
+
+Nothing in this License excludes or limits any liability or consumer rights 
+that cannot be excluded or limited under applicable mandatory law 
+(including Swiss or EU consumer protection rules where they apply).
+
+16. GOVERNING LAW AND JURISDICTION
+This License shall be governed by and construed in accordance with the laws 
+of Switzerland, without regard to its conflict of law principles. Any legal 
+action or proceeding arising under this License will be brought exclusively 
+in the courts located in Lucerne, Switzerland, except where mandatory 
+consumer-protection rules require otherwise.
+
+17. SEVERABILITY, ENTIRE AGREEMENT, AND NOTICES
+If any provision of this License is held to be unenforceable, such provision 
+shall be reformed only to the extent necessary to make it enforceable, and 
+the remaining provisions shall remain in full force and effect.
+
+This License constitutes the entire agreement between you and the Author 
+regarding the Software and supersedes prior or contemporaneous 
+understandings on that subject. Failure by the Author to enforce any 
+provision is not a waiver of that provision or of any other right.
+
+Notices under this License may be sent to: buckramstudio@gmail.com.
