@@ -1,12 +1,13 @@
 # Buckram Studio
 
-> **Less "AI writing app," more "professional novel studio inside your editor."**
+> **Stop copy-pasting your world bible into a blank prompt.**
 
-Buckram Studio is a Cursor-first VS Code extension for the full novel lifecycle—setup, plan, draft, and edit. It wraps professional book craft around plain Markdown on your disk, with AI as a co-writer and editorial engine—not a blank chat prompt.
+Buckram Studio is a Cursor extension for the full novel lifecycle—from empty folder to final draft. It wraps professional book craft around plain Markdown on your disk, so AI works as a structured co-writer and multi-pass editorial engine instead of a chaotic blank chat. Your files stay where they belong: local, readable, and yours.
+
 
 [![License](https://img.shields.io/badge/license-Proprietary-blue.svg)](./LICENSE)
 ![Version](https://img.shields.io/badge/version-0.22.39-blue)
-![Platform](https://img.shields.io/badge/platform-Cursor%20%7C%20VS%20Code-blue)
+![Platform](https://img.shields.io/badge/platform-Cursor-blue)
 
 ---
 
@@ -18,6 +19,8 @@ Buckram Studio is a Cursor-first VS Code extension for the full novel lifecycle�
 - **Your files, always** — Plain Markdown on *your* disk only. Buckram never stores your manuscript in the cloud—uninstall or leave Premium and every file stays readable and yours.
 
 *Buckram Studio is for writers, not engineers.*
+
+**FAQ:** [Why prompts, Projects, and Custom GPTs still leave you stuck](./FAQ.md)
 
 ---
 
@@ -33,9 +36,11 @@ Buckram Studio is a Cursor-first VS Code extension for the full novel lifecycle�
 
 ## Install
 
-1. Open **Cursor** or **VS Code**.
+1. Open **Cursor**.
 2. Install **Buckram Studio** from the Marketplace *(link coming soon)*.
 3. Open a folder for your series or book and use the Work Tree (book icon) to start.
+
+**Requires Cursor** — **Chat about** uses Cursor’s Agent chat (not available in plain VS Code).
 
 **Zero setup:** marketplace install works without Python, pip, LibreOffice, or Pandoc for the basics—Work Tree, Chat about, bundled pipelines, and DOCX / Markdown / PDF / EPUB export.
 
@@ -100,7 +105,7 @@ Buckram charges for **automation scale**, not your manuscript. Your book stays a
 ## Getting the most from chat
 
 > [!IMPORTANT]
-> Long chapter chats fail for a structural reason—not because you "asked wrong." Inside the extension, open **Documentation → Read me first → How chat context works** (and *Getting the most from the context window*) for short habits that keep Agent chats productive.
+> Chat models only “see” a fixed desk each turn. Chapter work piles the *same* pages again and again—so answers go soft, lose your voice, or loop in circles when that desk fills with near-copies. That is how the models work (attention math), not a Buckram limit and not you asking wrong. Inside the extension, open **Documentation → Read me first → How chat context works** (and *Getting the most from the context window*) for a short mental model and habits that keep Agent chats sharp.
 
 Full getting-started and feature help live in the extension under **Work Tree → Documentation**.
 
