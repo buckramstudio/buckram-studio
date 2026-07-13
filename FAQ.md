@@ -1,8 +1,10 @@
 # Buckram Studio — FAQ
 
-For writers who already live in ChatGPT, Claude, prompt libraries, or “AI writing apps”—and sense the cage getting tighter every week.
+For writers who already live in ChatGPT, Claude, Cursor, prompt libraries, or “AI writing apps”—and sense the cage getting tighter every week.
 
 If you’ve been fighting context rot with ever-longer prompts, or bouncing between tools that store notes but never run a novel, this is for you.
+
+If you only write in Word or Scrivener and intend to stay there, stop here: Buckram is a **Cursor extension**. The fit section below is blunt about that.
 
 ---
 
@@ -29,6 +31,16 @@ That is the cage most serious AI writers are already in—and pretending a bigge
 Chat models only see a fixed desk each turn. Dump the series bible to rewrite one scene and two things fail at once: attention drifts (voice softens, loops, local instructions drown), and you pay your provider to re-read the same history every turn. Costs spike. The “fix” is more paste—which makes both problems worse.
 
 Buckram Studio was built for that failure mode. **Tiered context compression** and a **Scene Census** (who and what is actually on stage for this chapter) build the smallest useful briefing—not the whole library. Sharper scene adherence. Less noise. No token tax just to tweak a paragraph.
+
+### Why does Buckram talk about context so much?
+
+Because that is where chapter work actually breaks—not “the model got dumb.”
+
+Every chat has a fixed **context window**: a desk that only holds so much this turn. Stuffing it with the whole book, or twenty near-copies of the same chapter, does not make the model sharper. Attention thins. Voice softens. The real ask drowns.
+
+Worse: when the desk overflows, the cloud often **compresses or drops** older material behind the scenes. You do not pick what survives. “I already told it that” is not a contract—only what is still on the desk this turn counts.
+
+That is why Buckram obsesses over short, deliberate briefings. Keep the leash short on purpose, and you stay in the zone you control—instead of hoping a giant window and silent cloud compression will remember the novel for you.
 
 ### Can’t I already do all of this manually?
 
@@ -72,6 +84,8 @@ Yes. Buckram Studio is a **Cursor extension**. Install it from the marketplace; 
 
 If you already use Cursor, you are home. If you write in ChatGPT or Claude in the browser today, Cursor is the editor; Buckram is the writing studio on top of it.
 
+If Cursor itself is a hard stop, this product is not a fit. See **Fit and expectations**.
+
 ### Why not just use Claude Projects?
 
 Claude Projects are excellent at storing documents.
@@ -92,9 +106,11 @@ Your manuscript, world bible, planning docs, editorial history, continuity, and 
 
 ### I already use Scrivener / Plottr / a desktop binder. Am I just getting a blank file tree?
 
-No. You get a **Work Tree** built for the novel lifecycle: Setup → Plan → Draft → Edit.
+No—if you are willing to work inside Cursor. You get a **Work Tree** built for the novel lifecycle: Setup → Plan → Draft → Edit.
 
 Instead of hunting folders while keeping world notes in a second app (and AI in a third browser tab), Buckram keeps canon, chapters, continuity, and post-production in one navigator—with **Chat about** that already knows which files belong to the job. Organization stops being a separate hobby from writing.
+
+Import can bring a Scrivener project in. It does not turn Buckram into Scrivener. See **Fit and expectations** if the IDE itself is a hard no.
 
 ### Can I bring an existing manuscript?
 
@@ -113,6 +129,50 @@ Cursor is the operating system. Buckram Studio is the writing studio.
 That assumption is the trap: writers think automated continuity must mean an agent re-reading the book on a loop—and billing you for it.
 
 Buckram’s **Presence** view, clue ledger, and off-screen clocks do not use an LLM. They parse mention tags and ledger files on your disk. You get a live continuity check—who went missing, which clue is unpaid, which off-screen thread went stale—without burning tokens. You still pay the model when you **Chat about** or run editorial passes. Continuity tracking itself stays local and free.
+
+---
+
+## Fit and expectations
+
+### I’m a career novelist who only uses Word / Scrivener / Ulysses. Is this for me?
+
+Only if you are willing to live in **Cursor**.
+
+Buckram Studio is not a standalone writing app. It is an extension on top of an IDE that already talks to models. Most traditional career authors will bounce off that setup. That is not a bug in the FAQ—it is the product shape.
+
+If you already use Agent chat, prompt libraries, local markdown, or a code editor for prose, you are the intended user. Technical success at holding a story arc does not mean mass adoption among Word-only novelists.
+
+### Will Buckram invent plot twists or rewrite my story for me?
+
+No by default.
+
+The architecture is stiff on purpose. Pro writers who understand scene mechanics—want, obstacle, action—usually do not want a model that invents turns. They want a high-precision text simulator that holds canon, cast, and craft locks while they test prose.
+
+Buckram’s job is that stability: assemble the right briefing, keep boundaries, run editorial passes you chose. Invention stays yours.
+
+### Why words like “humanization,” “compression,” and “Allowed Waste”?
+
+They are engineering labels for a craft job—not a claim that a pipeline can manufacture a soul.
+
+Generic models default to corporate-clean cadence. **Allowed Waste** steers toward character-specific mess: tics, flaws, uneven rhythm. Compression and release are pass names for structural editing, not factory branding meant to insult writers.
+
+If the vocabulary feels cold, ignore the labels and use the controls. The pass does not finish the voice. You still revise out whatever AI cadence remains.
+
+### If I run the editorial pipeline, is the chapter done?
+
+Writers already know the usual script: another “polish,” then another—and each pass gets **less** good: flatter, more generic, more slop. A human still reads. Buckram does not claim one-click publish-ready.
+
+What breaks that pattern is the leash. Each pass gets the **smallest useful briefing for this chapter**—Scene Census, craft locks, cast and lore on stage—not a whole-book dump. Stiff short context means the model cannot drift or flatten the way a paste-window does. Passes refine; they do not sand voice into goo.
+
+A well-seeded run leaves a sharp draft under your locks. If an unwanted pattern still survives, **Chat about** the pipeline: name it, add a pass, test on `test-sample.md`. Fix the pattern—do not widen the window.
+
+### What do I have to get right before this pays off?
+
+Canon.
+
+Personas, world rules, scene presence, and craft locks. Thin or contradictory canon produces a precise model of a mushy book. Buckram amplifies structure. It does not invent a bible you never wrote.
+
+You do not have to build that bible alone. **Chat about** on any canon or chapter row opens a specialist assistant for that stage—world, personas, scenes, craft—ready to help seed and revise. Seed the rigid pieces carefully (with that help), and you can get sharp, structurally sound drafts—then finish the art yourself.
 
 ---
 
@@ -152,7 +212,7 @@ Fear of one-shot “polish this chapter” is justified. That is how manuscripts
 
 Buckram pipelines are multi-pass editorial factories—structure, compression, line edit, forensic checks—not a single vague prompt. You test on a small `test-sample.md` in a sandbox first. Real chapter drafts change only when you choose to run production. Snapshots along the way mean you can roll back if a pass goes sideways.
 
-Safe by default. Production when you say so.
+Safe by default. Production when you say so. Another polish that flattens everything? No—see **If I run the editorial pipeline, is the chapter done?** (short leash vs the death spiral).
 
 ---
 
