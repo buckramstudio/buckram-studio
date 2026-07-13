@@ -1,6 +1,6 @@
 # Buckram Studio — FAQ
 
-For writers who already live in ChatGPT, Claude, Cursor, prompt libraries, or “AI writing apps”—and sense the cage getting tighter every week.
+For writers who already live in ChatGPT, Claude, prompt libraries, or “AI writing apps”—and sense the cage getting tighter every week.
 
 If you’ve been fighting context rot with ever-longer prompts, or bouncing between tools that store notes but never run a novel, this is for you.
 
