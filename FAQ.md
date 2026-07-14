@@ -206,6 +206,14 @@ The project files stay on your disk. Buckram does not host or lock the manuscrip
 
 When you **Chat about** or run an editorial pass, the assembled briefing for that turn goes to your model provider through Cursor Agent—same as any other Agent chat. You choose what to attach; Buckram does not upload your library to a Buckram cloud.
 
+### Is it safe to Import shared packs from the internet?
+
+You can bring in sealed `.brs` packs—**Import Canon…** for world setup and personas, and **Import…** under Shared pipelines or Shared translations. Every path asks you to click **Trust**. That click is not a safety certificate. It means *you* vouch for where the pack came from on this computer. A random Discord drop or mystery download is still something from the internet: think twice before you trust the person who packed it.
+
+Buckram adds a simple security layer before that. Shared pipelines and translations must be **DSL-only**—no scripts, no shell executables in the shareable lane—then pass an **integrity seal** so the sealed file was not casually tampered after export. Untrusted packs do not run. Canon packs are text-only, but text is not harmless: instructions in a world or persona pack can still **steer Agents**, including into destructive edits.
+
+That layer is a seatbelt, not a vault. A motivated attacker who understands the format may still craft a pack that slips past checks, or that abuses trusted LLM and mechanical steps once you have clicked Trust. Prefer packs from people you would trust with edit access to the project. If you would not take a mystery USB stick of “helpful writing tools,” do not click Trust.
+
 ### Won’t editorial pipelines wreck my chapters?
 
 Fear of one-shot “polish this chapter” is justified. That is how manuscripts get flattened.
