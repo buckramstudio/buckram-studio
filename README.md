@@ -21,12 +21,29 @@
 
 Buckram Studio is a Cursor extension for the full novel lifecycle — from empty folder to final draft. It wraps professional book craft around plain Markdown on your disk, so AI works as a structured co-writer and multi-pass editorial engine instead of a chaotic blank chat. Your files stay where they belong: local, readable, and yours.
 
-<!-- TODO: produce media/readme/hero.gif — main demo loop: Work Tree -> Chat about -> draft appears (~1200px wide, < ~8 MB) -->
 <p align="center">
-  <img src="media/readme/hero.gif" alt="Buckram Studio in action" width="820" />
+  <img src="https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/media/readme/hero.gif" alt="Buckram Studio in action" width="820" />
 </p>
 
 _Buckram Studio is for writers, not engineers._
+
+---
+
+## Where to find it after install
+
+Buckram Studio opens in the **Explorer** sidebar as a panel called **Buckram Studio** (the book icon). It can sit near the **bottom** of the Explorer, under panels like Outline and Timeline, so it's easy to miss on first launch.
+
+If you don't see it:
+
+1. Open the **Explorer** — click the top file icon in the left Activity Bar, or press `Ctrl+Shift+E` (`Cmd+Shift+E` on macOS).
+2. **Scroll to the bottom** of the Explorer and expand the **Buckram Studio** panel.
+3. To keep it handy, **drag its header up** toward the top of the sidebar, or right-click a panel header to reorder the panels.
+
+Still can't find it? Open the Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`) and run **Buckram Studio: Show** to reveal and focus the Work Tree.
+
+<p align="center">
+  <img src="media/readme/work-tree.png" alt="Work Tree in the Explorer sidebar" width="420" />
+</p>
 
 ---
 
@@ -81,7 +98,7 @@ _Buckram Studio is for writers, not engineers._
 
 1. Open **Cursor**.
 2. Install **Buckram Studio** from the Extensions view (Cursor uses [Open VSX](https://open-vsx.org/extension/buckram/buckram-studio)).
-3. Open a folder for your series or book, then click the **book icon** in the Explorer to open the Work Tree.
+3. Open a folder for your series or book, then open the **Buckram Studio** panel in the Explorer sidebar (it may be near the **bottom** — see [Where to find it after install](#where-to-find-it-after-install)). Can't find it? Run **Buckram Studio: Show** from the Command Palette.
 4. Use **Get Started** to create a new series, a standalone book, or add a book to a series, then follow the guided setup tour.
 
 Full getting-started and feature help live inside the extension under **Work Tree → Documentation**.
