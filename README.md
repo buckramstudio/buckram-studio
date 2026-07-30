@@ -167,16 +167,15 @@ Your book stays as plain Markdown regardless of tier — files are never locked,
 
 ## Extension settings
 
-Configure these under **Settings → Extensions → Buckram Studio** (search `buckramStudio`):
+Open **Settings → Buckram Studio** (or the Buckram Settings panel in the Work Tree) for preferences such as:
 
-- `buckramStudio.changeHistory.mode` — How change history is recorded on disk: on `save`, on an `interval`, or `gitOnly` (never sent to the chat model).
-- `buckramStudio.premium.freeWordLimit` — Soft Free-tier manuscript word guide (default `50000`); past it you keep writing — occasional upgrade nudges, never a file lock.
-- `buckramStudio.proseLint.enabled` — Underline stock phrases and overused gestures in manuscripts.
-- `buckramStudio.canonLinks.enabled` — Ctrl+click names in prose to open cast, place, or setting files.
-- `buckramStudio.workTree.autoRefresh` — Refresh the Work Tree when chapters, drafts, plans, or continuity files are created or removed.
-- `buckramStudio.byok.deeplPlan` — Which DeepL endpoint to use (`free` or `pro`) for DeepL translation packs.
+- How change history is recorded on disk
+- Underlines for stock phrases and overused gestures
+- Ctrl+click names in prose to open cast, place, or setting files
+- Auto-refresh the Work Tree when book files appear or disappear
+- DeepL plan (`free` or `pro`) for translation packs
 
-The full list of settings is available in the Cursor settings UI under **Buckram Studio**.
+Everything else lives in that same Settings UI — no need to hunt for raw config keys.
 
 ---
 
