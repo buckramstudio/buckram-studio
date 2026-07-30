@@ -43,7 +43,7 @@ Most novel-writing apps push a rigid assembly line: fill out dozens of character
 
 Buckram is structured terrain you can walk, sprint, or re-pave.
 
-- **Start anywhere** — Jump into Chapter 7, backfill the world bible later, begin with the Book Idea Consultant, or bring a manuscript you already have and let Buckram scaffold the first pass.
+- **Start anywhere** — Jump into Chapter 7, backfill the world bible later, begin with the Book Idea Consultant, bring a full manuscript, or pull **world and Cast only** from a source text and write new prose on that terrain.
 - **Bring your own architecture** — Shape the Work Tree to your outline style, tune Co-writer for your genre, adjust craft guardrails for the quirks you actually want on the page.
 - **Zero lock-in** — Everything is human-readable Markdown on your disk. Leave tomorrow and you take every word, note, and outline with you — no special export ritual required.
 
@@ -67,13 +67,14 @@ You're not buying better autocomplete. You're buying **control** over continuity
 ### Continuity
 
 - **Cast & world** — Character roster with voice, world bible, places, research, glossary and motifs, clue tracking, relationships, and who's off-stage.
+- **Import world from prose** — Extract setting and Cast from a manuscript or EPUB **without** importing chapter drafts — handy when you want the world on disk and a new story of your own on top (fanfic, shared-world, research).
 - **Continuity checks** — See who vanished from the book, which clues are still unpaid, and which threads went cold — bookkeeping that doesn't burn chat tokens.
 - **Context compression** — Eco / Standard / Pro briefings so the model gets this chapter's needs, not the whole series bible every click.
 
 ### Drafting
 
 - **Work Tree** — Your book as stages: canon, chapters, editorial work, export, and help. One clear next action per row.
-- **Get Started** — Book Idea Consultant, create a series or standalone book, **Import existing work** (Markdown, DOCX, EPUB, Scrivener), or try a preset demo safely.
+- **Get Started** — Book Idea Consultant, create a series or standalone book, **Import existing work**, **Import world from prose**, or try a preset demo safely.
 - **Co-writer** — Career-author peer stance for outline and chapter chats: genre preset (or Custom…), then refine with **Chat about my co-writer…** (**Settings → Assistants → Co-writer**).
 - **Plan rooms & Director** — Chapter outlines with scene cards, per-scene plan rooms, Director notes for pacing and focus, expand-beats-into-prose when you're ready to draft.
 - **Chat about** — Opens Cursor Agent with the right files attached; you type first after **"Your turn."** Bigger runs end with **"Press Enter to start"** and never spend without confirmation.
@@ -94,35 +95,12 @@ You're not buying better autocomplete. You're buying **control** over continuity
 
 ## How writers use Buckram
 
-### The epic fantasy builder (high-continuity worldbuilding)
-
-> *"Four POVs, a pile of magic rules, and a twist planted in Chapter 4."*
-
-Uses **Cast** and the **world bible** to lock canon. **Context compression** (Eco / Standard / Pro) pulls only the magic rules and people this chapter needs — so Chapter 30 still agrees with Chapter 1 without pasting the whole series into chat.
-
-### The discovery writer (draft first, structure later)
-
-> *"I don't know the ending yet. I want prose and a sharp sounding board."*
-
-Skips the setup rooms. Opens **Chat about** on a chapter file, riffs with **Co-writer**, then runs **continuity checks** after the draft to catch plot holes and missing people.
-
-### The mystery / thriller architect (clues and pacing)
-
-> *"If the reader learns the killer too early, the book is ruined."*
-
-Uses **Director** notes for scene-by-scene tension, and **clue tracking** so red herrings and payoffs stay honest through export.
-
-### The self-publisher on deadline (polish and ship)
-
-> *"Rough manuscript on disk. Clean the stock phrasing. Publish."*
-
-**Imports** Markdown or DOCX, uses **craft guardrails** for repetitive gestures and generic AI phrasing, proves multi-pass polish in the **Testing** sandbox, then exports **KDP-ready DOCX and EPUB**.
-
-### The writer with a manuscript already (import, then make it yours)
-
-> *"I don't need another blank project. I need my book inside a studio that won't forget it."*
-
-**Import existing work** (Markdown, DOCX, EPUB, or Scrivener). Buckram can pull chapters and optionally bootstrap a first-pass canon — then you talk with specialists and **Chat about** Cast, world, and Co-writer until the setup matches how *you* write. Fast scaffold; your judgment stays in charge.
+- **The epic fantasy builder (high continuity)** — Uses **Cast** and the **world bible** to lock canon. **Context compression** (Eco / Standard / Pro) pulls only what this chapter needs — so Chapter 30 still agrees with Chapter 1 without drowning the chat in series lore.
+- **The discovery writer (draft first, structure later)** — Opens **Chat about** on a chapter file to bounce ideas with **Co-writer**, then runs **continuity checks** later to catch plot holes and missing people.
+- **The mystery / thriller architect (clues and pacing)** — Enforces scene tension with **Director** notes and keeps red herrings honest with **clue tracking**.
+- **The self-publisher on deadline (polish and ship)** — **Imports** Markdown or DOCX, uses **craft guardrails** for stock phrasing, proves multi-pass polish in **Testing**, then exports **KDP-ready DOCX and EPUB**.
+- **The writer with a manuscript already** — **Import existing work** (Markdown, DOCX, EPUB, or Scrivener); optional first-pass canon bootstrap; then specialists and **Chat about** until Cast, world, and Co-writer feel like yours.
+- **The shared-world / fanfic writer (world first, new story)** — **Import world from prose** pulls setting and Cast **without** the original chapters, then you draft new people living on that terrain as if it were ordinary Tuesday.
 
 ---
 
@@ -154,22 +132,10 @@ Uses **Director** notes for scene-by-scene tension, and **clue tracking** so red
 
 1. Open **Cursor**.
 2. Install **Buckram Studio** from the Extensions view (Cursor uses [Open VSX](https://open-vsx.org/extension/buckram/buckram-studio)).
-3. Open a folder for your series or book, then open the **Buckram Studio** panel in the Explorer sidebar (it may be near the **bottom** — see [Where to find it after install](#where-to-find-it-after-install)). Can't find it? Run **Buckram Studio: Show** from the Command Palette.
-4. Open **Get Started** and pick your path: **Book Idea Consultant** (brainstorm → brief → create), create a new series / standalone book / add a book to a series, or **Import existing work**. Then follow the guided setup tour.
+3. Open a folder for your series or book, then open the **Buckram Studio** panel in the **Explorer** sidebar. It often sits near the **bottom** (under Outline / Timeline) — scroll down and expand it, or drag its header higher. Can't find it? Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`) → **Buckram Studio: Show**.
+4. Open **Get Started** and pick your path: **Book Idea Consultant**, create a series or book, **Import existing work**, or **Import world from prose** (setting and Cast only — no chapter drafts). Then follow the guided setup tour.
 
 Full getting-started and feature help live inside the extension under **Work Tree → Documentation**.
-
-### Where to find it after install
-
-Buckram Studio opens in the **Explorer** sidebar as a panel labeled **Buckram Studio**. It can sit near the **bottom** of the Explorer, under panels like Outline and Timeline, so it's easy to miss on first launch.
-
-If you don't see it:
-
-1. Open the **Explorer** — click the top file icon in the left Activity Bar, or press `Ctrl+Shift+E` (`Cmd+Shift+E` on macOS).
-2. **Scroll to the bottom** of the Explorer and expand the **Buckram Studio** panel.
-3. To keep it handy, **drag its header up** toward the top of the sidebar, or right-click a panel header to reorder the panels.
-
-Still can't find it? Open the Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`) and run **Buckram Studio: Show** to reveal and focus the Work Tree.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/media/readme/work-tree.png" alt="Work Tree in the Explorer sidebar" width="420" />
@@ -178,6 +144,8 @@ Still can't find it? Open the Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`) a
 ---
 
 ## Free & Premium
+
+**The short version:** Free is for full-length writing, authoring pipelines, and sandbox testing. Premium is for automated batch runs and full-book production exports.
 
 We charge for **workflow automation scale**, not your words and not a middleman markup on chat tokens. Use your own Cursor setup (**bring your own key**), keep full ownership of every file, and write on disk forever.
 
