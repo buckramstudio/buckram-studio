@@ -151,7 +151,7 @@ We charge for **workflow automation scale**, not your words and not a middleman 
 
 Your book stays as plain Markdown regardless of tier — files are never locked, deleted, or held hostage.
 
-- **Free** — Work Tree, Chat about, canon, and craft guardrails; unlimited pipeline authoring; the **Testing** sandbox (max 5 starts/hour per pipeline or test batch, then a 3-hour cooldown); a **50,000-word** cap on manuscript drafts; export up to **2 chapters** per run (DOCX, Markdown, PDF, EPUB).
+- **Free** — Work Tree, Chat about, canon, and craft guardrails; unlimited pipeline authoring; the **Testing** sandbox (max 5 starts/hour per pipeline or test batch, then a 3-hour cooldown); a soft **50,000-word** guide on manuscript drafts (you keep writing past it — Buckram may nudge you every few days; files never lock); export up to **2 chapters** per run (DOCX, Markdown, PDF, EPUB).
 - **Premium** — Chapter and batch production runs, execution plans, full-book export, unlimited words, and unlimited Testing.
 - **Bring your own key** — Chat and drafting run through your Cursor Agent. You pay your provider directly; Buckram never bills for tokens or meters your writing.
 
@@ -170,7 +170,7 @@ Your book stays as plain Markdown regardless of tier — files are never locked,
 Configure these under **Settings → Extensions → Buckram Studio** (search `buckramStudio`):
 
 - `buckramStudio.changeHistory.mode` — How change history is recorded on disk: on `save`, on an `interval`, or `gitOnly` (never sent to the chat model).
-- `buckramStudio.premium.freeWordLimit` — Free-tier manuscript word cap (default `50000`).
+- `buckramStudio.premium.freeWordLimit` — Soft Free-tier manuscript word guide (default `50000`); past it you keep writing — occasional upgrade nudges, never a file lock.
 - `buckramStudio.proseLint.enabled` — Underline stock phrases and overused gestures in manuscripts.
 - `buckramStudio.canonLinks.enabled` — Ctrl+click names in prose to open cast, place, or setting files.
 - `buckramStudio.workTree.autoRefresh` — Refresh the Work Tree when chapters, drafts, plans, or continuity files are created or removed.
