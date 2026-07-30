@@ -5,7 +5,8 @@
 <h1 align="center">Buckram Studio</h1>
 
 <p align="center">
-  <em>Novel writing on Cursor — control continuity, pacing, and revisions without pasting your manuscript into chat.</em>
+  <strong>Stop letting AI give your protagonist amnesia in Chapter 18.</strong><br />
+  <em>A novel-writing studio for Cursor — control continuity, pacing, and multi-pass revisions without pasting your manuscript into chat.</em>
 </p>
 
 <p align="center">
@@ -17,9 +18,18 @@
   <img alt="Platform: Cursor" src="https://img.shields.io/badge/platform-Cursor-black" />
 </p>
 
-> **Will your hero still be the same person in Chapter 18?**
+---
 
-You're not buying better AI. You're buying **control** — over continuity, pacing, emotional progression, and safe revisions — so a long novel stays coherent even when each chapter starts from a cold chat. Buckram Studio encodes the planning discipline experienced novelists already use, then lets AI execute it consistently against plain Markdown on your disk: story bible, outlines, drafts, and editorial passes that don't live inside a disposable prompt.
+### You don't need a better model. You need a studio.
+
+Stop writing an 80,000-word book inside a single disposable prompt window.
+
+Most AI writing tools are prompt wrappers. When the chat fills up, the story softens into generic prose, plot holes, and forgotten arcs. Buckram Studio puts novelist planning discipline on disk — story bible, Cast, scene plans, and editorial passes tied to plain Markdown on your machine — so each chapter can start from a cold chat without the book falling apart.
+
+- **No prompt-pasting marathon** — Briefings feed Cursor Agent only what this chapter needs.
+- **Continuity that holds** — Cast voice, world rules, and open threads stay available chapter after chapter.
+- **Test before you burn** — Try multi-pass edits on a sandbox sample before they touch the real manuscript.
+- **Your files, always** — Plain Markdown on your disk. Uninstall tomorrow; keep every byte.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/media/readme/hero.gif" alt="Buckram Studio in action" width="820" />
@@ -27,53 +37,92 @@ You're not buying better AI. You're buying **control** — over continuity, paci
 
 _Buckram Studio is for writers, not engineers._
 
----
+### An open park, not another walled garden
 
-## Where to find it after install
+Most novel-writing apps push a rigid assembly line: fill out dozens of character forms, generate an outline, then click your way to a chapter. Step off their track and the tool fights you.
 
-Buckram Studio opens in the **Explorer** sidebar as a panel labeled **Buckram Studio**. It can sit near the **bottom** of the Explorer, under panels like Outline and Timeline, so it's easy to miss on first launch.
+Buckram is structured terrain you can walk, sprint, or re-pave.
 
-If you don't see it:
-
-1. Open the **Explorer** — click the top file icon in the left Activity Bar, or press `Ctrl+Shift+E` (`Cmd+Shift+E` on macOS).
-2. **Scroll to the bottom** of the Explorer and expand the **Buckram Studio** panel.
-3. To keep it handy, **drag its header up** toward the top of the sidebar, or right-click a panel header to reorder the panels.
-
-Still can't find it? Open the Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`) and run **Buckram Studio: Show** to reveal and focus the Work Tree.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/media/readme/work-tree.png" alt="Work Tree in the Explorer sidebar" width="420" />
-</p>
+- **Start anywhere** — Jump into Chapter 7, backfill the world bible later, begin with the Book Idea Consultant, or bring a manuscript you already have and let Buckram scaffold the first pass.
+- **Bring your own architecture** — Shape the Work Tree to your outline style, tune Co-writer for your genre, adjust craft guardrails for the quirks you actually want on the page.
+- **Zero lock-in** — Everything is human-readable Markdown on your disk. Leave tomorrow and you take every word, note, and outline with you — no special export ritual required.
 
 ---
 
-## Why writers want it
+## Why authors switch
 
-- **Same person in Chapter 18** — Your **Cast**, world bible, and continuity notes feed every **Chat about** and draft, so characters don't reinvent themselves mid-book.
-- **Pacing you intended** — Chapter outlines, Director notes, and Co-writer keep the slow burn slow and the pressure where you put it — not whatever the model invents this turn.
-- **Rewrite without breaking the book** — Change a chapter on disk; try editorial passes on a test sample first. Real drafts change only when you choose to run them for real.
-- **Stop pasting into blank chat** — No more dumping 60,000 words into a blank chat window. **Chat about** opens Cursor Agent with the right pages already attached, and briefings pull only what this chapter needs.
-- **Your files, always** — Plain Markdown manuscript on _your_ disk. Uninstall or leave Premium and every file stays readable and yours.
+| The usual chat trap | The Buckram Studio way |
+| --- | --- |
+| Dumping tens of thousands of words into one chat until the model drifts. | **Chapter briefings** (Eco / Standard / Pro) send only what the current scene needs. |
+| Characters changing personality and motive mid-book. | **Cast & canon on disk** keep voice and world rules in every **Chat about** and draft. |
+| Generic pacing and tired stock phrases. | **Director notes & craft guardrails** — you set the beats; stock phrasing gets flagged. |
+| Book locked inside a web app you don't control. | **Pure Markdown in your editor** — leave Premium or uninstall and keep the manuscript. |
 
-Most AI writing tools are prompt wrappers. When the model changes, their edge shrinks. Buckram's edge is the **workflow**: story bible and plans on disk, chats that attach the right pages, and editorial passes you prove before they touch real chapters. You're not buying better autocomplete — you're buying a studio that keeps a long novel coherent chapter by chapter from a cold start.
+You're not buying better autocomplete. You're buying **control** over continuity, pacing, emotional progression, and safe revisions — a workflow that keeps a long novel coherent chapter by chapter.
 
 ---
 
 ## What you get
 
+### Continuity
+
+- **Cast & world** — Character roster with voice, world bible, places, research, glossary and motifs, clue tracking, relationships, and who's off-stage.
+- **Continuity checks** — See who vanished from the book, which clues are still unpaid, and which threads went cold — bookkeeping that doesn't burn chat tokens.
+- **Context compression** — Eco / Standard / Pro briefings so the model gets this chapter's needs, not the whole series bible every click.
+
+### Drafting
+
 - **Work Tree** — Your book as stages: canon, chapters, editorial work, export, and help. One clear next action per row.
-- **Get Started** — Book Idea Consultant (brainstorm into a create-ready brief), create a series or standalone book, **Import existing work** (Markdown, DOCX, EPUB, Scrivener), or try a preset demo safely.
-- **Canon & world-building** — **Cast** roster with character voice, world bible, places, research, glossary and motifs, clue tracking, relationships, and who's off-stage.
-- **Co-writer** — Set a career-author peer stance for outline and chapter chats: pick a genre preset (or Custom…), then refine with **Chat about my co-writer…**. Lives under **Settings → Assistants → Co-writer**.
-- **Assistants** — Writing, editing, and character-voice helpers you manage in **Assistant Setup** under **Settings → Assistants**.
-- **Plan rooms & Director** — Chapter outlines with scene cards, per-scene plan rooms, Director notes for pacing and focus, and expand-beats-into-prose when you're ready to draft.
-- **Chat about** — Opens Cursor Agent chat with the right files already attached; you type first after **"Your turn."** Bigger runs end with **"Press Enter to start"** and never spend without confirmation.
-- **Pipelines, translations & batches** — Build multi-pass editorial packs; prove them in the **Testing** sandbox (sample → test → compare / Chat about results); stitch packs into batches and run across chapters with **execution plans** when you are ready (Premium for production).
-- **Continuity checks** — See who vanished from the book, which clues still unpaid, and which threads went cold — useful bookkeeping that doesn't burn chat tokens.
-- **Context compression** — Eco / Standard / Pro briefings so the model gets what this chapter needs instead of the whole series bible every click.
-- **Craft guardrails** — Catch stock AI phrasing and tired gestures; keep each character's voice yours, not a generic one.
+- **Get Started** — Book Idea Consultant, create a series or standalone book, **Import existing work** (Markdown, DOCX, EPUB, Scrivener), or try a preset demo safely.
+- **Co-writer** — Career-author peer stance for outline and chapter chats: genre preset (or Custom…), then refine with **Chat about my co-writer…** (**Settings → Assistants → Co-writer**).
+- **Plan rooms & Director** — Chapter outlines with scene cards, per-scene plan rooms, Director notes for pacing and focus, expand-beats-into-prose when you're ready to draft.
+- **Chat about** — Opens Cursor Agent with the right files attached; you type first after **"Your turn."** Bigger runs end with **"Press Enter to start"** and never spend without confirmation.
+- **Assistants** — Writing, editing, and character-voice helpers in **Assistant Setup** (**Settings → Assistants**).
+
+### Editing
+
+- **Pipelines, translations & batches** — Build multi-pass editorial packs; prove them in **Testing** (sample → test → compare / Chat about results); stitch into batches and run across chapters with **execution plans** when ready (Premium for production).
+- **Craft guardrails** — Catch stock AI phrasing and tired gestures; keep each character's voice yours.
 - **Export** — KDP-ready DOCX, Markdown, PDF, and EPUB out of the box (no Pandoc required).
-- **Documentation** — In-extension help with a **?** on every studio page, so you can learn features without leaving Cursor.
+
+### Ownership & help
+
+- **Documentation** — In-extension help with a **?** on every studio page.
+- **Local files** — Manuscript and canon stay as readable files on your disk, Free or Premium.
+
+---
+
+## How writers use Buckram
+
+### The epic fantasy builder (high-continuity worldbuilding)
+
+> *"Four POVs, a pile of magic rules, and a twist planted in Chapter 4."*
+
+Uses **Cast** and the **world bible** to lock canon. **Context compression** (Eco / Standard / Pro) pulls only the magic rules and people this chapter needs — so Chapter 30 still agrees with Chapter 1 without pasting the whole series into chat.
+
+### The discovery writer (draft first, structure later)
+
+> *"I don't know the ending yet. I want prose and a sharp sounding board."*
+
+Skips the setup rooms. Opens **Chat about** on a chapter file, riffs with **Co-writer**, then runs **continuity checks** after the draft to catch plot holes and missing people.
+
+### The mystery / thriller architect (clues and pacing)
+
+> *"If the reader learns the killer too early, the book is ruined."*
+
+Uses **Director** notes for scene-by-scene tension, and **clue tracking** so red herrings and payoffs stay honest through export.
+
+### The self-publisher on deadline (polish and ship)
+
+> *"Rough manuscript on disk. Clean the stock phrasing. Publish."*
+
+**Imports** Markdown or DOCX, uses **craft guardrails** for repetitive gestures and generic AI phrasing, proves multi-pass polish in the **Testing** sandbox, then exports **KDP-ready DOCX and EPUB**.
+
+### The writer with a manuscript already (import, then make it yours)
+
+> *"I don't need another blank project. I need my book inside a studio that won't forget it."*
+
+**Import existing work** (Markdown, DOCX, EPUB, or Scrivener). Buckram can pull chapters and optionally bootstrap a first-pass canon — then you talk with specialists and **Chat about** Cast, world, and Co-writer until the setup matches how *you* write. Fast scaffold; your judgment stays in charge.
 
 ---
 
@@ -110,15 +159,33 @@ Most AI writing tools are prompt wrappers. When the model changes, their edge sh
 
 Full getting-started and feature help live inside the extension under **Work Tree → Documentation**.
 
+### Where to find it after install
+
+Buckram Studio opens in the **Explorer** sidebar as a panel labeled **Buckram Studio**. It can sit near the **bottom** of the Explorer, under panels like Outline and Timeline, so it's easy to miss on first launch.
+
+If you don't see it:
+
+1. Open the **Explorer** — click the top file icon in the left Activity Bar, or press `Ctrl+Shift+E` (`Cmd+Shift+E` on macOS).
+2. **Scroll to the bottom** of the Explorer and expand the **Buckram Studio** panel.
+3. To keep it handy, **drag its header up** toward the top of the sidebar, or right-click a panel header to reorder the panels.
+
+Still can't find it? Open the Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`) and run **Buckram Studio: Show** to reveal and focus the Work Tree.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/media/readme/work-tree.png" alt="Work Tree in the Explorer sidebar" width="420" />
+</p>
+
 ---
 
 ## Free & Premium
 
-Buckram charges for **automation scale, not access to your manuscript**. Your book stays as plain Markdown on your disk regardless of tier — files are never locked, deleted, or held hostage.
+We charge for **workflow automation scale**, not your words and not a middleman markup on chat tokens. Use your own Cursor setup (**bring your own key**), keep full ownership of every file, and write on disk forever.
+
+Your book stays as plain Markdown regardless of tier — files are never locked, deleted, or held hostage.
 
 - **Free** — Work Tree, Chat about, canon, and craft guardrails; unlimited pipeline authoring; the **Testing** sandbox (max 5 starts/hour per pipeline or test batch, then a 3-hour cooldown); a **50,000-word** cap on manuscript drafts; export up to **2 chapters** per run (DOCX, Markdown, PDF, EPUB).
 - **Premium** — Chapter and batch production runs, execution plans, full-book export, unlimited words, and unlimited Testing.
-- **Bring your own key** — Chat and drafting run through your Cursor Agent, so you pay your provider directly. Buckram never bills for tokens or meters your writing.
+- **Bring your own key** — Chat and drafting run through your Cursor Agent. You pay your provider directly; Buckram never bills for tokens or meters your writing.
 
 ---
 
