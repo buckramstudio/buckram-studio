@@ -35,7 +35,7 @@ Most AI writing tools are prompt wrappers. When the chat fills up, the story sof
   <img src="https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/media/readme/hero.gif" alt="Buckram Studio in action" width="820" />
 </p>
 
-_Buckram Studio is for writers, not engineers._
+_Buckram Studio is for writers, not engineers_ — including first novels. Structure and guidance beat a blank chat window when you are still learning the craft.
 
 ### An open park, not another walled garden
 
