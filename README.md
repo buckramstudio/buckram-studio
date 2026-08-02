@@ -130,15 +130,15 @@ You're not buying better autocomplete. You're buying **control** over continuity
 
 ## Getting started
 
-1. Open **Cursor**.
+1. Open **Cursor** in **IDE** mode (Editor window). Recent Cursor builds may open an Agents-only window first — switch with **File → New Editor Window** or the **IDE** control so the Activity Bar and extensions are available.
 2. Install **Buckram Studio** from the Extensions view (Cursor uses [Open VSX](https://open-vsx.org/extension/buckram/buckram-studio)).
-3. Open a folder for your series or book, then open the **Buckram Studio** panel in the **Explorer** sidebar. It often sits near the **bottom** (under Outline / Timeline) — scroll down and expand it, or drag its header higher. Can't find it? Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`) → **Buckram Studio: Show**.
+3. Open a folder for your series or book. Open **Buckram Studio** from the **Activity Bar** — look for the bold **B** icon — to show the **Work Tree**. (In Cursor the Activity Bar is often along the top or bottom.) Still looking under **Explorer**? Expand **Buckram Studio** there and click **Open Buckram Studio**. Or Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`) → **Buckram Studio: Open Panel**.
 4. Open **Get Started** and pick your path: **Book Idea Consultant**, create a series or book, **Import existing work**, or **Import world from prose** (setting and Cast only — no chapter drafts). Then follow the guided setup tour.
 
 Full getting-started and feature help live inside the extension under **Work Tree → Documentation**.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/media/readme/work-tree.png" alt="Work Tree in the Explorer sidebar" width="420" />
+  <img src="https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/media/readme/work-tree.png" alt="Work Tree from the Buckram Studio Activity Bar icon" width="420" />
 </p>
 
 ---
@@ -159,7 +159,7 @@ Your book stays as plain Markdown regardless of tier — files are never locked,
 
 ## Requirements
 
-- **Cursor** — **Chat about** and chapter/editorial runs use Cursor's Agent chat (not available in plain VS Code).
+- **Cursor** (IDE / Editor window) — extensions need Cursor’s IDE layout, not an Agents-only window. **Chat about** and chapter/editorial runs use Cursor's Agent chat (not available in plain VS Code).
 - **Zero setup for the basics** — A marketplace install works with **no Python, pip, LibreOffice, or Pandoc**. Work Tree, Chat about, bundled pipelines, and DOCX / Markdown / PDF / EPUB export all run inside the extension.
 - **Optional (enhanced)** — DeepL translation packs use a **DeepL API key** (via Settings → BYOK). Pandoc remains an optional EPUB fallback only. Neither blocks core features.
 
@@ -187,11 +187,15 @@ Chat models only "see" a fixed desk each turn. Chapter work piles the _same_ pag
 
 ## Known limitations
 
-- Requires Cursor; plain VS Code lacks the Agent chat that **Chat about** and chapter/editorial runs depend on.
+- Requires Cursor in **IDE** mode (Editor window); an Agents-only window will not show the Activity Bar or extensions. Plain VS Code lacks the Agent chat that **Chat about** and chapter/editorial runs depend on.
 - DeepL translation is optional enhanced (API key via BYOK). Core export is DOCX, Markdown, PDF, and EPUB out of the box; Pandoc is an optional EPUB fallback only.
 - On the Free tier, chapter and batch **production** runs are Premium; use the **Testing** sandbox for safe runs.
 
 ---
+
+## Community
+
+Questions, feedback, or just talking shop with other writers: join the [Buckram Studio Discord](https://discord.gg/Vgepx2ekYh).
 
 ## License
 
