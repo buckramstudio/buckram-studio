@@ -16,6 +16,8 @@
     <img alt="Open VSX Downloads" src="https://img.shields.io/open-vsx/dt/buckram/buckram-studio" /></a>
   <img alt="License: Proprietary" src="https://img.shields.io/badge/license-Proprietary-blue" />
   <img alt="Platform: Cursor" src="https://img.shields.io/badge/platform-Cursor-black" />
+  <a href="https://discord.gg/Vgepx2ekYh">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-writers-5865F2?logo=discord&logoColor=white" /></a>
 </p>
 
 ---
