@@ -1,0 +1,11 @@
+id: genre-near-future-sf
+title: Near-future / mundane SF
+summary: "Engine: tomorrow’s tech and systems in a recognizable world —
+  extrapolation from present science and society; usually Earth or Solar System;
+  restraint about FTL, galactic empires, and easy aliens so estrangement hits
+  closer to home."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

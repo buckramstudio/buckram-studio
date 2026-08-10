@@ -1,0 +1,10 @@
+id: genre-time-travel
+title: Time travel
+summary: "Engine: **cost and logic of moving in time** — paradox,
+  predestination, alternate timelines, or tourist/war uses of the past/future;
+  the mechanism’s rules are the novum that generates plot."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

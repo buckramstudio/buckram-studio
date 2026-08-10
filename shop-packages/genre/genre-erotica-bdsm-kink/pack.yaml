@@ -1,0 +1,11 @@
+id: genre-erotica-bdsm-kink
+title: BDSM / kink erotica (incl. D/s)
+summary: "Engine: **negotiated power exchange as the story’s trust ladder** —
+  dominance/submission, bondage, discipline, sadomasochism, or other kink as the
+  sexual journey’s spine. Market often files under erotica *or* erotic romance;
+  structure (HEA?) decides."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

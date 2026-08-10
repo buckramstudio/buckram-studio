@@ -1,0 +1,10 @@
+id: genre-erotica-fantasy
+title: Fantasy erotica
+summary: "Engine: **secondary-world or magic-system constraints on desire** —
+  courts, curses, magical binding, nonhuman customs — with sexual journey
+  primary (erotica) or HEA+sex load-bearing (erotic romance / romantasy-heat)."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

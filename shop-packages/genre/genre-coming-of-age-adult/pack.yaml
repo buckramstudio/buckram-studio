@@ -1,0 +1,10 @@
+id: genre-coming-of-age-adult
+title: Coming-of-age (adult)
+summary: "Engine: identity formation after (or beside) the YA shelf — first
+  career, migration, divorce, sobriety, art vocation, late diagnosis; the self
+  re-authored under adult consequences."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

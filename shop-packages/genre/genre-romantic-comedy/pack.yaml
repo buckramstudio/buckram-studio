@@ -1,0 +1,10 @@
+id: genre-romantic-comedy
+title: Romantic comedy (novel)
+summary: "Engine: meet-cute → comic obstacles → earned HEA — humor is
+  load-bearing, not garnish; the laugh engine and the romance engine must share
+  the same plot spine."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

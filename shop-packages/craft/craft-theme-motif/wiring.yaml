@@ -1,0 +1,23 @@
+wiring_version: 1
+assistants:
+  - writingAssistant
+  - outline
+  - manuscript
+  - genreFormula
+jobs:
+  - chapter.draft
+  - chapter.outline.discuss
+entry:
+  - craft-theme-motif.md
+mode: entry
+tree:
+  - id: core
+    label: Core
+    files:
+      - craft-theme-motif.md
+  - id: companions
+    label: Companions
+    default: true
+    files:
+      - builder-theme.md
+      - craft-symbolism-imagery.md

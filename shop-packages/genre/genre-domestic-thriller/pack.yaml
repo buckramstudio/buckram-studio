@@ -1,0 +1,9 @@
+id: genre-domestic-thriller
+title: Domestic thriller / intimate psychological suspense
+summary: "Engine: danger already lives in the house. Threat is intimate —
+  spouse, neighbor, family secret — not a ticking bomb downtown."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

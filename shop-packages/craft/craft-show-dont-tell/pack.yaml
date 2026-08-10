@@ -1,0 +1,10 @@
+id: craft-show-dont-tell
+title: Show, don’t tell
+summary: "Traditional craft: when explanation steals experience. AI “humanize”
+  lists are related but separate — see / . Filter words / sensory immersion: .
+  Film-rule misuse vs prose interiority: ."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

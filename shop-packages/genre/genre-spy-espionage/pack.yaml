@@ -1,0 +1,10 @@
+id: genre-spy-espionage
+title: Spy / espionage fiction
+summary: "Engine: secrecy, tradecraft-as-behavior, betrayal, institutional
+  friction. Tension from what is known, denied, and compromised — not primarily
+  from open force."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

@@ -1,0 +1,9 @@
+id: craft-character-arcs
+title: "Character arcs: Lie, Truth, Want, Need, Ghost"
+summary: "Weiland five-arc system + shared ingredients. md` (% map).
+  Wound→shield→need dramatization: . Series-scale arcs: ."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

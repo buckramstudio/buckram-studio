@@ -1,0 +1,9 @@
+id: craft-flashbacks-prologues
+title: Flashbacks and prologues
+summary: Specialized backstory delivery — when they work, failure modes,
+  alternatives. md`, , , .
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

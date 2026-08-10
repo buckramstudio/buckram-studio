@@ -1,0 +1,10 @@
+id: genre-pi-detective
+title: PI / lone detective
+summary: "Engine: a private investigator (or functional loner) works a case
+  outside institutional power — personal code vs corrupt world. Case + cost to
+  the sleuth."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

@@ -1,0 +1,9 @@
+id: genre-urban-fantasy
+title: Urban fantasy
+summary: "Engine: **familiar city + secret (or newly visible) supernatural** —
+  friction between rent, phones, and the uncanny."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

@@ -1,0 +1,10 @@
+id: genre-war
+title: War fiction / military / wartime historical
+summary: "Engine: organized violence and its human systems — combat unit,
+  command, home front, occupation, aftermath; loyalty, fear, moral injury, and
+  mission pressure; period accuracy serves lived cost, not only hardware."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

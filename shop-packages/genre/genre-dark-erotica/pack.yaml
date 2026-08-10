@@ -1,0 +1,10 @@
+id: genre-dark-erotica
+title: Dark erotica (vs dark romance)
+summary: "Engine: sexual/moral darkness as the experiential core — discomfort
+  and arousal coexist; romantic HEA is **not** required. Distinct from dark
+  romance, which still owes central love + optimistic couple landing."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

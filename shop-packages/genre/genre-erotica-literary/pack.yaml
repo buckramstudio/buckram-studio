@@ -1,0 +1,10 @@
+id: genre-erotica-literary
+title: Literary / transgressive erotica
+summary: "Engine: **arousal braided with language, theme, or social critique** —
+  the sexual journey still primary, but prose ambition and idea-pressure
+  distinguish it from commercial heat-first erotica."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

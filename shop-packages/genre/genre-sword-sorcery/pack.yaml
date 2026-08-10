@@ -1,0 +1,11 @@
+id: genre-sword-sorcery
+title: Sword & sorcery
+summary: "Engine: **personal-scale adventure with pulp velocity** —
+  sword-wielding (anti)heroes in invented or legendary milieux where magic
+  works; situational conflicts and survival/gain more than world-saving
+  good-vs-evil crusades."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

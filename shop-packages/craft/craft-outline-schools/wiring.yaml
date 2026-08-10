@@ -1,0 +1,23 @@
+wiring_version: 1
+assistants:
+  - writingAssistant
+  - outline
+  - manuscript
+  - genreFormula
+jobs:
+  - chapter.draft
+  - chapter.outline.discuss
+entry:
+  - craft-outline-schools.md
+mode: entry
+tree:
+  - id: core
+    label: Core
+    files:
+      - craft-outline-schools.md
+  - id: companions
+    label: Companions
+    default: true
+    files:
+      - builder-outline.md
+      - craft-snowflake.md

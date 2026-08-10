@@ -1,0 +1,10 @@
+id: genre-adventure
+title: Adventure (commercial quest / journey)
+summary: "Engine: leave the familiar world, cross hostile ground, seize a goal —
+  and return changed. Spectacle serves a core question, not only a map of set
+  pieces."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

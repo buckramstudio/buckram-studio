@@ -1,0 +1,10 @@
+id: genre-experimental-postmodern
+title: Experimental / postmodern fiction
+summary: "Engine: form as argument — structure, typography, metafiction,
+  fragmentation, or rule-games carry meaning; the book teaches you how to read
+  it; realism is optional and often sabotaged on purpose."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

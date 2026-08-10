@@ -1,0 +1,10 @@
+id: genre-regency-romance
+title: Regency romance
+summary: "Engine: Austen-adjacent manners market — Season, reputation, marriage
+  mart, and wit as courtship weapons; period constraint is the romance obstacle
+  course."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

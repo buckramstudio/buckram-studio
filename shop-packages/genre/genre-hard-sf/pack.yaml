@@ -1,0 +1,11 @@
+id: genre-hard-sf
+title: Hard science fiction
+summary: "Engine: **science/engineering constraint as plot pressure** — known or
+  carefully extrapolated science is the backbone; problems solvable (or
+  tragically insoluble) *within* those rules; enabling miracles minimized or
+  paid for."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

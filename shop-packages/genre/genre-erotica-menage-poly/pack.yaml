@@ -1,0 +1,9 @@
+id: genre-erotica-menage-poly
+title: Ménage / poly erotica
+summary: "Engine: **multi-partner desire where ethics, logistics, and group
+  chemistry are the plot** — not “extra body in the bed” decoration."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

@@ -1,0 +1,9 @@
+id: craft-antihero
+title: Antihero craft
+summary: Sympathy and agency for morally illegible leads — without collapsing
+  into cartoon villain or secretly-pure hero.
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

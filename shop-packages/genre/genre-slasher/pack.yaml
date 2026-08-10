@@ -1,0 +1,9 @@
+id: genre-slasher
+title: Slasher / survival horror
+summary: "Engine: predatory pursuit. Body count vs survivor agency. The threat
+  is (or was) human — walks among us."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

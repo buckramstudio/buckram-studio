@@ -1,0 +1,8 @@
+id: craft-stakes-escalation
+title: Stakes and escalation
+summary: What failure costs — personal, not only spectacular.
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

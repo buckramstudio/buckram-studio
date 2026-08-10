@@ -1,0 +1,11 @@
+id: genre-chick-lit
+title: Chick lit (legacy shelf)
+summary: "Engine: voice-forward contemporary comedy of errors around work,
+  friendship, dating, and self-definition; lighthearted / witty tone; urban(ish)
+  heroine navigating too many choices. Market label largely retired as sexist —
+  craft residue remains useful for comps and tone."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

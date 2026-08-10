@@ -1,0 +1,11 @@
+id: genre-space-opera
+title: Space opera
+summary: "Engine: **epic scale in space** — FTL (or equivalent), large stakes
+  (war, empire, civilization), adventure and character drama against a vast
+  backdrop; wonder + momentum more than lab rigor (unless “new space opera”
+  hybrid)."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

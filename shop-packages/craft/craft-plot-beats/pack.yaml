@@ -1,0 +1,9 @@
+id: craft-plot-beats
+title: Plot beats
+summary: "Commercial beat map: eight plot dots + act quarters that keep Act One
+  and the ending from collapsing into one lump."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

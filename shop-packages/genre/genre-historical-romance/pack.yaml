@@ -1,0 +1,10 @@
+id: genre-historical-romance
+title: Historical romance (HR)
+summary: "Engine: period constraint as courtship pressure — manners, law, class,
+  reputation, travel speed, and marriage-as-contract force couple choices;
+  research is part of the promise."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

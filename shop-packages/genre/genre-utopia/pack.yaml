@@ -1,0 +1,10 @@
+id: genre-utopia
+title: Utopia / ambiguous utopia
+summary: "Engine: ideal (or would-be ideal) society under stress-test — the
+  thought experiment is the social design; plot proves what the utopia costs,
+  whom it excludes, or how it holds when desire and difference appear."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

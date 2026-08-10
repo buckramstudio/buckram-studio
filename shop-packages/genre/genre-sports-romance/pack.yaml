@@ -1,0 +1,9 @@
+id: genre-sports-romance
+title: Sports romance
+summary: "Engine: athlete / team / public-performance milieu pressures the
+  central love story; remove the game and the romance should weaken."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

@@ -1,0 +1,10 @@
+id: genre-biographical-historical
+title: Biographical historical fiction
+summary: "Engine: a real figure’s life-arc (or a decisive span) structures the
+  novel; invention fills gaps but must respect documented spine; the drama is
+  constraint of the known + earned speculation."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

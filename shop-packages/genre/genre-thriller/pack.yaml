@@ -1,0 +1,10 @@
+id: genre-thriller
+title: Thriller / suspense
+summary: "Engine: pacing + escalating stakes; reader feels the clock. Mood =
+  apprehension, anticipation, anxiety — if it doesn’t thrill, it isn’t doing the
+  job."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

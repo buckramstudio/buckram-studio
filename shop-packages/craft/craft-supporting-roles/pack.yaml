@@ -1,0 +1,9 @@
+id: craft-supporting-roles
+title: Supporting roles craft
+summary: Mentor, sidekick, foil, and other load-bearing secondaries — as jobs,
+  not Jung sticker packs.
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

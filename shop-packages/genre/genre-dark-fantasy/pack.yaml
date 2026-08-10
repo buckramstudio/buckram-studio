@@ -1,0 +1,10 @@
+id: genre-dark-fantasy
+title: Dark fantasy
+summary: "Engine: **horror-tinged fantastic** — dread, the uncanny, or aesthetic
+  terror woven into fantasy formulae; darkness as atmosphere and theme, not only
+  body count."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

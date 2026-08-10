@@ -1,0 +1,11 @@
+id: genre-new-adult
+title: New Adult (genre engine)
+summary: Protagonists roughly **18–29** navigating first independence — older-YA
+  emotional immediacy with adult agency and (often) adult heat. Category never
+  fully stabilized in Big Five shelving; craft still useful for voice, stakes,
+  and comps.
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

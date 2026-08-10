@@ -1,0 +1,12 @@
+id: craft-save-the-cat
+title: Save the Cat / beat sheet for novels
+summary: Blake Snyder’s screenwriting beat sheet (*Save the Cat!*, 2005) adapted
+  for novelists by Jessica Brody (*Save the Cat! Writes a Novel*, 2018).
+  Prescriptive % waypoints for commercial storytelling — useful for planning
+  *and* diagnosing sagging middles. Distill only; do not paste proprietary
+  worksheets wholesale.
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

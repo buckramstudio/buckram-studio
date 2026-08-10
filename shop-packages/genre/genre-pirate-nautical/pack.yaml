@@ -1,0 +1,10 @@
+id: genre-pirate-nautical
+title: Pirate / nautical adventure
+summary: "Engine: ship as society; sea as engine (weather, navigation,
+  scarcity); command, mutiny, prize, and code under pressure; horizontal world
+  of decks and vertical world of rank."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

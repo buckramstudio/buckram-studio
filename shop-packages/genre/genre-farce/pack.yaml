@@ -1,0 +1,10 @@
+id: genre-farce
+title: Farce (novel / comic mode)
+summary: "Engine: escalating misunderstanding as a timing machine; implausible
+  but rule-bound situations; physical and social doors slamming; speed toward
+  collapse/reveal."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

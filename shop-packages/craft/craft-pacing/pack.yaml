@@ -1,0 +1,9 @@
+id: craft-pacing
+title: Pacing
+summary: AI tends to resolve conflicts in the same scene they appear. Guardrails
+  for build, complication, and tempo. md` (sentence pulse), , .
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

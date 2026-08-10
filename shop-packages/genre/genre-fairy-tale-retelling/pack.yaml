@@ -1,0 +1,10 @@
+id: genre-fairy-tale-retelling
+title: Fairy-tale / mythic retelling
+summary: "Engine: recognizable source machinery + deliberate innovation angle.
+  Reader hears the old story under the new one; standalone completeness still
+  required."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

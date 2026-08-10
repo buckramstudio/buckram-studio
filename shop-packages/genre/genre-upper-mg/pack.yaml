@@ -1,0 +1,10 @@
+id: genre-upper-mg
+title: Upper middle grade (upper MG)
+summary: "Engine: older MG voice with slightly sharper stakes — still kid agency
+  and hope-forward, closer to teen complexity without full YA autonomy/heat
+  contracts."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

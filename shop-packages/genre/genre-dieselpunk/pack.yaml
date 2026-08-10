@@ -1,0 +1,10 @@
+id: genre-dieselpunk
+title: Dieselpunk
+summary: "Engine: **interwar-to-midcentury diesel / Deco retrofuture** — grease,
+  radio, airpower, and pulp modernity; optimistic “decodence” *or* war-machine
+  pessimism, depending on school."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

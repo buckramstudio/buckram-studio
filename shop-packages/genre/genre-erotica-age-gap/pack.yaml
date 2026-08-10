@@ -1,0 +1,10 @@
+id: genre-erotica-age-gap
+title: Age-gap erotica (adult–adult only)
+summary: "Engine: **experience, life-stage, and power asymmetry between
+  consenting adults** as erotic and emotional fuel — not a “mentor the young”
+  illegal frame."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

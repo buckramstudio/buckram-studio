@@ -1,0 +1,10 @@
+id: genre-grimdark
+title: Grimdark
+summary: "Engine: agency under rotten systems — morally gray people forced to
+  choose in a world where right action is costly, compromised, or seemingly
+  futile; darkness with argument, not wallpaper."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

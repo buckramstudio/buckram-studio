@@ -1,0 +1,11 @@
+id: genre-mythic-fantasy
+title: Mythic fantasy / mythic fiction
+summary: "Engine: gods, folklore patterns, and living myth as system — tropes of
+  legend operate with felt inevitability or ritual logic; stories rewrite,
+  inhabit, or punk the old patterns rather than only tour a secondary-world
+  magic system."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

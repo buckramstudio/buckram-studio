@@ -1,0 +1,9 @@
+id: craft-foreign-language-on-page
+title: Foreign language and code-switch on the page
+summary: How multilingual speech appears in English-dominant prose — inclusion,
+  exclusion, intimacy, threat — without a language exam.
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

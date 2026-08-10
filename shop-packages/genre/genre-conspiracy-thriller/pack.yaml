@@ -1,0 +1,10 @@
+id: genre-conspiracy-thriller
+title: Conspiracy thriller
+summary: "Engine: a hidden system (state, corp, cult, cabal) manipulates the
+  visible world; protagonist must prove, survive, or escape the web; paranoia is
+  a feature when earned by pattern, a bug when unmotivated."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

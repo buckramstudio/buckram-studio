@@ -1,0 +1,9 @@
+id: genre-middle-grade
+title: Middle grade craft
+summary: "Fiction for ~8–12 (core often 9–12): wonder, friendship/family
+  engines, kid agency, hope — not teen YA shelved young."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

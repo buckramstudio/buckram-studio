@@ -1,0 +1,11 @@
+id: genre-cozy-fantasy
+title: Cozy fantasy
+summary: "Engine: **comfort, community, and low-to-moderate stakes in a
+  fantastic world** — slice-of-life warmth, found family, craft/food/place love;
+  hope and kindness as the emotional contract (conflict allowed on a dial, not
+  erased)."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

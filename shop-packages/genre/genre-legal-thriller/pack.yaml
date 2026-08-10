@@ -1,0 +1,10 @@
+id: genre-legal-thriller
+title: Legal thriller
+summary: "Engine: strategy inside a recognized process. High stakes + rules (or
+  the hiding of broken rules). Not a gunfight — a chess match with liberty,
+  reputation, or life on the line."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

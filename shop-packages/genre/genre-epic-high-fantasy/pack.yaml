@@ -1,0 +1,10 @@
+id: genre-epic-high-fantasy
+title: Epic / high fantasy
+summary: "Engine: **secondary world + scale** — invented setting with stakes
+  that threaten nations, peoples, or the world’s order; wonder paid for with
+  consistency."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

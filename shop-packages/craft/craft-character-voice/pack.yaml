@@ -1,0 +1,9 @@
+id: craft-character-voice
+title: Character voice
+summary: Keep cast members from sharing one formal default voice — each speaker
+  should be identifiable by how they talk.
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

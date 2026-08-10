@@ -1,0 +1,10 @@
+id: genre-first-contact
+title: First contact
+summary: "Engine: encounter with the alien other — detection, communication,
+  ethics, and consequence when sapient species meet; the novum is the otherness
+  and the interface, not only the spaceship."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

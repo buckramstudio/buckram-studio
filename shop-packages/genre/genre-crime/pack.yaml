@@ -1,0 +1,10 @@
+id: genre-crime
+title: Crime fiction (literary / commercial)
+summary: "Engine: transgression and its aftermath — caper, heist, underworld, or
+  moral fallout; mystery puzzle optional. Focus is what crime *does* to people
+  and systems, not only who-dunnit."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

@@ -1,0 +1,10 @@
+id: genre-erotica-contemporary
+title: Contemporary erotica
+summary: "Engine: **present-day desire under recognizable modern pressure** —
+  phones, work, apps, reputation, housing — with sexual journey as spine
+  (erotica) or load-bearing path to HEA (erotic romance)."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

@@ -1,0 +1,8 @@
+id: craft-moral-dilemma
+title: Moral dilemma dramatization
+summary: Ethical forks under pressure — dramatized, not sermonized.
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

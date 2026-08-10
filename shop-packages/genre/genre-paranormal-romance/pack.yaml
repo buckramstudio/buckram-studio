@@ -1,0 +1,10 @@
+id: genre-paranormal-romance
+title: Paranormal romance (PNR)
+summary: "Engine: supernatural rules that complicate courtship — immortality,
+  mating bonds, secrecy, predator nature — while central love + HEA/HFN still
+  win."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

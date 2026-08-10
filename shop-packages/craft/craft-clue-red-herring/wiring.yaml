@@ -1,0 +1,17 @@
+wiring_version: 1
+assistants:
+  - writingAssistant
+  - outline
+  - manuscript
+  - genreFormula
+jobs:
+  - chapter.draft
+  - chapter.outline.discuss
+entry:
+  - craft-clue-red-herring.md
+mode: entry
+tree:
+  - id: core
+    label: Core
+    files:
+      - craft-clue-red-herring.md

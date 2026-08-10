@@ -1,0 +1,10 @@
+id: genre-action-thriller
+title: Action thriller
+summary: "Engine: set-piece survival under a clock; chase geography and physical
+  competence drive the page; emotional stakes hitch to each ordeal so spectacle
+  isn’t empty."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

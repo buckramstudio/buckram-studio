@@ -1,0 +1,10 @@
+id: genre-ya-hybrids
+title: YA genre hybrids (romance / fantasy / SF / thriller)
+summary: "Engine: YA age-band contract + an adult genre engine —
+  voice/agency/stakes of YA stay primary; the co-engine still pays its
+  obligatory moments."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

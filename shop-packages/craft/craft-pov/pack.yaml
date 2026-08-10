@@ -1,0 +1,9 @@
+id: craft-pov
+title: Point of view
+summary: "Person, access, and trust. Narrative sound/distance/FID: . Dialogue
+  voice: . Device catalog (incl. short unreliable note): ."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

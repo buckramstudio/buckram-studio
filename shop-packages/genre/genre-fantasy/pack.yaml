@@ -1,0 +1,9 @@
+id: genre-fantasy
+title: Fantasy
+summary: "Engine: the world and its rules (especially magic) — wonder paid for
+  with consistency."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

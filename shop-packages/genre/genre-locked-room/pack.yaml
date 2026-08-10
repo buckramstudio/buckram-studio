@@ -1,0 +1,9 @@
+id: genre-locked-room
+title: Locked-room / impossible crime
+summary: "Engine: the crime appears physically impossible; the spectacle is
+  logic. Reader wants the “how” as much as the “who.”"
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

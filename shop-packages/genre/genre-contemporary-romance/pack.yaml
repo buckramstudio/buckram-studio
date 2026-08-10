@@ -1,0 +1,10 @@
+id: genre-contemporary-romance
+title: Contemporary romance (CR)
+summary: "Engine: present-day love under recognizable modern pressure — career,
+  family, phones, money, vulnerability — without supernatural or period
+  scaffolding."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

@@ -1,0 +1,10 @@
+id: genre-climate-fiction
+title: Climate fiction (cli-fi)
+summary: "Engine: **anthropogenic climate pressure as plot weather** — changed
+  or changing climate reshapes daily life, choice, and power; science-grounded
+  speculation, not generic disaster chrome."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

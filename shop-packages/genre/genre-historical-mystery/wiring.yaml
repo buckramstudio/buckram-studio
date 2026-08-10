@@ -1,0 +1,17 @@
+wiring_version: 1
+assistants:
+  - writingAssistant
+  - outline
+  - manuscript
+  - genreFormula
+jobs:
+  - chapter.draft
+  - chapter.outline.discuss
+entry:
+  - genre-historical-mystery.md
+mode: entry
+tree:
+  - id: core
+    label: Core
+    files:
+      - genre-historical-mystery.md

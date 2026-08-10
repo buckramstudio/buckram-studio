@@ -1,0 +1,8 @@
+id: craft-curiosity-info-gap
+title: Curiosity and information-gap craft
+summary: "Hunger to know — as a toolkit. Macro tension: ."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

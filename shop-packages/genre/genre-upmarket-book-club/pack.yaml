@@ -1,0 +1,10 @@
+id: genre-upmarket-book-club
+title: Upmarket / book-club fiction
+summary: "Engine: page-turning plot + carefully crafted prose + discussable
+  dilemma. Trade/publishing positioning more than a bookstore shelf label —
+  writers use it for query/comp promises."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

@@ -1,0 +1,10 @@
+id: genre-erotica-short-form
+title: Short-form erotica (shorts, anthologies, serials)
+summary: "Engine: **compressed sexual journey with complete episode payoff** —
+  heat density high; unity via theme, character change, or series hook rather
+  than sprawling subplot."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

@@ -1,0 +1,10 @@
+id: genre-romantasy
+title: Romantasy / fantasy romance
+summary: "Engine: fantasy machinery + romance machinery both load-bearing —
+  magic, courts, quests pressure trust/power/belonging; yearning pressures the
+  plot. Labels disagree; position by primary promise."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

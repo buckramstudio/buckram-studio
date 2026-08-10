@@ -1,0 +1,9 @@
+id: craft-chapter
+title: Chapter craft
+summary: "Chapter = reader-experience container; scene = story unit. md`
+  (first-page / Ch.1) and (GCD / RDD inside). Optional title chrome: ."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

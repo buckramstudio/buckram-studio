@@ -1,0 +1,10 @@
+id: genre-psychological-thriller
+title: Psychological thriller
+summary: "Engine: thrills from mind games, unstable perception, and eroded trust
+  more than spectacle; action is often suppressed; dread lives in what
+  characters believe — and whether the reader should."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

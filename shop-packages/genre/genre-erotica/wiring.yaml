@@ -1,0 +1,25 @@
+wiring_version: 1
+assistants:
+  - writingAssistant
+  - outline
+  - manuscript
+  - genreFormula
+jobs:
+  - chapter.draft
+  - chapter.outline.discuss
+entry:
+  - genre-erotica.md
+mode: entry
+tree:
+  - id: core
+    label: Core
+    files:
+      - genre-erotica.md
+  - id: companions
+    label: Companions
+    default: true
+    files:
+      - craft-erotica-style.md
+      - craft-intimacy-scene.md
+      - genre-erotic-romance.md
+      - genre-romance.md

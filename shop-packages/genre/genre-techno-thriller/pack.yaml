@@ -1,0 +1,10 @@
+id: genre-techno-thriller
+title: Techno-thriller
+summary: "Engine: **plausible near-future (or present) technology as the stakes
+  machine** — thriller pacing + exceptional technical specificity; the plot
+  turns on *how the tech actually works*."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

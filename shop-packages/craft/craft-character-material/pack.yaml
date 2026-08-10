@@ -1,0 +1,9 @@
+id: craft-character-material
+title: Character material
+summary: "Trait lists, templates, and character-craft notes. Builder fill-ins: .
+  Wound/arc deepener: , ."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

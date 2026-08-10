@@ -1,0 +1,10 @@
+id: genre-cyberpunk
+title: Cyberpunk
+summary: "Engine: **high tech / low life** — advanced cybernetics, AI, and
+  dataspheres juxtaposed with street-level precarity; megacorps (not nations) as
+  power; identity as editable body/credential."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

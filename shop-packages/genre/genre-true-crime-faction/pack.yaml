@@ -1,0 +1,10 @@
+id: genre-true-crime-faction
+title: True-crime novelization / faction
+summary: "Engine: a real case (or tightly researched real milieu) scaffolds a
+  narrative; drama shapes truth without inventing harm carelessly; ethics of
+  naming and invention are load-bearing, not afterthought."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

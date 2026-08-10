@@ -1,0 +1,8 @@
+id: craft-narrative-voice
+title: Narrative voice
+summary: Narrator’s sound, distance, and worldview — not cast dialogue voice.
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

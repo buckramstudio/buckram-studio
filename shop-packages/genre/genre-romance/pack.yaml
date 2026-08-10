@@ -1,0 +1,10 @@
+id: genre-romance
+title: Romance (genre engine)
+summary: "Market promise: a central love story + emotionally satisfying
+  optimistic ending. Couple beats → . Heat scene craft → . Erotica (distinct) →
+  . Erotic romance → ."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

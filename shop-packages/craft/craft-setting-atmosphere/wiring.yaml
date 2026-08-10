@@ -1,0 +1,23 @@
+wiring_version: 1
+assistants:
+  - writingAssistant
+  - outline
+  - manuscript
+  - genreFormula
+jobs:
+  - chapter.draft
+  - chapter.outline.discuss
+entry:
+  - craft-setting-atmosphere.md
+mode: entry
+tree:
+  - id: core
+    label: Core
+    files:
+      - craft-setting-atmosphere.md
+  - id: companions
+    label: Companions
+    default: true
+    files:
+      - builder-stage.md
+      - builder-world.md

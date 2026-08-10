@@ -1,0 +1,10 @@
+id: genre-litrpg-progression
+title: LitRPG & progression fantasy
+summary: "Engine: measurable advancement as plot — power, skills, and
+  understanding rise in ways the reader can track; in LitRPG the visible system
+  UI is part of the reading experience."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

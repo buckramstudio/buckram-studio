@@ -1,0 +1,8 @@
+id: craft-epistolary
+title: Epistolary and documents-as-narrative
+summary: Letters, emails, chats, reports, and found documents as engine — not garnish.
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

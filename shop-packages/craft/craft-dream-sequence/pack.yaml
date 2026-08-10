@@ -1,0 +1,9 @@
+id: craft-dream-sequence
+title: Dream sequences
+summary: "Sleep / vision / fever-dream as a **scene with a job** — not a surreal
+  recess. Related interrupts: . Symbol systems: ."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

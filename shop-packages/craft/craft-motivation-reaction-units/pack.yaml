@@ -1,0 +1,9 @@
+id: craft-motivation-reaction-units
+title: Motivation–Reaction Units (MRUs)
+summary: Small-scale prose cause-and-effect inside Scenes and Sequels (Dwight
+  Swain / Ingermanson).
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

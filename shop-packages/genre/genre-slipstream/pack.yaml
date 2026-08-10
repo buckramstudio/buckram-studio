@@ -1,0 +1,10 @@
+id: genre-slipstream
+title: Slipstream
+summary: "Engine: cognitive dissonance / “fiction of strangeness” — genre
+  furniture and literary technique bleed; the familiar made strange (or reverse)
+  without full SF/F market contract."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

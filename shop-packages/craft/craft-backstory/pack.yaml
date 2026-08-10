@@ -1,0 +1,8 @@
+id: craft-backstory
+title: Backstory craft
+summary: When/how the past lands on the page — Ghost/wound without dump.
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

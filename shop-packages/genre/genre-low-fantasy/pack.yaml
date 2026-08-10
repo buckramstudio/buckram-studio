@@ -1,0 +1,10 @@
+id: genre-low-fantasy
+title: Low fantasy
+summary: "Engine: fantastic intrusion into a recognizable (or realist-scoped)
+  world — magic is rare, disruptive, or psychologically ambiguous; “low” names
+  familiarity of the world, not quality."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

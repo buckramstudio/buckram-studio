@@ -1,0 +1,10 @@
+id: genre-sf-romance
+title: Science fiction / futuristic romance
+summary: "Engine: novum complicates intimacy — other worlds, futures, alien
+  biology, or tech regimes change loyalty, body, law, or distance — while
+  romance HEA/HFN remains the emotional payoff."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

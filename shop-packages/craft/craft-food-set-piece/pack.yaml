@@ -1,0 +1,9 @@
+id: craft-food-set-piece
+title: Food set-piece craft
+summary: "Meals, kitchens, and taste as **story engines** — not menu wallpaper.
+  Shelf engines: . Sensory filters: . Crowd without plate engine: ."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

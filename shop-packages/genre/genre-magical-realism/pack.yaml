@@ -1,0 +1,10 @@
+id: genre-magical-realism
+title: Magical realism
+summary: "Engine: one (or few) impossibilities inside a fully intact ordinary
+  world, narrated without apology. Seam craft: magic enters without tearing the
+  real."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

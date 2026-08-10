@@ -1,0 +1,8 @@
+id: craft-clue-red-herring
+title: Clue plant and red herring craft
+summary: Fair misdirection for any puzzle plot — mystery shelf engine stays in .
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

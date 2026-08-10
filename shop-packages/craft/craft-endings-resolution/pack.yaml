@@ -1,0 +1,9 @@
+id: craft-endings-resolution
+title: Endings / resolution craft
+summary: "Climax → Climactic Moment → Resolution / denouement. md`, , (Chekhov /
+  deus ex), (promise). Tragedy / catharsis: ."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

@@ -1,0 +1,10 @@
+id: genre-erotica-mm
+title: M/M erotica
+summary: "Engine: male–male desire as the sexual (and often emotional) center —
+  not “het erotica with genders swapped.” Community reading conventions, body
+  logistics, and voice matter."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

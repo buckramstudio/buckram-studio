@@ -1,0 +1,9 @@
+id: genre-horror-comedy
+title: Horror-comedy
+summary: "Engine: tension → release toggles between dread and laugh. Both
+  engines must work — comedy in a monster costume is not enough."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

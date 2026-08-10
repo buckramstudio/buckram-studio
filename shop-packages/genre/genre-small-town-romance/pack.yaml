@@ -1,0 +1,9 @@
+id: genre-small-town-romance
+title: Small-town / community romance
+summary: "Engine: ensemble town pressure + central love story — gossip, history,
+  and overlapping relationships force the couple’s choices."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

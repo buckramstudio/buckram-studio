@@ -1,0 +1,10 @@
+id: genre-erotica-forbidden-taboo
+title: Forbidden / taboo-as-market-label erotica
+summary: "Engine: **desire that violates a social, professional, or communal
+  boundary among consenting adults** — the forbiddenness is the heat source
+  *and* the plot pressure."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

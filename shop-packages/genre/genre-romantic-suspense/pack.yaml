@@ -1,0 +1,10 @@
+id: genre-romantic-suspense
+title: Romantic suspense
+summary: "Engine: dual engines — intrigue/crime/threat *and* courtship — each
+  raising the other’s stakes until mystery resolves **and** the relationship
+  solidifies (HEA/HFN required)."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

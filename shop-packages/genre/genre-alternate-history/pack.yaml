@@ -1,0 +1,10 @@
+id: genre-alternate-history
+title: Alternate history
+summary: "Engine: **point of divergence (POD) + ramifications** — one (or few)
+  historical changes, then a world that follows cause-and-effect from that
+  fork."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

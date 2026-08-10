@@ -1,0 +1,25 @@
+wiring_version: 1
+assistants:
+  - writingAssistant
+  - outline
+  - manuscript
+  - genreFormula
+jobs:
+  - chapter.draft
+  - chapter.outline.discuss
+entry:
+  - craft-conflict-gmc.md
+mode: entry
+tree:
+  - id: core
+    label: Core
+    files:
+      - craft-conflict-gmc.md
+  - id: companions
+    label: Companions
+    default: true
+    files:
+      - builder-character.md
+      - craft-sagging-middle.md
+      - craft-scene-sequel.md
+      - craft-stakes-escalation.md

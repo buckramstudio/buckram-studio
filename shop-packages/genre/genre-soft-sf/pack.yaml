@@ -1,0 +1,11 @@
+id: genre-soft-sf
+title: Soft / sociological science fiction
+summary: "Engine: **culture, language, psyche, and institutions as the novum** —
+  soft sciences (or human emotional consequence) foregrounded; physics may be
+  lighter or handwaved so the thought experiment can stay on people and
+  systems."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

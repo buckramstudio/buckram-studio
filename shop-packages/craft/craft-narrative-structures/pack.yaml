@@ -1,0 +1,9 @@
+id: craft-narrative-structures
+title: Narrative structures (cross-tradition)
+summary: Models for how stories are ordered — Western three-act, monomyth, East
+  Asian four-act, Freytag, comedy/tragedy shapes, linear vs nonlinear.
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

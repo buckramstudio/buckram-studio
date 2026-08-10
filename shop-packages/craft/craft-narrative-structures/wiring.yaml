@@ -1,0 +1,17 @@
+wiring_version: 1
+assistants:
+  - writingAssistant
+  - outline
+  - manuscript
+  - genreFormula
+jobs:
+  - chapter.draft
+  - chapter.outline.discuss
+entry:
+  - craft-narrative-structures.md
+mode: entry
+tree:
+  - id: core
+    label: Core
+    files:
+      - craft-narrative-structures.md

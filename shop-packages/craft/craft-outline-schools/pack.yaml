@@ -1,0 +1,9 @@
+id: craft-outline-schools
+title: Outline schools comparison
+summary: Plotter / pantser / plantser is a dial, not a moral ranking. Pair
+  temperament with the right **artifact** at the right **phase**.
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

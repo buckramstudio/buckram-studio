@@ -1,0 +1,9 @@
+id: genre-folk-horror
+title: Folk horror
+summary: "Engine: rural / isolated community + folklore or ritual pressure;
+  landscape and social complicity scare more than jump-scare monsters."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

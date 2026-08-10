@@ -1,0 +1,10 @@
+id: genre-generation-ship
+title: Generation ship
+summary: "Engine: closed society under multi-generational voyage pressure — the
+  ship is world; original passengers die en route; descendants inherit a mission
+  they did not choose."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

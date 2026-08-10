@@ -1,0 +1,11 @@
+id: craft-crowd-set-piece
+title: Crowd / social-space set-piece
+summary: "Parties, balls, markets, rallies, weddings, galas, stadiums, street
+  festivals — many bodies in one social space as a **battle of attention,
+  status, and exits**. Fight geography: . Cast staging: . Spectacle dial: .
+  Meal-as-engine (table lock): ."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

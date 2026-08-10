@@ -1,0 +1,10 @@
+id: craft-story-grid
+title: Story Grid — five commandments & genre as obligation
+summary: "Shawn Coyne’s Story Grid: nested units that each shift a **value**,
+  plus genre as a contract of **conventions** and **obligatory moments**.
+  Distill for diagnosis — not a substitute for Coyne’s full toolkit."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

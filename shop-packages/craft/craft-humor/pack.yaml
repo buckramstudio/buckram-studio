@@ -1,0 +1,9 @@
+id: craft-humor
+title: Humor in fiction
+summary: "Comic mechanics on the page: incongruity, timing, character engines,
+  when laughs serve or undercut stakes. Pressure-valve *placement*: ."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

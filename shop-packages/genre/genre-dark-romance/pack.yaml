@@ -1,0 +1,9 @@
+id: genre-dark-romance
+title: Dark romance
+summary: "Engine: morally gray / high-heat / taboo-edge courtship that still
+  owes a romance HEA/HFN for most trade readers; darkness pressures the couple."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

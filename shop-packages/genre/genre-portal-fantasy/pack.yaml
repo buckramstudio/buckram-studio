@@ -1,0 +1,10 @@
+id: genre-portal-fantasy
+title: Portal fantasy & isekai
+summary: "Engine: **crossing a threshold into another world’s rules** —
+  adaptation, competence, and transformation under a new physics/society; the
+  portal (or death/summon/rebirth) is the catalytic novum, not the whole story."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

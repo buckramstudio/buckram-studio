@@ -1,0 +1,8 @@
+id: craft-worldbuilding
+title: Worldbuilding craft
+summary: Depth over width; story-serving setting; hollow iceberg.
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

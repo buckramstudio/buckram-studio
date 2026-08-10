@@ -1,0 +1,9 @@
+id: genre-western
+title: Western
+summary: "Engine: landscape shapes character; law vs freedom at the edge of
+  civilization. Cost of order measured in what gets destroyed along the way."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

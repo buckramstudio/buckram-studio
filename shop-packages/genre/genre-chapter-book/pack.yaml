@@ -1,0 +1,9 @@
+id: genre-chapter-book
+title: Chapter book / early chapter craft
+summary: "Bridge formats for newly independent readers: short chapters, white
+  space, confidence-building success — between picture books and middle grade."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

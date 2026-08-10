@@ -1,0 +1,8 @@
+id: craft-coincidence-causality
+title: Coincidence and causality
+summary: When chance is allowed — and when it must become cause.
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

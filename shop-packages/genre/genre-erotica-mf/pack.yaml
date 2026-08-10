@@ -1,0 +1,10 @@
+id: genre-erotica-mf
+title: M/F erotica (unmarked default)
+summary: "Engine: **male–female sexual journey** — the culturally “default”
+  pairing, which means **heterosexual scripts hide inside craft choices**. Make
+  those choices conscious."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

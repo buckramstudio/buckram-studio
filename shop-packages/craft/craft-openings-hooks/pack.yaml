@@ -1,0 +1,9 @@
+id: craft-openings-hooks
+title: Openings and hooks
+summary: "First page / Chapter 1 craft: promise, motion, question — not
+  information dump."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

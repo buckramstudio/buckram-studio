@@ -1,0 +1,9 @@
+id: genre-noir-crime
+title: Noir / hardboiled / crime fiction
+summary: "Engine: moral compromise in a rigged world. Solving the case is
+  secondary to what the case costs the protagonist."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

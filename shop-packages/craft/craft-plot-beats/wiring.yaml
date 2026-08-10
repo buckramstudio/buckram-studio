@@ -1,0 +1,23 @@
+wiring_version: 1
+assistants:
+  - writingAssistant
+  - outline
+  - manuscript
+  - genreFormula
+jobs:
+  - chapter.draft
+  - chapter.outline.discuss
+entry:
+  - craft-plot-beats.md
+mode: entry
+tree:
+  - id: core
+    label: Core
+    files:
+      - craft-plot-beats.md
+  - id: companions
+    label: Companions
+    default: true
+    files:
+      - builder-outline.md
+      - builder-plot.md

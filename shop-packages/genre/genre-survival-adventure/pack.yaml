@@ -1,0 +1,10 @@
+id: genre-survival-adventure
+title: Survival adventure
+summary: "Engine: environment as antagonist; skills, luck, and will under
+  scarcity; the plot is staying alive long enough for a harder choice to
+  appear."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

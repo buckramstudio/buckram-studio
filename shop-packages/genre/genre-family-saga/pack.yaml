@@ -1,0 +1,10 @@
+id: genre-family-saga
+title: Multi-generational family saga
+summary: "Engine: dynasty time-scale — inheritance of conflict, property,
+  secrets, and temperament across generations; history enters through the family
+  doorway; no single protagonist owns the whole meaning."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

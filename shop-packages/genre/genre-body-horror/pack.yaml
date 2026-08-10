@@ -1,0 +1,9 @@
+id: genre-body-horror
+title: Body horror
+summary: "Engine: the body becomes unreliable — transformation, invasion, loss
+  of autonomy. Fear of inhabiting changing flesh."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

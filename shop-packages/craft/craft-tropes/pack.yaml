@@ -1,0 +1,9 @@
+id: craft-tropes
+title: Tropes craft
+summary: Using genre/pattern tools without leaning on dead clichés; subversion;
+  reader expectation contracts.
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

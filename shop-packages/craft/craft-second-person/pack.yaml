@@ -1,0 +1,9 @@
+id: craft-second-person
+title: Second-person POV
+summary: "Deepener for **you** as protagonist / narratee. Person / access /
+  trust overview: . Distance / FID / register: ."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

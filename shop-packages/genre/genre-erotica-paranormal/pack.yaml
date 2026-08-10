@@ -1,0 +1,11 @@
+id: genre-erotica-paranormal
+title: Paranormal erotica
+summary: "Engine: **supernatural rules that change desire, body, or bonding** —
+  hunger, heat cycles, glamour, immortality — while sexual journey (erotica) or
+  love+sex (erotic romance) stays central. Distinct from urban fantasy’s
+  case/quest-first promise."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

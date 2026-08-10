@@ -1,0 +1,11 @@
+id: genre-erotica-reverse-harem
+title: Reverse harem / why-choose (erotica ↔ erotic romance)
+summary: "Engine: **one protagonist builds lasting romantic/sexual bonds with
+  multiple partners and does not “pick one”** — group resolution is the point.
+  Market-dominant home is **romance / erotic romance**; pure erotica versions
+  exist but readers often expect HEA-shaped landings."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

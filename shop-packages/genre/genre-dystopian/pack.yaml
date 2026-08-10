@@ -1,0 +1,10 @@
+id: genre-dystopian
+title: Dystopian fiction
+summary: "Engine: **a society worse than ours by design** — oppression,
+  dehumanization, or engineered “perfection” that costs humanity; warning via
+  exaggeration of a present trend."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

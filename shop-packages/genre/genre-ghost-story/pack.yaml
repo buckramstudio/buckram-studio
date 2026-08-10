@@ -1,0 +1,9 @@
+id: genre-ghost-story
+title: Ghost story
+summary: "Engine: unfinished business made present. Haunting as pressure —
+  malevolence, grief, or both — arriving by crescendo into ordinary life."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

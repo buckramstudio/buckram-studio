@@ -1,0 +1,9 @@
+id: genre-slice-of-life
+title: Slice-of-life / quiet novel
+summary: "Engine: texture and character over plot machinery; meaning accumulates
+  through ordinary days."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

@@ -1,0 +1,9 @@
+id: genre-gothic
+title: Gothic fiction
+summary: "Engine: **atmosphere + buried secret + uncanny**. Unsettles; does not
+  require visceral scare. Setting is not backdrop — it is pressure."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

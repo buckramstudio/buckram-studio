@@ -1,0 +1,10 @@
+id: genre-biopunk
+title: Biopunk
+summary: "Engine: **bodies, genes, and biotech as control systems** — synthetic
+  biology, black clinics, and uneven enhancement under corporate or state power;
+  flesh as the hackable substrate (cyberpunk’s sibling, not its costume swap)."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

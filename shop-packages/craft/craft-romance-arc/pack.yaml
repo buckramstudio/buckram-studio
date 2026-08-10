@@ -1,0 +1,10 @@
+id: craft-romance-arc
+title: Romance arc
+summary: "Relationship growth as a through-line — external plot + each
+  protagonist’s internal arc + couple engine. Market promises / heat / subgenre
+  map: ."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

@@ -1,0 +1,10 @@
+id: genre-erotica
+title: Erotica (genre engine)
+summary: Sexual journey as the story’s core — not “romance with more sex.” Style
+  bans / anatomy realism → . Scene function, heat contracts, consent → . Romance
+  HEA engine → . Erotic romance → . Subgenres → .
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

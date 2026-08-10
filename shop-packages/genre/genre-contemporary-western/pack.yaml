@@ -1,0 +1,10 @@
+id: genre-contemporary-western
+title: Contemporary western / neo-Western
+summary: "Engine: frontier psychology in a modern West — land, ranch, border,
+  small-city crime, extractive economy; law still thin or compromised; landscape
+  dwarfs human plans."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

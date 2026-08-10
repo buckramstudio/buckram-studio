@@ -1,0 +1,9 @@
+id: craft-erotica-style
+title: Erotica style
+summary: "Genre engine (vs romance, structures, consent as craft): . Erotic
+  romance bridge: . Scene function: ."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

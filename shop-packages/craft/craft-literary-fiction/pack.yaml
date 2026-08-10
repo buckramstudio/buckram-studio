@@ -1,0 +1,8 @@
+id: craft-literary-fiction
+title: Literary / general fiction
+summary: "Engine: language, interiority, and theme — more than plot machinery alone."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

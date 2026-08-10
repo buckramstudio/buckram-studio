@@ -1,0 +1,8 @@
+id: genre-historical
+title: Historical fiction craft
+summary: Past lived as present. Research supports drama; drama isn’t a museum tour.
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

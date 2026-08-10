@@ -1,0 +1,10 @@
+id: genre-solarpunk
+title: Solarpunk
+summary: "Engine: **solutions taken to radical conclusion** — sustainable,
+  community-scaled futures (renewables, mutual aid, ecological repair) imagined
+  as achievable; optimism without denying crisis."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

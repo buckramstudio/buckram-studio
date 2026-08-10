@@ -1,0 +1,8 @@
+id: craft-series
+title: Series / multi-book craft
+summary: Nested arcs, promise tracking, continuity, book-to-book hooks. md`, , , , .
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

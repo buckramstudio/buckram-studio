@@ -1,0 +1,8 @@
+id: genre-mystery
+title: Mystery / crime
+summary: "Engine: the puzzle. Reader plays along."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

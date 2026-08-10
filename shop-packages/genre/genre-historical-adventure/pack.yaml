@@ -1,0 +1,10 @@
+id: genre-historical-adventure
+title: Historical adventure
+summary: "Engine: travel, empire, survival, or quest inside a researched past;
+  ordeal geography + period constraint; competence under pressure with
+  historical teeth (disease, distance, politics)."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre

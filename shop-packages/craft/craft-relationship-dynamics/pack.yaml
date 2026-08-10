@@ -1,0 +1,9 @@
+id: craft-relationship-dynamics
+title: Relationship dynamics / chemistry on the page
+summary: "How bonds *behave* in scene — status, intimacy gradients,
+  ally/rival/lover triangles. Chosen-bond engine: . Romance beats: ."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

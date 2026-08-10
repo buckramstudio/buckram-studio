@@ -1,0 +1,25 @@
+wiring_version: 1
+assistants:
+  - writingAssistant
+  - outline
+  - manuscript
+  - genreFormula
+jobs:
+  - chapter.draft
+  - chapter.outline.discuss
+entry:
+  - craft-endings-resolution.md
+mode: entry
+tree:
+  - id: core
+    label: Core
+    files:
+      - craft-endings-resolution.md
+  - id: companions
+    label: Companions
+    default: true
+    files:
+      - craft-catharsis-tragic-ending.md
+      - craft-character-arcs.md
+      - craft-narrative-devices.md
+      - craft-openings-hooks.md

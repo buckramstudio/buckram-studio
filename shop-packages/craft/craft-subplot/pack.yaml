@@ -1,0 +1,8 @@
+id: craft-subplot
+title: Subplot and parallel-plot craft
+summary: Weaving A/B/C plots so secondary threads pressure the spine.
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

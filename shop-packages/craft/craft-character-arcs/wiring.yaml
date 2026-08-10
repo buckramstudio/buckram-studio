@@ -1,0 +1,23 @@
+wiring_version: 1
+assistants:
+  - writingAssistant
+  - outline
+  - manuscript
+  - genreFormula
+jobs:
+  - chapter.draft
+  - chapter.outline.discuss
+entry:
+  - craft-character-arcs.md
+mode: entry
+tree:
+  - id: core
+    label: Core
+    files:
+      - craft-character-arcs.md
+  - id: companions
+    label: Companions
+    default: true
+    files:
+      - craft-emotional-wound.md
+      - craft-series.md

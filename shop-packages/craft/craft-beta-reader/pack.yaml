@@ -1,0 +1,9 @@
+id: craft-beta-reader
+title: Beta reader protocol
+summary: "How to get usable reader-experience reports — not fake editorial
+  diagnoses. AI cold-reader / anti-sycophancy protocols: ."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft
+tags:
+  - craft

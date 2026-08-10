@@ -1,0 +1,9 @@
+id: genre-police-procedural
+title: Police procedural
+summary: "Engine: investigation as **system work** — team, protocol, error,
+  paperwork, and the gap between what TV promises and what jurisdictions allow."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: genre
+tags:
+  - genre
