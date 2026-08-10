@@ -1,0 +1,2638 @@
+{
+  "version": 1,
+  "updated": "2026-08-10T16:40:27.385Z",
+  "packs": [
+    {
+      "id": "craft-antagonist",
+      "title": "Antagonist craft",
+      "summary": "Opposition that creates plot *and* presses Lie/Want. md` and .",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-antagonist.brs",
+      "sha512": "f47ddff85c9c7943e31ae35e06946ec0017e613e3119e423242c74c04cea9d9917459f5cfd03dc50e65ecad7f72b796d4673f504d545f83034021ac9c4e7b7bc",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-antihero",
+      "title": "Antihero craft",
+      "summary": "Sympathy and agency for morally illegible leads — without collapsing into cartoon villain or secretly-pure hero.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-antihero.brs",
+      "sha512": "9b9b27ab227057cd363f6bce5271a5499ccaf58592d1010f7a51c01dabd7d974d7808fb80d515dcb52043702625fb5aede813cb8c9d832a11623f9efa3a86c41",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-backstory",
+      "title": "Backstory craft",
+      "summary": "When/how the past lands on the page — Ghost/wound without dump.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-backstory.brs",
+      "sha512": "e718035985ded8fae3566138a5ccf283b2ddae7d70c9614e8825469f3831c66afc12ea1d37db400f26750ad1373dfefb559c306d69d1462f08071434361aa754",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-beta-reader",
+      "title": "Beta reader protocol",
+      "summary": "How to get usable reader-experience reports — not fake editorial diagnoses. AI cold-reader / anti-sycophancy protocols: .",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-beta-reader.brs",
+      "sha512": "119c1307f575174f19ff9d4001d1b4dfeddf18278c6223594ad1748bc52ef90cc0fdf107a88a60a5857735b20531c87d2db9ce2ba79bfcc852cdcd353a5a6f71",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-catharsis-tragic-ending",
+      "title": "Catharsis and tragic endings",
+      "summary": "How loss, pity/fear, and recognition land — without mistaking tears for craft.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-catharsis-tragic-ending.brs",
+      "sha512": "58de6aca9cd620a7b5b251d201488ba10a72be69b3fcab5ead29dd7a66b28a07bb211b469c84f2a5ae0b8724ad04437d9762a69419e37b24383f67aea106039f",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-chapter",
+      "title": "Chapter craft",
+      "summary": "Chapter = reader-experience container; scene = story unit. md` (first-page / Ch.1) and (GCD / RDD inside). Optional title chrome: .",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-chapter.brs",
+      "sha512": "140c0500d4a11cf7ea8dbd18209ba2b43e09f15ba1056456a7367028ce290dce1a3aef9288362b871b2efbd42b6b47fa91a2e10ad3a0c08cd8eb5af2af25e398",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-character-arcs",
+      "title": "Character arcs: Lie, Truth, Want, Need, Ghost",
+      "summary": "Weiland five-arc system + shared ingredients. md` (% map). Wound→shield→need dramatization: . Series-scale arcs: .",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-character-arcs.brs",
+      "sha512": "bd8b3dafbdff824e06548e597861a20a626df13233b448121c55725ddf32841add83621a9084a7ca0ce178ccdbd9e66fcd848c7ee8cb754f07bf4a2516180fae",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-character-material",
+      "title": "Character material",
+      "summary": "Trait lists, templates, and character-craft notes. Builder fill-ins: . Wound/arc deepener: , .",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-character-material.brs",
+      "sha512": "613d629291baa78fb8ef4f836941a7de5d8d2e4db7fdd99bf436614735084571ea0f3b02d6cb37f708563812231b0296679f3e698145e684662c12e6dfe8530c",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-character-voice",
+      "title": "Character voice",
+      "summary": "Keep cast members from sharing one formal default voice — each speaker should be identifiable by how they talk.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-character-voice.brs",
+      "sha512": "42e2292a6dc2b96ffbd40e4b3f140ab7e74dae80de531533b78c67a17466c8ad4de2e31c810043fe45698250a5b0d42c72d433627c49b4f9726bc7772560780d",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-clue-red-herring",
+      "title": "Clue plant and red herring craft",
+      "summary": "Fair misdirection for any puzzle plot — mystery shelf engine stays in .",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-clue-red-herring.brs",
+      "sha512": "6af232c8ca891bcf2d27b7e9f51582aa94e95a990fabe49132b79c91c95e12253617819603ef5ccb32ca697c4326b9555e88c968e2c15a18d3cec8541b7b85c0",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-coincidence-causality",
+      "title": "Coincidence and causality",
+      "summary": "When chance is allowed — and when it must become cause.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-coincidence-causality.brs",
+      "sha512": "a87d362c650d705e68f5cb9873cb24fb26a2eb487b7f1603368044aa15266e4a765fc23d9d9a9541ef36559d68619659a8d9fa6ddc6acc67bdd64477d3aba38f",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-conflict-gmc",
+      "title": "Conflict / GMC (Goal, Motivation, Conflict)",
+      "summary": "Debra Dixon’s GMC + internal/external conflict types.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-conflict-gmc.brs",
+      "sha512": "0d6b9de5a0aa1a6f53951ddf4365951b339e3fa3177c1916028016c0666d0b170d77fbbddab2f6df0a2cfca06f926622f950589bc5d0156b4dc03d84eb4c80ad",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-crowd-set-piece",
+      "title": "Crowd / social-space set-piece",
+      "summary": "Parties, balls, markets, rallies, weddings, galas, stadiums, street festivals — many bodies in one social space as a **battle of attention, status, and exits**. Fight geography: . Cast staging: . Spectacle dial: . Meal-as-engine (table lock): .",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-crowd-set-piece.brs",
+      "sha512": "bcdd68f2bef58a8d4879ab6f9479ac2e085a5c9e061f43f08e8a61bf5364500303c4783aade09d095b9eafaa95e80a5350b6a39ed82a8bc87f6e1164a960db91",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-curiosity-info-gap",
+      "title": "Curiosity and information-gap craft",
+      "summary": "Hunger to know — as a toolkit. Macro tension: .",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-curiosity-info-gap.brs",
+      "sha512": "3c97922f4d09c3e7f4506f5651f4b557c023dc3009bf3eb0918a648e3ad24de24102f91047800d6ab49fe8342b245ab08556d73eb87506cf1fd1ee2cb21846cd",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-dialect",
+      "title": "Dialect and accent on the page",
+      "summary": "Suggestion vs phonetic spelling — readability, character, and respect.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-dialect.brs",
+      "sha512": "6a88633eda213f0ef0fb67467a49b4852fb0c9399b588de2294e1db10f03833675ff475c1d8e3a7a9ea0b52dd81be491a987ec9c5cc2504c13cdf3a824efc7ad",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-dialogue-subtext",
+      "title": "Dialogue and subtext",
+      "summary": "Dramatic dialogue as verbal action — not transcribed small talk.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-dialogue-subtext.brs",
+      "sha512": "683c9ea83cbd76e64427127fb2570ba0ffa4f4fb3fcb3136bb9cb39fb21dc2603c0d9148762d7231681c86f381397d45c597c7cae148316f469e238c605e9c32",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-drama",
+      "title": "Drama craft (page / stage sense)",
+      "summary": "What makes fiction *dramatic* — conflict and change under pressure — not a market shelf.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-drama.brs",
+      "sha512": "d10113a0ec8849f4a4447fdf00a24b63401817ff40db492a6adb355851ab26ced406ecb81b914727048ae62d38f1f6d90e3516824379cfe9fb5dcb96bfb46592",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-dream-sequence",
+      "title": "Dream sequences",
+      "summary": "Sleep / vision / fever-dream as a **scene with a job** — not a surreal recess. Related interrupts: . Symbol systems: .",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-dream-sequence.brs",
+      "sha512": "3c4bca4a1ffe20d82f9bbc846fa5b33bd9c7daa231b16661658ebd2c8efb44e2d5b7c1303e418346635c6dbcd304fef794ad03eb259cddf0a5e74622fed0083c",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-dual-timeline",
+      "title": "Dual-timeline craft",
+      "summary": "Braided timelines as novel structure — not a single flashback interrupt.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-dual-timeline.brs",
+      "sha512": "4d6b2a684c96add075deead32dfe1e9a57a696256458a88912766287276209ec7a65f7bd7356709462f6b3dfe77a056b4d9ce93438e115453b1372d26561bbc8",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-emotional-wound",
+      "title": "Emotional wound craft (wound → shield → need)",
+      "summary": "How past hurt becomes on-page behavior. md` (Ghost/Lie/Want/Need), (drip vs dump), , .",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-emotional-wound.brs",
+      "sha512": "c56fac47a11f0e5cca71ffb341f04837a75adce727857588fdabe0be2f65d5d83b5ab4fde6bbdc978375aa1bf205384ac89b6d307e26e095a70c46714818f8bd",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-endings-resolution",
+      "title": "Endings / resolution craft",
+      "summary": "Climax → Climactic Moment → Resolution / denouement. md`, , (Chekhov / deus ex), (promise). Tragedy / catharsis: .",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-endings-resolution.brs",
+      "sha512": "0f78408067bc6ff763f9d680b7361dccdec4bacebf3173fad2ea9ea9a5fbd3fced4cfd37566a90b53ead51e465d76c4b3e865bfceda38bbc6d246d468dc10bfa",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-epistolary",
+      "title": "Epistolary and documents-as-narrative",
+      "summary": "Letters, emails, chats, reports, and found documents as engine — not garnish.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-epistolary.brs",
+      "sha512": "3acb115b5886277216a646871caa539fe23b1b62b67e4bb5c07b761af524d938139248c40c8cd81d27d25e3134970219a6a8836b0e247674390a608691c2c27c",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-erotica-style",
+      "title": "Erotica style",
+      "summary": "Genre engine (vs romance, structures, consent as craft): . Erotic romance bridge: . Scene function: .",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-erotica-style.brs",
+      "sha512": "546b16fb1160c1dc3366d423cfafebf5a3c3c13c7311665d33d1cb63b63a5443910174a832aea0c576664968eee3ce6d896a0cdc0c613fe01d89e03a60da1c2d",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-flashbacks-prologues",
+      "title": "Flashbacks and prologues",
+      "summary": "Specialized backstory delivery — when they work, failure modes, alternatives. md`, , , .",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-flashbacks-prologues.brs",
+      "sha512": "c2c1dc39af18e1669356a41660f59ab67bd6b1d13cbdd80f5fb52ff34631644aa7e74f5dc567127a2343c9d0ec40df01e4f32e4845ef07c775e21ec730e17e31",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-food-set-piece",
+      "title": "Food set-piece craft",
+      "summary": "Meals, kitchens, and taste as **story engines** — not menu wallpaper. Shelf engines: . Sensory filters: . Crowd without plate engine: .",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-food-set-piece.brs",
+      "sha512": "3dbb861798aceaba4097950c2a3ab9f6d053f38639a2d50d263208030c3c345c9eef91cd8d174f9e796b9038a21da1f9517f2409a4f0d6e7daea3d9f1752f894",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-foreign-language-on-page",
+      "title": "Foreign language and code-switch on the page",
+      "summary": "How multilingual speech appears in English-dominant prose — inclusion, exclusion, intimacy, threat — without a language exam.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-foreign-language-on-page.brs",
+      "sha512": "ef666028e8cd8a1b6d302df4d75f0bf71278b999058d8bbf6a27fabc8dfa28b05c4dd4b83bce7400ef22ba07255f2f73103a5b9fc4a28094e252d7237621cab9",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-frame-story",
+      "title": "Frame / nested narrative",
+      "summary": "Outer story that contains one or more inner tales — sandwich, nesting dolls, or recursive frames.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-frame-story.brs",
+      "sha512": "5b927f155f3256f9c971519ca814429a36b41e0f761a960e98750b6e0811f4ec6dfda699396b6f81faa89c2cc558f0fc520d501da735250e14115dd95f5765eb",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-humor",
+      "title": "Humor in fiction",
+      "summary": "Comic mechanics on the page: incongruity, timing, character engines, when laughs serve or undercut stakes. Pressure-valve *placement*: .",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-humor.brs",
+      "sha512": "48741b2397294316107c46f14b174b55e7f66a302fd739bb89053943f860b6c1693d59a51fcb4af7ffeaeafbd439ba2d068216f6d4542c0476663b6bcc881637",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-intimacy-scene",
+      "title": "Intimacy / sex scene craft",
+      "summary": "Story function of sex and intimacy — beyond word bans. Heat level is a craft choice; emotional change is mandatory. Adult consensual intimacy craft.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-intimacy-scene.brs",
+      "sha512": "042bd8054276bb1a6637c510e2fa2a0569ec2337ddc4f7d04df19c4765bf45a4ff4c5f8d462c47f5a655d25c35d35622eab34f808b65198f9827f211bb5c8036",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-jungian-archetypes",
+      "title": "Jungian archetypes (character / myth craft)",
+      "summary": "Universal patterns as lenses — not rigid character classes.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-jungian-archetypes.brs",
+      "sha512": "17873c0028741e18ff2977fcbb607176f90d880d37e766c0f2c905d09d0e562cd7f3b551d8637e3afcad3c5e21cb7db741f64dd829876fe9f7adf120818ff8bd",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-literary-fiction",
+      "title": "Literary / general fiction",
+      "summary": "Engine: language, interiority, and theme — more than plot machinery alone.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-literary-fiction.brs",
+      "sha512": "1f633a01229466571e1e52a878670585837f87733b3ebc03b671f07e14ca93aa538e727ad5fe7c525249a6ca66cb13350c2a4b197eecea58704f2d9428ba0e1d",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-macguffin",
+      "title": "MacGuffin craft",
+      "summary": "Object, goal, secret, or event that **motivates pursuit** — while the audience’s real investment is conflict, character, and cost. Distinct from Chekhov’s gun (economy of detail) and from clue/prop that must mean something at reveal.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-macguffin.brs",
+      "sha512": "c8396a24761754a20b642eb62c823a1a1163c79c1644b25437b3584e6949420346df8afd10468ea1ac4d0580694af318918b876023cb251a35dfedf12a2f07b9",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-moral-dilemma",
+      "title": "Moral dilemma dramatization",
+      "summary": "Ethical forks under pressure — dramatized, not sermonized.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-moral-dilemma.brs",
+      "sha512": "cf84d6e96d75963f30b5ac9276c7931233322f426472c9908a629dbbee469ea1b6d11092db5950b50ef6db9db32f55427cedf4ab0005cf2333c7d86491398204",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-motivation-reaction-units",
+      "title": "Motivation–Reaction Units (MRUs)",
+      "summary": "Small-scale prose cause-and-effect inside Scenes and Sequels (Dwight Swain / Ingermanson).",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-motivation-reaction-units.brs",
+      "sha512": "132ec5cac002a1fa9f49d1ae468ae829fc22d520c936022642055504c09be13b01d38bc9d05d161308401899c016864ea3763b8c39a3a9871bff8a557eb21894",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-narrative-devices",
+      "title": "Narrative devices (prose craft)",
+      "summary": "Chekhov’s gun, foreshadowing, deus ex, unreliable narration, stream of consciousness. Related: , , , .",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-narrative-devices.brs",
+      "sha512": "523869d56df455afa5395f949d1e4339723a86f1eda263f71566e27bb5fe12c125608590470874ded14cd25da296c8f2ade853b0764f4ed3158e0512b9e134ff",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-narrative-structures",
+      "title": "Narrative structures (cross-tradition)",
+      "summary": "Models for how stories are ordered — Western three-act, monomyth, East Asian four-act, Freytag, comedy/tragedy shapes, linear vs nonlinear.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-narrative-structures.brs",
+      "sha512": "94c8f1dc0af80d29160d0b10cdbafd3d2c37d62d6e654ee494c0ec5e2a3bd0d48e13297b21441eb10f04f4f4f4dd0e3d461c626fe52d9e777bd41e4bf4c14e37",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-narrative-voice",
+      "title": "Narrative voice",
+      "summary": "Narrator’s sound, distance, and worldview — not cast dialogue voice.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-narrative-voice.brs",
+      "sha512": "54759e272fd5812d7dfd4606672a580dc9f9c691a2d37847fe285308d75746a7fe6d3bda316b6a28058272e69ba3a8fe35a7f6b4e59bacda56f73a07c6503d41",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-novel-process",
+      "title": "Novel process (plan → draft → revise)",
+      "summary": "How to write a novel at all — not AI-specific. Distilled from One Stop / Writers Helping Writers Storyteller’s Roadmap materials.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-novel-process.brs",
+      "sha512": "1a7915472d3f4c22d8a3c30a4ec8ff35b1910b8ec2e8dffe966e38418a155324375cc8e12a89e542e5f7126ab739069a7e13bca2f8567b07340fd40abcda1d52",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-openings-hooks",
+      "title": "Openings and hooks",
+      "summary": "First page / Chapter 1 craft: promise, motion, question — not information dump.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-openings-hooks.brs",
+      "sha512": "00d22f080e01ffc90344c2a56ad6bcf8c0a7286d479378fb99600f04c215e7eb9155ff4f70a074bdf8f9f63730c2be8e9085781ab19bf7e0c7db40dac6aac201",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-outline-schools",
+      "title": "Outline schools comparison",
+      "summary": "Plotter / pantser / plantser is a dial, not a moral ranking. Pair temperament with the right **artifact** at the right **phase**.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-outline-schools.brs",
+      "sha512": "0e2d1dfadf2c0f6ede11df927de7ba2572199e592526907924a3d3c2bea22ff169e5bcfa46a92cc32d9372d927bd5859eb1b0cc254a270864fe1d953d45d19e1",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-pacing",
+      "title": "Pacing",
+      "summary": "AI tends to resolve conflicts in the same scene they appear. Guardrails for build, complication, and tempo. md` (sentence pulse), , .",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-pacing.brs",
+      "sha512": "6febf444a2faf9d2b03dbd2eab7bd5f0ad0988f0e07b35babe501982a7a26cd1c3a18294febd552c49698e4608650bf57a1e37c77ec613009a235a175cee1dfc",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-plant-payoff",
+      "title": "Plant / payoff / foreshadowing (operational)",
+      "summary": "Setup that earns later turns. Definitions in ; this note is the working ledger.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-plant-payoff.brs",
+      "sha512": "62d7c039d45c967f8cd5efce57cdf9b121990df3a3a93e3c536f1e960a8191713cd3f8cb3fbf5e037f29ad9177ee3f85aecf49a9a487bae855f45158560e78aa",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-plot-beats",
+      "title": "Plot beats",
+      "summary": "Commercial beat map: eight plot dots + act quarters that keep Act One and the ending from collapsing into one lump.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-plot-beats.brs",
+      "sha512": "b1ce1a2eaf83f596fde3375cbdd5f1c5995bf88e0aebba6d96abf67b99d78be510ad473e10153eed4abe4c4a15b5982d61bce38c4714ff4b2d18c3219e2da850",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-pov",
+      "title": "Point of view",
+      "summary": "Person, access, and trust. Narrative sound/distance/FID: . Dialogue voice: . Device catalog (incl. short unreliable note): .",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-pov.brs",
+      "sha512": "397d8f84039377b7aed5d9bbf0b67cb40b1564726e3260c3ede550770ffe701e4971e650e877fe1abf916d9cb6162c2687898fceb889ec59e43722490d3b2585",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-relationship-dynamics",
+      "title": "Relationship dynamics / chemistry on the page",
+      "summary": "How bonds *behave* in scene — status, intimacy gradients, ally/rival/lover triangles. Chosen-bond engine: . Romance beats: .",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-relationship-dynamics.brs",
+      "sha512": "e5e95e72d712afb92bf303f2bffad42be45d0f1486d174e01da69ecda46117eefa3a21fbdb83d33aec2ea0b0062302d3f800332a98609b7576740f39e160346b",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-research-method",
+      "title": "Research method for fiction",
+      "summary": "Just-enough research for verisimilitude — not academic completeness.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-research-method.brs",
+      "sha512": "bf8469aff58d22c02f63bf645b4f72c947dcfab27289172347eac81ffb9e1af3c59456424489bd4582198a4121da27d37513251c563985b67d0e14dfeb1bd597",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-romance-arc",
+      "title": "Romance arc",
+      "summary": "Relationship growth as a through-line — external plot + each protagonist’s internal arc + couple engine. Market promises / heat / subgenre map: .",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-romance-arc.brs",
+      "sha512": "3156d172a03d7e634e0f56ef76928d8234d95b0a9528a5eaf2a76356fa30f24a77a1a304faf4f083b888cde64608dcce622f27bff06d3f9220d6bc3d77b40413",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-sagging-middle",
+      "title": "Sagging middle (Act Two)",
+      "summary": "Second act dies when pursuit replaces transformation. Pinch Points + try/fail that cost internally.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-sagging-middle.brs",
+      "sha512": "ed87c9decc449f8f915629ed746ffa66d5556f9d762cd585bc047cfc4541527d45d07c93f93317f21084f3f935cac72a31d6837d1ba319d2c91b4fdb2a14e7ef",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-save-the-cat",
+      "title": "Save the Cat / beat sheet for novels",
+      "summary": "Blake Snyder’s screenwriting beat sheet (*Save the Cat!*, 2005) adapted for novelists by Jessica Brody (*Save the Cat! Writes a Novel*, 2018). Prescriptive % waypoints for commercial storytelling — useful for planning *and* diagnosing sagging middles. Distill only; do not paste proprietary worksheets wholesale.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-save-the-cat.brs",
+      "sha512": "020fb40f5392d05355cf2b745842e8afef703dbbfd2ad9ca1f7c566c887ce24595e1b5833b16246b370544b061ea7c7d98159699d65eff86119ce778d9e9ad93",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-scene-sequel",
+      "title": "Scene and sequel (Swain / Ingermanson)",
+      "summary": "Large-scale scene structure: proactive Scene vs reactive Sequel, alternating.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-scene-sequel.brs",
+      "sha512": "5027976e16cb079b6d9144832c4ae5c219fa6414c9fc675f8749d56d641613696383504288a1f12881e6b83ddce67348ebcc95717cb70b18e3dfff84ba73d1eb",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-second-person",
+      "title": "Second-person POV",
+      "summary": "Deepener for **you** as protagonist / narratee. Person / access / trust overview: . Distance / FID / register: .",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-second-person.brs",
+      "sha512": "f0086bb879568b168b3ee78851d0a1937fc337a2af3349b00cbeee53dd85f46eb542ce21a19b3150b19375b71e97841f54dd6db3434e573ff9526d8c63bb92a1",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-series",
+      "title": "Series / multi-book craft",
+      "summary": "Nested arcs, promise tracking, continuity, book-to-book hooks. md`, , , , .",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-series.brs",
+      "sha512": "9864c40cd0e85538ba80403fe93cbd9ac28c8c0489dd67b835b887dad6916e64500630684eef38ef1350f820132a555b940c38580452e42c6e96138d8a7dec5c",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-setting-atmosphere",
+      "title": "Setting as character / atmosphere",
+      "summary": "Place that pressures plot and mood — not travelogue wallpaper.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-setting-atmosphere.brs",
+      "sha512": "59f503e1e66f9c81cf967f062808fb55be261b7b09b689320cf7cca74966fdc56d99521cd9c27a2d8fa6e02887269de9ae4ad2506b1d5150ac045f35443ce065",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-show-dont-tell",
+      "title": "Show, don’t tell",
+      "summary": "Traditional craft: when explanation steals experience. AI “humanize” lists are related but separate — see / . Filter words / sensory immersion: . Film-rule misuse vs prose interiority: .",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-show-dont-tell.brs",
+      "sha512": "5ccfdcef8d9ad1a6ac56e20fabe23f43ef119ec15821a9e1a11319e469fa97d8e70f19a28ee2dbc3e33b48dcdadeca369a60ec4088684efdab50094fb5957f99",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-snowflake",
+      "title": "Snowflake Method (Randy Ingermanson)",
+      "summary": "Fractal design: start tiny, expand until the novel is designed.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-snowflake.brs",
+      "sha512": "3e8efada773b9439ff8032f73204dedbe7c5f4742b6ab72d46bc2ab90ed07c3913326ed74251892c2e7e7b9c7e53f44522f4ba780d120896bc9f01029ec53665",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-stakes-escalation",
+      "title": "Stakes and escalation",
+      "summary": "What failure costs — personal, not only spectacular.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-stakes-escalation.brs",
+      "sha512": "b05d90d04715a076f731ce724e6cb7881793f203146e076c51c9b338e6a3a8b7fe61b79769a9d691889aecd0fe532aa5291d1f79f6cb0d1a520b8fedcf4e2860",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-story-grid",
+      "title": "Story Grid — five commandments & genre as obligation",
+      "summary": "Shawn Coyne’s Story Grid: nested units that each shift a **value**, plus genre as a contract of **conventions** and **obligatory moments**. Distill for diagnosis — not a substitute for Coyne’s full toolkit.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-story-grid.brs",
+      "sha512": "921475be072497b0db8597a9a5f1973ec8962041763359f6f83586ff062e9bd3cf40a836946d35426bda909470967144616b907543362aae5314e73e1fb66e7f",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-subplot",
+      "title": "Subplot and parallel-plot craft",
+      "summary": "Weaving A/B/C plots so secondary threads pressure the spine.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-subplot.brs",
+      "sha512": "c546b28685ff9d5c34801251f582c6127fe77f4461504bc81e7c654d10ecb493586b3c39ccd2451fb221336bf756e5e3913b2c4ca7bd89d9198bcdb3bf64b707",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-supporting-roles",
+      "title": "Supporting roles craft",
+      "summary": "Mentor, sidekick, foil, and other load-bearing secondaries — as jobs, not Jung sticker packs.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-supporting-roles.brs",
+      "sha512": "041c2090163b4e2873e7a28494ae77e8d6bd9e522f386718d5dcb30d855004f45939c2209c4a38d8d114872da0a91f8e2c5dfba8436a6995bc274bffa26c5c96",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-symbolism-imagery",
+      "title": "Symbolism & imagery systems",
+      "summary": "Earned symbols and networked images. Theme argument / anti-sermon: . Chekhov / foreshadow: . Setting as symbol: .",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-symbolism-imagery.brs",
+      "sha512": "1cba73ebcf1a0cfa583737f813c82bb2195ff1fefd82342f45b7e9bf9516d54b0816bbbf9234c359e54ae41a0285f6d6edb8e5211197a0b2fe90e2296500c09b",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-tension-suspense",
+      "title": "Tension and suspense craft",
+      "summary": "Reader-state craft beyond thriller genre packaging. md` (devices/clock) and (cost of failure).",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-tension-suspense.brs",
+      "sha512": "8caa930cf6ecf1c843c3d9c89731285d49dad5de1fc261d51da3edd614ad9d9bedeb17145877d2e3fd95cb217bfd9199cf51c2acfb0ee63ef7c55685e9c16455",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-theme-motif",
+      "title": "Theme / motif",
+      "summary": "Theme as argued Truth (not sermon); motif as concrete recurrence.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-theme-motif.brs",
+      "sha512": "d4c599319a3c024382b9711c6f60c384a707073fe1078a7ed0dfd97696299ff142d989ba89466e42a52912cbbd1460965ad10c84b280d6fe9a288ac26ea27b50",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-tropes",
+      "title": "Tropes craft",
+      "summary": "Using genre/pattern tools without leaning on dead clichés; subversion; reader expectation contracts.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-tropes.brs",
+      "sha512": "d5265a24136bd1f3120c4a03085f4e3523df5d7313531956968f5ecf4d09db1f8a9ca7337171b56232a69f3e660397e507a3c7c5bb519d275dadac41fdd1e171",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-weiland-structure",
+      "title": "K.M. Weiland story structure (% map)",
+      "summary": "Cross-genre beats from Helping Writers Become Authors.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-weiland-structure.brs",
+      "sha512": "f3caf8b5b7e4dbba5d3fc6e97565c96b489ad55a7a2edc45a9d2bb2c920bd586d6dfec78ef4479f796ce9b239353781ad9efd2582379e5659f98cc0b8caa192b",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "craft-worldbuilding",
+      "title": "Worldbuilding craft",
+      "summary": "Depth over width; story-serving setting; hollow iceberg.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-worldbuilding.brs",
+      "sha512": "ba53cea7c896880ba6388beeb38f5fe8aa0081932fbc3f901d3f8fbb572f760678f751d3f18b5e903d6e83552a63b5b83ab507e5682ee3adbb9d27be1aef7b78",
+      "tags": [
+        "craft"
+      ],
+      "category": "craft"
+    },
+    {
+      "id": "genre-action-thriller",
+      "title": "Action thriller",
+      "summary": "Engine: set-piece survival under a clock; chase geography and physical competence drive the page; emotional stakes hitch to each ordeal so spectacle isn’t empty.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-action-thriller.brs",
+      "sha512": "c7d1edf2506d4470e2f9893af9131e2ff300947dfcf6975e8e5b591f004978024fbd5d05489954ac3f3da02292e13653cae65beab244d26fe37421bb1c3ef099",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-adventure",
+      "title": "Adventure (commercial quest / journey)",
+      "summary": "Engine: leave the familiar world, cross hostile ground, seize a goal — and return changed. Spectacle serves a core question, not only a map of set pieces.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-adventure.brs",
+      "sha512": "a93060b9653c8c0bb912b018d2106e8908aa694289d17b05ab7792c3009f8e3e05ae9b612a484719726be90fdf8b925cdb4f2ee6c4c5d5065b814b956294057d",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-alternate-history",
+      "title": "Alternate history",
+      "summary": "Engine: **point of divergence (POD) + ramifications** — one (or few) historical changes, then a world that follows cause-and-effect from that fork.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-alternate-history.brs",
+      "sha512": "11b122ca4dd27c67c2521fe87774cb3755bbd09cca6c78854ee6d043dca7e705e7f34df9ccd44deb965198b6496be01a52888821547de872c0fd8397b67aee68",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-biographical-historical",
+      "title": "Biographical historical fiction",
+      "summary": "Engine: a real figure’s life-arc (or a decisive span) structures the novel; invention fills gaps but must respect documented spine; the drama is constraint of the known + earned speculation.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-biographical-historical.brs",
+      "sha512": "1291c15a056be392504705a08db009a36d00af7780c724c3314a9180a0adbcf6520fa6b4570e0469300e74191fd19d8bd7e2360c92b087c793cffe2bc070a8a3",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-biopunk",
+      "title": "Biopunk",
+      "summary": "Engine: **bodies, genes, and biotech as control systems** — synthetic biology, black clinics, and uneven enhancement under corporate or state power; flesh as the hackable substrate (cyberpunk’s sibling, not its costume swap).",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-biopunk.brs",
+      "sha512": "ad4f2afe942ced7efd84dcef87d0a4f9368132bba5998ddebabe11e2e2fb9494d3e1b95df1e8c647956a035efb0444b4c27df62e452758839cf451e8e9dfd7a4",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-body-horror",
+      "title": "Body horror",
+      "summary": "Engine: the body becomes unreliable — transformation, invasion, loss of autonomy. Fear of inhabiting changing flesh.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-body-horror.brs",
+      "sha512": "1e9a52a3be04d0d4a5d71aa0b6dc38350063bf15ddbeb3858e0f127ab920ef95f8543e52d131bf612bff355b010cb6ee69ee696ea4b89d7b33a3363d9c9cfee8",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-campus-novel",
+      "title": "Campus / academic novel",
+      "summary": "Engine: university as closed microcosm — hierarchies, pretension vs appetite, students vs faculty, ideas as status weapons; idiosyncratic characters in unambiguous ranks.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-campus-novel.brs",
+      "sha512": "6f89c2590e64311b1ea41f39653edcaddc7aa827fdfa60719a2b10ed5377652bcc3045ebf49df1b8067dbdea7ffbb7889c2efae4ef0ca1e19cf280a372c30797",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-chapter-book",
+      "title": "Chapter book / early chapter craft",
+      "summary": "Bridge formats for newly independent readers: short chapters, white space, confidence-building success — between picture books and middle grade.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-chapter-book.brs",
+      "sha512": "122b8e78a1afea1fa1210e6dbf1670a958fe30c946f916c5c46c3841f748a6a93ad19c6a2c3cf44af7d0ad67cf3cb6399c11284269279179d5bc8c86a61f46d6",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-chick-lit",
+      "title": "Chick lit (legacy shelf)",
+      "summary": "Engine: voice-forward contemporary comedy of errors around work, friendship, dating, and self-definition; lighthearted / witty tone; urban(ish) heroine navigating too many choices. Market label largely retired as sexist — craft residue remains useful for comps and tone.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-chick-lit.brs",
+      "sha512": "609d0812633ff659da6994502c6d57b663fc10fbeb6cb3e13ea6785eb1c5c66700f13ad85be08a8af687b5c8a77572b3552256a943ee800b680f82db2b354c92",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-climate-fiction",
+      "title": "Climate fiction (cli-fi)",
+      "summary": "Engine: **anthropogenic climate pressure as plot weather** — changed or changing climate reshapes daily life, choice, and power; science-grounded speculation, not generic disaster chrome.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-climate-fiction.brs",
+      "sha512": "7b0c5838bd340be2850fdfbce94cbf42687351819eb3051bc2043a29d227a37f89b4c8fd29afb82110e89bc1b89a2acddc10ce0daca463e3f24245adf1f7c649",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-comedy-satire",
+      "title": "Comedy / satire fiction",
+      "summary": "Engine: tonal contract + incongruity. Comic novel wants the laugh to deepen character/stakes; satire wants the laugh to make a truth about power (or a social gap) undeniable.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-comedy-satire.brs",
+      "sha512": "a086779ab468c3e125047cc25bdc986dd2f9f6abcfb6f1f1cefffbcd918e2daba4b77636cfcc94037aa49f55675cf5a737696db63fbba474a13167944a0a90e7",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-coming-of-age-adult",
+      "title": "Coming-of-age (adult)",
+      "summary": "Engine: identity formation after (or beside) the YA shelf — first career, migration, divorce, sobriety, art vocation, late diagnosis; the self re-authored under adult consequences.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-coming-of-age-adult.brs",
+      "sha512": "917e25a2fc762036b3bcdb8869ebc859e470a8aaa772e19ec8f595f9badf945ca102819074aeff7219e2313e074189f064b27b9682ff05ce9da72b27312298a3",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-conspiracy-thriller",
+      "title": "Conspiracy thriller",
+      "summary": "Engine: a hidden system (state, corp, cult, cabal) manipulates the visible world; protagonist must prove, survive, or escape the web; paranoia is a feature when earned by pattern, a bug when unmotivated.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-conspiracy-thriller.brs",
+      "sha512": "daad319fd7e7bc9439a3b39853e2bda89d4726f1f9ce1937e08f1b17f5d577df076a4778595926cf789af96b311277ba943fe7f06358919553b439c99b78062b",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-contemporary-realist",
+      "title": "Contemporary realist fiction",
+      "summary": "Engine: present-day (or near-present) character drama in a recognizable world; low or no speculative furniture; social and psychological pressure from work, love, money, kinship, health, politics-as-lived.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-contemporary-realist.brs",
+      "sha512": "28f8b8a8c3bfdd24be69b9b55cd44f8b8938f2e63ac96a42c576fdd452588f8aaea56ed0207cc2109679c4472314d14ae9243ab77f65c4bb139a44ee02392c23",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-contemporary-romance",
+      "title": "Contemporary romance (CR)",
+      "summary": "Engine: present-day love under recognizable modern pressure — career, family, phones, money, vulnerability — without supernatural or period scaffolding.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-contemporary-romance.brs",
+      "sha512": "a16006a55c208a353481b3353ec0eaecdf3dc472168bf6abe4d6b2f836c5038c5665e4c1666f1feea2dacf541590b996a5e55eab43cd13085c7a7d8914b46d39",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-contemporary-western",
+      "title": "Contemporary western / neo-Western",
+      "summary": "Engine: frontier psychology in a modern West — land, ranch, border, small-city crime, extractive economy; law still thin or compromised; landscape dwarfs human plans.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-contemporary-western.brs",
+      "sha512": "61c87d20f02ea492faa84270fc586664cf383156e6b4a3ca2360794f6ba3af3f25d51e545ed128f15c2a2762a8ff4153a0db6367256a50bb5bdb98afa63ef068",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-cosmic-horror",
+      "title": "Cosmic / weird horror",
+      "summary": "Engine: human scale fails against the incomprehensible. Dread from realization and forbidden knowledge — not jump-scare or gore alone.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-cosmic-horror.brs",
+      "sha512": "f1a4c31af3f8972417e64827226c6febc4b23ade83d5e7a87f29aa2cd95b29c1a0c0ab44dd2f34433fe92a1de98fb197c40d3b3e3c0116c851d019a0a34025f1",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-cozy-fantasy",
+      "title": "Cozy fantasy",
+      "summary": "Engine: **comfort, community, and low-to-moderate stakes in a fantastic world** — slice-of-life warmth, found family, craft/food/place love; hope and kindness as the emotional contract (conflict allowed on a dial, not erased).",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-cozy-fantasy.brs",
+      "sha512": "d2211dbd234249d288981a044ec74834994eb832fd52d85a180f6e1868719578ba9c5306ec27feb46f13cb7d440e5f21ee14f5f7943189e2e76a6814d48b4a37",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-cozy-mystery",
+      "title": "Cozy mystery",
+      "summary": "Engine: fair-play puzzle + comfort. Reader wants to revisit the town as much as solve the crime.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-cozy-mystery.brs",
+      "sha512": "745fc40e28db662ae1cee0058c431aecc3c398a183c4e0abf0638827e1501161d099950e5d21de3e86c5f716186e11acb783e43b72644f8cc865458aceb3b42f",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-crime",
+      "title": "Crime fiction (literary / commercial)",
+      "summary": "Engine: transgression and its aftermath — caper, heist, underworld, or moral fallout; mystery puzzle optional. Focus is what crime *does* to people and systems, not only who-dunnit.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-crime.brs",
+      "sha512": "c1e2285ac8073ec2269d1bfe7adab2b4e97c815e6186cc20c870dc435377c3d50232421e2e4d4a42916b0530975c8d72ebc3d0d7172b15aeb0df170ac26c2185",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-cyberpunk",
+      "title": "Cyberpunk",
+      "summary": "Engine: **high tech / low life** — advanced cybernetics, AI, and dataspheres juxtaposed with street-level precarity; megacorps (not nations) as power; identity as editable body/credential.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-cyberpunk.brs",
+      "sha512": "a8dc51b6ba20523045e0f39b48f28f5b10179f5817e4768ac096f01837c8dd6f6fcdbfbfed4d913fda92d8c731616fd4ae3314fe92f3269239459df3d925dbce",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-dark-erotica",
+      "title": "Dark erotica (vs dark romance)",
+      "summary": "Engine: sexual/moral darkness as the experiential core — discomfort and arousal coexist; romantic HEA is **not** required. Distinct from dark romance, which still owes central love + optimistic couple landing.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-dark-erotica.brs",
+      "sha512": "a7197fb9695d824db797d5bdda34da22e06738be25bb16dc65f3e3ecefcdc986061d4b3cd3e0c120b7dfe363fbe50b487d007bbcb0403e7d783e658ce167dcae",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-dark-fantasy",
+      "title": "Dark fantasy",
+      "summary": "Engine: **horror-tinged fantastic** — dread, the uncanny, or aesthetic terror woven into fantasy formulae; darkness as atmosphere and theme, not only body count.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-dark-fantasy.brs",
+      "sha512": "100c45a812a672dede1592013e3bc45ead045af810293f0fb1e658815b1a9173900e58bf1366ef2400626b9641bd431b42850d4fae4d580bb03bcf7b814ae936",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-dark-romance",
+      "title": "Dark romance",
+      "summary": "Engine: morally gray / high-heat / taboo-edge courtship that still owes a romance HEA/HFN for most trade readers; darkness pressures the couple.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-dark-romance.brs",
+      "sha512": "e8567e323057e7bf35efa830815f59fbd3d575da549cdf361c97ad5cc8820098b5b18a8997b79408c446110e3a9cfb7b29a707e0c79e196e904a36d0e3131410",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-dieselpunk",
+      "title": "Dieselpunk",
+      "summary": "Engine: **interwar-to-midcentury diesel / Deco retrofuture** — grease, radio, airpower, and pulp modernity; optimistic “decodence” *or* war-machine pessimism, depending on school.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-dieselpunk.brs",
+      "sha512": "549b8821a7d1af75fb7ec3b3160c3d99eab875c994a14917873cef814164ac30c642bc18dd8b48773b2ca90f28a1f37858f3414eb9af852d18f75e9f21feeb14",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-domestic-fiction",
+      "title": "Domestic fiction",
+      "summary": "Engine: household and kinship stakes — marriage, parenting, eldercare, inheritance, home as stage; the intimate sphere carries the plot. Not the same as domestic thriller (threat/suspense engine).",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-domestic-fiction.brs",
+      "sha512": "f5f9febda18964885e7c64487eb96b90eeaab72bf4b4c79cd8c396aa67ffea04b8a2972f628db17ffea1287c9837aefebd6fea2327e065f01627eb036efbfd5b",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-domestic-thriller",
+      "title": "Domestic thriller / intimate psychological suspense",
+      "summary": "Engine: danger already lives in the house. Threat is intimate — spouse, neighbor, family secret — not a ticking bomb downtown.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-domestic-thriller.brs",
+      "sha512": "2c5fd638640245d4eb54d1c7c7fe09d2f105d05aba146b6fb63ce514e9b51076f81b63d7bff60e7a48202335052749a0a645172f8052431d4149099a93298309",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-dystopian",
+      "title": "Dystopian fiction",
+      "summary": "Engine: **a society worse than ours by design** — oppression, dehumanization, or engineered “perfection” that costs humanity; warning via exaggeration of a present trend.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-dystopian.brs",
+      "sha512": "557f87782681283296a100c6d5d8278239a6df9bbbb82de47d8ee5209f21fc20c2aebc0297a2783d07ef874a2ae0da9fda276fe48afa9a25070400cd1fd0e8f0",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-early-reader",
+      "title": "Early reader",
+      "summary": "Engine: controlled vocabulary + confidence loops — short chapters or spreads that let new readers succeed.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-early-reader.brs",
+      "sha512": "725276c8d76209e409426c18f5104f082377ec8269211bd9a3f4b47821cf258f533bd39336b294fb5adb456a075f5430121700ad7bbb8c78bd2a5e0bac57cab9",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-epic-high-fantasy",
+      "title": "Epic / high fantasy",
+      "summary": "Engine: **secondary world + scale** — invented setting with stakes that threaten nations, peoples, or the world’s order; wonder paid for with consistency.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-epic-high-fantasy.brs",
+      "sha512": "7e170996f1fc2b9135d9a3214256df846969dd1b043b959468ad713bd808a2b595d1946848cb4491c8767ab883d39122cc4c094ae8f6d65fbf981a1db8bbceef",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-erotic-romance",
+      "title": "Erotic romance",
+      "summary": "Engine: **romance HEA/HFN + sex as load-bearing growth** — remove the sexual journey and the love story collapses; keep the optimistic couple ending and you are still *romance*, not erotica.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotic-romance.brs",
+      "sha512": "5439e3f6823463591f9dac2ffc2cab810a142ff7aa594af0682e98c361f0a800a72249f2990830d72d1c2e516ce7a6c408cc4f4faee4f498cbc07902ac8715f8",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-erotica",
+      "title": "Erotica (genre engine)",
+      "summary": "Sexual journey as the story’s core — not “romance with more sex.” Style bans / anatomy realism → . Scene function, heat contracts, consent → . Romance HEA engine → . Erotic romance → . Subgenres → .",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica.brs",
+      "sha512": "78281e5ff0e7651dd51072783fb4da5a682049949d6d400c6d444ec3b6ae72c82342ef12f56b0b9a33ece62fe59827fff377df3e9d06f41f92323084d27eb678",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-erotica-age-gap",
+      "title": "Age-gap erotica (adult–adult only)",
+      "summary": "Engine: **experience, life-stage, and power asymmetry between consenting adults** as erotic and emotional fuel — not a “mentor the young” illegal frame.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-age-gap.brs",
+      "sha512": "59f357c69441712fa71882e555b7cfa488b577530164659b043ae8bf2c3719661b58d9d0f87ef85163f930669f8fa1d764dd086e7b5b6e260060687e14fcbfc5",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-erotica-bdsm-kink",
+      "title": "BDSM / kink erotica (incl. D/s)",
+      "summary": "Engine: **negotiated power exchange as the story’s trust ladder** — dominance/submission, bondage, discipline, sadomasochism, or other kink as the sexual journey’s spine. Market often files under erotica *or* erotic romance; structure (HEA?) decides.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-bdsm-kink.brs",
+      "sha512": "7e58e47f42cac65bfa8f079ecd346a646510e233d99134f8ee45a1deb1c41ba8a559e397b5d83528f53fea567736f0964a1451c19f04a59b28e4de310dc6865f",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-erotica-billionaire-workplace",
+      "title": "Billionaire / workplace-power erotica",
+      "summary": "Engine: **institutional or wealth asymmetry as erotic fuel** — boss/employee, owner/talent, rich/poor logistics — among **consenting adults**. The job or money must change who can say no, who is watched, and what exposure costs.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-billionaire-workplace.brs",
+      "sha512": "9dad7aeb27237f67c82c82d815771dc99e3dc328a26480a467c47e05923300b46eda46fad668c248566a5735a18a388fe662fa135af2a66cb44eac79098437ae",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-erotica-contemporary",
+      "title": "Contemporary erotica",
+      "summary": "Engine: **present-day desire under recognizable modern pressure** — phones, work, apps, reputation, housing — with sexual journey as spine (erotica) or load-bearing path to HEA (erotic romance).",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-contemporary.brs",
+      "sha512": "e40c44beebc39a85a699bace104ddfb0dd4bad1fb09ea02f66bd14368ba660b384836aa575fe6c9851429db0e23794231a0890c0460fab6d43dfab47851ab019",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-erotica-fantasy",
+      "title": "Fantasy erotica",
+      "summary": "Engine: **secondary-world or magic-system constraints on desire** — courts, curses, magical binding, nonhuman customs — with sexual journey primary (erotica) or HEA+sex load-bearing (erotic romance / romantasy-heat).",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-fantasy.brs",
+      "sha512": "ec0f496de0b140475249ace06c7aa4c98193232f86590901ea6b735a0aed44825c97be1659bd75d66d22162896f582b92af24ab53ffa60947d7b4e5b1f3f2f0e",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-erotica-ff",
+      "title": "F/F erotica",
+      "summary": "Engine: **female–female desire as the sexual center** — gaze, pacing, and power must be written for that pairing, not as mirrored M/F with pronouns swapped.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-ff.brs",
+      "sha512": "60678e31b05c24626b06ad6010c70c13e46c0fc194f48adc2f2fa681598d48b2e6721415260b58bc2e9780d193b3b556626434d37c7ae69f10ceb076b328c07b",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-erotica-forbidden-taboo",
+      "title": "Forbidden / taboo-as-market-label erotica",
+      "summary": "Engine: **desire that violates a social, professional, or communal boundary among consenting adults** — the forbiddenness is the heat source *and* the plot pressure.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-forbidden-taboo.brs",
+      "sha512": "054bfccfc63436155e03f1f903ad70f4c2a8fa233a432ca2caf4f442641c7706e5187afbcde75f32a4c3dfe0196c2cf297122f3e8f7cb3e34d68cbfa64913f75",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-erotica-historical",
+      "title": "Historical erotica",
+      "summary": "Engine: **period-constrained desire** — privacy, reputation, law, class, contraception, clothing logistics — with sexual journey as spine. Research is load-bearing; anachronistic sexual ethics need intentional framing.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-historical.brs",
+      "sha512": "2552529044cb8425b8e48e0f681aa5128bf1719f0eb3ee8e4525a5b7a9528764fc6162e95488d5fae15eb8d1248f7ac43660068a23e5eb859babfa0d90427f73",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-erotica-literary",
+      "title": "Literary / transgressive erotica",
+      "summary": "Engine: **arousal braided with language, theme, or social critique** — the sexual journey still primary, but prose ambition and idea-pressure distinguish it from commercial heat-first erotica.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-literary.brs",
+      "sha512": "332e2b02e2f88b53426f9343637fa68160f822748c499575fda03cf77f4033a28be23db46c4f5686f9ff7ed4a39ab0e7283119a0a43ee1463b70accca5cafa9f",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-erotica-menage-poly",
+      "title": "Ménage / poly erotica",
+      "summary": "Engine: **multi-partner desire where ethics, logistics, and group chemistry are the plot** — not “extra body in the bed” decoration.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-menage-poly.brs",
+      "sha512": "c712445565957ce41b9fa9b37fa95c7badc3711bb97c6bcba18806edc50f0869075e6b9d57895d1859410406975181fe2760a9dea527acf53104587807159e52",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-erotica-mf",
+      "title": "M/F erotica (unmarked default)",
+      "summary": "Engine: **male–female sexual journey** — the culturally “default” pairing, which means **heterosexual scripts hide inside craft choices**. Make those choices conscious.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-mf.brs",
+      "sha512": "f09c2977e181cab24e7708db5703c93462ad0bf7a5c5b710c01b80f2ee52ed7cf4062d50b6e57717b0774e45742050594c5b44241a360d65853dee1a4855afed",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-erotica-mm",
+      "title": "M/M erotica",
+      "summary": "Engine: male–male desire as the sexual (and often emotional) center — not “het erotica with genders swapped.” Community reading conventions, body logistics, and voice matter.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-mm.brs",
+      "sha512": "096f8da90700afefe789cd9d68238126de2ff4fbabf259e046f1daeb6c66d185cb68320970e7939f6d1398f7b87483cf1c06c4dafd2beb5f4b2c0fd342f06258",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-erotica-monster-creature",
+      "title": "Monster / creature erotica (consenting-adult shelf)",
+      "summary": "Engine: erotic charge from genuine otherness — nonhuman body, instinct, culture — while keeping adult agency and chosen desire.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-monster-creature.brs",
+      "sha512": "0a36db6bf8f92020889f8d1f918c09321142f1f920b634e9cf095ea40cc3268c96df803a192ababf50dc9a509f52c693d0d17ea7711869d951d50704f17cdded",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-erotica-paranormal",
+      "title": "Paranormal erotica",
+      "summary": "Engine: **supernatural rules that change desire, body, or bonding** — hunger, heat cycles, glamour, immortality — while sexual journey (erotica) or love+sex (erotic romance) stays central. Distinct from urban fantasy’s case/quest-first promise.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-paranormal.brs",
+      "sha512": "eac9b30770ff240762752094173241b4549fe1657e702d6f9ceef19baac39a78e89262425d90984191e6484592d02c5a4dd22b14f5096d918bf04ee7e95a2410",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-erotica-reverse-harem",
+      "title": "Reverse harem / why-choose (erotica ↔ erotic romance)",
+      "summary": "Engine: **one protagonist builds lasting romantic/sexual bonds with multiple partners and does not “pick one”** — group resolution is the point. Market-dominant home is **romance / erotic romance**; pure erotica versions exist but readers often expect HEA-shaped landings.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-reverse-harem.brs",
+      "sha512": "6804b15c96b20a48794f5d82a9b098232bbdfd26097e8ab237e091d301162d26e2279f94be32d86d0b9430f8a15fea18a62d3faff78475949cd311fe42c7512b",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-erotica-sci-fi",
+      "title": "Sci-fi erotica",
+      "summary": "Engine: **a novum that changes bodies, reproduction, privacy, or sexual culture** — tech, aliens, space logistics — with sexual journey as spine. If the love story + HEA dominates, you’re in SF romance; if the case/novum dominates without sex-spine, plain SF.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-sci-fi.brs",
+      "sha512": "ae4392dc2afcac60f06dff4cd57ae9aea93cce0756b257562a219f342fb87d8351103fdbd1b424d803ee95045b410baec9ac043ab0a207ca8a622a6d5bcff625",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-erotica-short-form",
+      "title": "Short-form erotica (shorts, anthologies, serials)",
+      "summary": "Engine: **compressed sexual journey with complete episode payoff** — heat density high; unity via theme, character change, or series hook rather than sprawling subplot.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-short-form.brs",
+      "sha512": "2ebabd60e254adbafd26a9bf4162d76b63bfe16d9f07d39635e89b67fb428267a58889c713834fef6f927eea6909c669f1310ac0c26492244638eaa17e3ae81f",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-experimental-postmodern",
+      "title": "Experimental / postmodern fiction",
+      "summary": "Engine: form as argument — structure, typography, metafiction, fragmentation, or rule-games carry meaning; the book teaches you how to read it; realism is optional and often sabotaged on purpose.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-experimental-postmodern.brs",
+      "sha512": "41faa843d76bb8e1da8ec435c83958d06dcf5208fff870b5542e0e0907b30d23e83a3218487938d751b30fab7ad4d23ca72cc3e5a84fa572b1d2b10c149a9160",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-fairy-tale-retelling",
+      "title": "Fairy-tale / mythic retelling",
+      "summary": "Engine: recognizable source machinery + deliberate innovation angle. Reader hears the old story under the new one; standalone completeness still required.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-fairy-tale-retelling.brs",
+      "sha512": "f3a4007455f6699a206ff66cf0fd55da2b5278385b489ed1d066098d7caa13dafb7f788d009b5ce10659548d6b038b361f9e9805df4122cfdd83fa74ed44d094",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-family-saga",
+      "title": "Multi-generational family saga",
+      "summary": "Engine: dynasty time-scale — inheritance of conflict, property, secrets, and temperament across generations; history enters through the family doorway; no single protagonist owns the whole meaning.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-family-saga.brs",
+      "sha512": "c0c16331664f745eb1e78095336c32bde68c783c5d8f7b2b86cff8f2b3ad5d6da1e1c95d71a1635fc73f94e2add3c9d92dffaf475d75e8d2e1d2782bfc2bafde",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-fantasy",
+      "title": "Fantasy",
+      "summary": "Engine: the world and its rules (especially magic) — wonder paid for with consistency.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-fantasy.brs",
+      "sha512": "b4ebe8301c69f04f767131428f3ac5b68a3e0f9cf7dfb2a4816e09b699fde05be36ca1d4fe8aa35cd0ba52cf283ee66891ca8a00917036277ca1dd1c6b94a610",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-farce",
+      "title": "Farce (novel / comic mode)",
+      "summary": "Engine: escalating misunderstanding as a timing machine; implausible but rule-bound situations; physical and social doors slamming; speed toward collapse/reveal.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-farce.brs",
+      "sha512": "8e0526afed6bf239e27669a3cd29859ddeb67fad7c833b7fe053591613875af6ef0f24d4f02e849d4d680a0aed89b8ddfc33457ee707894707e8dd905cf8510f",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-first-contact",
+      "title": "First contact",
+      "summary": "Engine: encounter with the alien other — detection, communication, ethics, and consequence when sapient species meet; the novum is the otherness and the interface, not only the spaceship.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-first-contact.brs",
+      "sha512": "299763c5c9bb2a6c2719d34e875eeb82778c5c204d2a624210cb1629a7f9dc3bd2559f17c791e99141668536b2b97c16d5d930f48fa70c5a70c7fc6e153fc304",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-folk-horror",
+      "title": "Folk horror",
+      "summary": "Engine: rural / isolated community + folklore or ritual pressure; landscape and social complicity scare more than jump-scare monsters.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-folk-horror.brs",
+      "sha512": "5a787826be4f0b9ac32800bf7ec9b63d00f37b20b8c404a2ef1effaa8288bb106680e176d33156b939d9ee544ce671a41f4c2c1e1d230af7fc56a36a1c8924cd",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-gaslamp-fantasy",
+      "title": "Gaslamp fantasy",
+      "summary": "Engine: Victorian / Edwardian (or analogous) aesthetic + unexplained supernatural — manners and lamp-lit society pressure a magic/uncanny plot.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-gaslamp-fantasy.brs",
+      "sha512": "c2388e05dc495411aadf2fe77fa22e63517c6577092ae4d33f848900c03ea0a461f9318b372b9414c923daf0f716844b2a475419021cd76817dc81a993295b2f",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-generation-ship",
+      "title": "Generation ship",
+      "summary": "Engine: closed society under multi-generational voyage pressure — the ship is world; original passengers die en route; descendants inherit a mission they did not choose.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-generation-ship.brs",
+      "sha512": "6747f03bb19dc8baa22dfbec7ce0cea8380ca96c88429e59530ddcf7229101affdb9c58dffa6e5d144d33f6577762f31c806d996c600cbcc30b2e77678bf227e",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-ghost-story",
+      "title": "Ghost story",
+      "summary": "Engine: unfinished business made present. Haunting as pressure — malevolence, grief, or both — arriving by crescendo into ordinary life.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-ghost-story.brs",
+      "sha512": "5159bbf4055980491aaaa9bde42a4048d87a5f49b74d0de1beb938b8c1593497bee70744e91a2241d11f3bce3c4bf633265d347f8697d729a7b1fc64475751a0",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-gothic",
+      "title": "Gothic fiction",
+      "summary": "Engine: **atmosphere + buried secret + uncanny**. Unsettles; does not require visceral scare. Setting is not backdrop — it is pressure.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-gothic.brs",
+      "sha512": "6482974d6cd367c0f0d7267ad449f56e901de132d33de4a9a25dc18cf475044b5730dfa18b59ec1c90eb79f4a4f73228b291b738fc9e0699c3369568bd8a96b1",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-grimdark",
+      "title": "Grimdark",
+      "summary": "Engine: agency under rotten systems — morally gray people forced to choose in a world where right action is costly, compromised, or seemingly futile; darkness with argument, not wallpaper.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-grimdark.brs",
+      "sha512": "47cf9b554d865217c4a6656a71ba71af9568e1c8877a31c8a61cf7a43dbaf9d0d1ea5ad6d14e722bc14e3ac955bfcadac1d83af545aab812fbfb0255de25e3fb",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-hard-sf",
+      "title": "Hard science fiction",
+      "summary": "Engine: **science/engineering constraint as plot pressure** — known or carefully extrapolated science is the backbone; problems solvable (or tragically insoluble) *within* those rules; enabling miracles minimized or paid for.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-hard-sf.brs",
+      "sha512": "4c2309195aec489e26eb625f0d19e691caf84eca7f171bc705306ba35cd768f1117d2bb5242353344ef4aa85281aa51bfc33313e60378924eef69eb782203f49",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-historical",
+      "title": "Historical fiction craft",
+      "summary": "Past lived as present. Research supports drama; drama isn’t a museum tour.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-historical.brs",
+      "sha512": "3bbd0e10fa7fc1c2071803150ff2723dbd8ccea311f331ab800f065fc9b9546a57437c27c7aed23b15b3ff71b300127a9e0edccefe1b3f9bd5499c6774ad56f6",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-historical-adventure",
+      "title": "Historical adventure",
+      "summary": "Engine: travel, empire, survival, or quest inside a researched past; ordeal geography + period constraint; competence under pressure with historical teeth (disease, distance, politics).",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-historical-adventure.brs",
+      "sha512": "4d5c9d0699cd4fb4fcb354be4bea96dbde4db16ac6a0e728ef6a9b683b6ec1fd83547b5eb91a19203545db2b88fff9052960014f28e014b279fafa3409000fd1",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-historical-mystery",
+      "title": "Historical mystery",
+      "summary": "Engine: period constraint + fair-play (or procedural) investigation; the past’s tech, law, and manners shape what can be known and how; dual pleasure of puzzle and time-travel texture.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-historical-mystery.brs",
+      "sha512": "e13cac8e23d658130eba60d7ee6eb96097629f49a8e34b10bfa0e07193f5c7b3053018a6d13fa73c0d45de95f5a0ef5c92a2004509bc0fe81f6d1cc18557eca1",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-historical-romance",
+      "title": "Historical romance (HR)",
+      "summary": "Engine: period constraint as courtship pressure — manners, law, class, reputation, travel speed, and marriage-as-contract force couple choices; research is part of the promise.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-historical-romance.brs",
+      "sha512": "f6d1c8bba494e6ad546ac564ff6a02ff47f5e86734c4be0f34499ff7f495967729c31e7627a9cf1f1916d31159aa99caff55c75c5965899be16db21f214a4602",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-horror",
+      "title": "Horror fiction",
+      "summary": "Engine: dread, not gore. Reader should feel unsafe.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-horror.brs",
+      "sha512": "39f4cf6021dc6c7dc3a18facf6fc0d3434a6ae7fde5e75d540bfd8a54f7289016c24308a011a7f850dbeb2755d9f68871c275ea553d01b12e33b23272f7e964b",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-horror-comedy",
+      "title": "Horror-comedy",
+      "summary": "Engine: tension → release toggles between dread and laugh. Both engines must work — comedy in a monster costume is not enough.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-horror-comedy.brs",
+      "sha512": "d394a1825a3282a2e54dff8a2f65e00bdbb71d27d475ecbebf713e75ddfaf79cef8fc11efb002414f2bea3cb89810cf0de3f4c865fde3fac47020264d36a6f3d",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-legal-thriller",
+      "title": "Legal thriller",
+      "summary": "Engine: strategy inside a recognized process. High stakes + rules (or the hiding of broken rules). Not a gunfight — a chess match with liberty, reputation, or life on the line.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-legal-thriller.brs",
+      "sha512": "7a93a063865f684015b7f022678ab501e3368825dce0b9bf783d2cc7dd66d79f6c782ced2b6bf9d80b052017cfdd3bf5c5c0815268ea3b62a5af0e8f59b9ab8d",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-lgbtq-romance",
+      "title": "LGBTQ+ romance",
+      "summary": "Engine: same HEA/HFN romance contract with identity, community, and/or disclosure stakes that vary by submarket; pairing is not a pronoun swap on a default straight template.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-lgbtq-romance.brs",
+      "sha512": "d965d1f80d2d89410fa8bb2f87ee3a1cddd9fd6da476026dc4e8e6b350f595d40fc9235347441e2669ee579eaa1fea91d3d45d0acae2553375f4e300ce5e5fb7",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-litrpg-progression",
+      "title": "LitRPG & progression fantasy",
+      "summary": "Engine: measurable advancement as plot — power, skills, and understanding rise in ways the reader can track; in LitRPG the visible system UI is part of the reading experience.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-litrpg-progression.brs",
+      "sha512": "b16d8f4880202e81731dccee5a1e09eced5667cfa005e63cd4aee4750082140e84015bfce0088b2c0f8c1226aae476baa35542daf17b69f54b3f062eafdd78b4",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-locked-room",
+      "title": "Locked-room / impossible crime",
+      "summary": "Engine: the crime appears physically impossible; the spectacle is logic. Reader wants the “how” as much as the “who.”",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-locked-room.brs",
+      "sha512": "4a260551361ad522fffe2778ca2622780ca2b545601ba09dfb95ad0d5e143bb8385451c4b08c5d7509e7ce0356b36b3918f627896e9a49d87f50d70decba6f5e",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-lost-world",
+      "title": "Lost-world / expedition",
+      "summary": "Engine: discovery of a hidden place (valley, plateau, city, pocket ecosystem) + isolation; wonder and threat braid; getting in is plot, getting out is character.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-lost-world.brs",
+      "sha512": "70ef43245a669f0e0e5d6240ba25153ec50a2696833940726a880ac63b608376b7c34702f7179859b93baf05df3429df73a16ae2e99752ea8ff77762b97305b7",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-low-fantasy",
+      "title": "Low fantasy",
+      "summary": "Engine: fantastic intrusion into a recognizable (or realist-scoped) world — magic is rare, disruptive, or psychologically ambiguous; “low” names familiarity of the world, not quality.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-low-fantasy.brs",
+      "sha512": "80607d2e9ba67e3eff66fdc822f23e47a18d06e43ff5cd6d15a40b2d76080a45851b2b72622aac9fd56a5eeaedcea159c4a3518c8fdf98a9e3711e65349c6787",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-magical-realism",
+      "title": "Magical realism",
+      "summary": "Engine: one (or few) impossibilities inside a fully intact ordinary world, narrated without apology. Seam craft: magic enters without tearing the real.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-magical-realism.brs",
+      "sha512": "633a9918dd36435610d4df847d67e4f8e7f6fe4e3412ca68907119c2d30e3173aa2ae592e4f2891411099c788dfa06e54d18fd820fd6ef09571641b58d393ec6",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-medical-thriller",
+      "title": "Medical thriller",
+      "summary": "Engine: body, hospital, research lab, or public-health system as threat stage; specialized knowledge creates asymmetric power; conspiracy or malpractice often braids with a ticking clinical clock.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-medical-thriller.brs",
+      "sha512": "e26aa7fb5ff51facf1981cca557d348f3d1412a139eb23f391515dc2b282be6ce970014d24c2b07473d85fe032f4a5e24125cc00d56ee132e86e60b6a252a5ff",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-middle-grade",
+      "title": "Middle grade craft",
+      "summary": "Fiction for ~8–12 (core often 9–12): wonder, friendship/family engines, kid agency, hope — not teen YA shelved young.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-middle-grade.brs",
+      "sha512": "bcb72a12ff9c53eee8dfd261875fee63954c970f0cdefd1870ae15fc2cfca1aa53e00ec91a8598f887f5550d93ed849119f0094487d78f559c6a89cc5924e9f6",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-military-sf",
+      "title": "Military science fiction",
+      "summary": "Engine: **doctrine, unit, and the tech of war in a speculative setting** — protagonists usually inside a military (or mercenary) organization; conflict described with attention to tactics, weapons, logistics, and the soldier’s lived difference from civilian life.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-military-sf.brs",
+      "sha512": "1e212b7d13ce96c47f9885a30dd04b9279640ac45d7dbef538aeb3c09ef223b52110362bd871ac186271d00bba268c9db70c4290af97c67629cb08a0bf880661",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-mystery",
+      "title": "Mystery / crime",
+      "summary": "Engine: the puzzle. Reader plays along.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-mystery.brs",
+      "sha512": "4c00d9bcb1d2214daeef110b4a90ebb3d7b5b50860a62d6330f483cc3f1f5b34ca5c27c9177929f345ee01f2e0c4ab50c0ac85f161c0996e9ad2955e4c64e8bb",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-mythic-fantasy",
+      "title": "Mythic fantasy / mythic fiction",
+      "summary": "Engine: gods, folklore patterns, and living myth as system — tropes of legend operate with felt inevitability or ritual logic; stories rewrite, inhabit, or punk the old patterns rather than only tour a secondary-world magic system.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-mythic-fantasy.brs",
+      "sha512": "d61cc28888f00ce6483ca2150df1bcb7c5778d59d19ac2e374347ef64eae384413f0c35648c8513b730a9ef1c5f5da8d5a2e0c4131838559d776fca4626e9108",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-near-future-sf",
+      "title": "Near-future / mundane SF",
+      "summary": "Engine: tomorrow’s tech and systems in a recognizable world — extrapolation from present science and society; usually Earth or Solar System; restraint about FTL, galactic empires, and easy aliens so estrangement hits closer to home.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-near-future-sf.brs",
+      "sha512": "b244e8b49e51f91bdff2d2a8432488b625862d2c77225ca19037ed1ab76b7865d32daef7e895eb1d5d06f1ba7ce3f5b667c5dc061f594f1d6827d78b7ce13d6e",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-new-adult",
+      "title": "New Adult (genre engine)",
+      "summary": "Protagonists roughly **18–29** navigating first independence — older-YA emotional immediacy with adult agency and (often) adult heat. Category never fully stabilized in Big Five shelving; craft still useful for voice, stakes, and comps.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-new-adult.brs",
+      "sha512": "d6dfdcf10feb6d9aead43ea1edb5f649a450ea6cac4967bf0e2110277ebeaad7594e361f0fee1fb8f30190c076b8803c0b487b2d2987b81d44706cfd662f28f3",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-noir-crime",
+      "title": "Noir / hardboiled / crime fiction",
+      "summary": "Engine: moral compromise in a rigged world. Solving the case is secondary to what the case costs the protagonist.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-noir-crime.brs",
+      "sha512": "f75f9787076348323a7151628fb4f8f22fe3ae9df053e121fff69c8a0c23d981be7c83db3bcf8791ea029a0d9e1191ffd6ac98198403c013f2c042db2bbe32b7",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-occult",
+      "title": "Occult / demonic horror",
+      "summary": "Engine: ritual, forbidden practice, and entities that answer. Faith, will, and knowledge as weapons — and as liabilities.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-occult.brs",
+      "sha512": "ecfe3dbb4cc9bb838d788ef096f8dda0e3ef6739118277694bdd58cdcd2189da9d6a4b73614db25be78724ae545acde120a18f4b816f3d8a0318398ce1588293",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-paranormal-romance",
+      "title": "Paranormal romance (PNR)",
+      "summary": "Engine: supernatural rules that complicate courtship — immortality, mating bonds, secrecy, predator nature — while central love + HEA/HFN still win.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-paranormal-romance.brs",
+      "sha512": "041ed54e103e089250f579cbbdd94531497bbc6010a19395f4e8570e74ed9086b29bd87f52a6ea132c7790d60d20852063f12ed87d912b37efcb53f5d308f956",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-pi-detective",
+      "title": "PI / lone detective",
+      "summary": "Engine: a private investigator (or functional loner) works a case outside institutional power — personal code vs corrupt world. Case + cost to the sleuth.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-pi-detective.brs",
+      "sha512": "2d2a0b6e14c89ac57878487049ddbf8864060b426390c1ef722c1427a728599bd14e0f9071e4623a78617a3a1b9824a2282d581a4cc81b058bfa7c0f79f39bc4",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-picture-book",
+      "title": "Picture book craft",
+      "summary": "Format-first kidlit: ~32 pages, read-aloud performance, words leave room for art. Not “a short story with pictures.”",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-picture-book.brs",
+      "sha512": "4122f32f4eda00dbf34e9ab2fcf3407da464654392dfc940f3ae2be866e91bbcd3aa503bfc0d009f20d83ce4975919e480b1a05814857020f69ca7ac0c790332",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-pirate-nautical",
+      "title": "Pirate / nautical adventure",
+      "summary": "Engine: ship as society; sea as engine (weather, navigation, scarcity); command, mutiny, prize, and code under pressure; horizontal world of decks and vertical world of rank.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-pirate-nautical.brs",
+      "sha512": "ad04b4683798e721ddb75917de5862d03af5e92dcd97c0595e3787a99b5aeba79fbc2f65a04a7a4dd63a00694c79abd386a4a5b2cdee58dcd04ee570e8c7247a",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-police-procedural",
+      "title": "Police procedural",
+      "summary": "Engine: investigation as **system work** — team, protocol, error, paperwork, and the gap between what TV promises and what jurisdictions allow.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-police-procedural.brs",
+      "sha512": "c2d337aa7df164b437ea3e71148737d80123b95f3e2a47516570582a155bffd379d80ca12c90242bd3fafaa0106063465cb965e9e95e09f56d0fce7035733e43",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-portal-fantasy",
+      "title": "Portal fantasy & isekai",
+      "summary": "Engine: **crossing a threshold into another world’s rules** — adaptation, competence, and transformation under a new physics/society; the portal (or death/summon/rebirth) is the catalytic novum, not the whole story.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-portal-fantasy.brs",
+      "sha512": "9c3d7fb1b62e12a359891e959ff655191a64db93b3136141349598b9353673ef834fc6a92a5a0897a8514f33fd454885d359cb2326c8c6ff3628bf1bd317de09",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-psychological-thriller",
+      "title": "Psychological thriller",
+      "summary": "Engine: thrills from mind games, unstable perception, and eroded trust more than spectacle; action is often suppressed; dread lives in what characters believe — and whether the reader should.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-psychological-thriller.brs",
+      "sha512": "9e5e98e7966047229f7bcbdeb8e73f3abb80dc09d7e4a7482fab7882db331117409a50dd36738a258b07f4983f41bc5ce5bc1f583e24572317f7308ebc5da15b",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-regency-romance",
+      "title": "Regency romance",
+      "summary": "Engine: Austen-adjacent manners market — Season, reputation, marriage mart, and wit as courtship weapons; period constraint is the romance obstacle course.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-regency-romance.brs",
+      "sha512": "12980fff64abe09e1e608664033b50640b39e4c051ace298a7f167c13ffa3cc04a19898c3b6e59c1df4444c1cd29e07886c74316f80cb4dafea913f898665b30",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-romance",
+      "title": "Romance (genre engine)",
+      "summary": "Market promise: a central love story + emotionally satisfying optimistic ending. Couple beats → . Heat scene craft → . Erotica (distinct) → . Erotic romance → .",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-romance.brs",
+      "sha512": "116dc2e18f0099053dafe50ce180417bc8d279192233f521715fb4e603f99074d0c3aa6ba2a225b5c575792c5ba4314107d30da4a79723d417b247c097c73f65",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-romantasy",
+      "title": "Romantasy / fantasy romance",
+      "summary": "Engine: fantasy machinery + romance machinery both load-bearing — magic, courts, quests pressure trust/power/belonging; yearning pressures the plot. Labels disagree; position by primary promise.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-romantasy.brs",
+      "sha512": "362c6708d3d2a34aa45f01d3acb1f8941c7ef58598c01785587ffec4d426c462e0868f9750482300d21ffd892349939d71cfa9b765d37c31baeab39ef0ac54fe",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-romantic-comedy",
+      "title": "Romantic comedy (novel)",
+      "summary": "Engine: meet-cute → comic obstacles → earned HEA — humor is load-bearing, not garnish; the laugh engine and the romance engine must share the same plot spine.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-romantic-comedy.brs",
+      "sha512": "5e0ab538c21501980fe8b5270402ea960069c85b4e6c6c8c362df60cbe97c4d0d73c20cc36533f4bd591ab17730a9c323c7882f7dbf9b1a7c4ec8dae7d7b7330",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-romantic-suspense",
+      "title": "Romantic suspense",
+      "summary": "Engine: dual engines — intrigue/crime/threat *and* courtship — each raising the other’s stakes until mystery resolves **and** the relationship solidifies (HEA/HFN required).",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-romantic-suspense.brs",
+      "sha512": "993238aeb799e0ee89402035e876564c686af10d56db4958348f95b6a62a8cd462dd4191ca2c285fad55066839b0cbd6c4641642f96a3c260db463023e78132a",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-science-fiction",
+      "title": "Science fiction",
+      "summary": "Engine: the **novum** — the new thing / “what if?”",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-science-fiction.brs",
+      "sha512": "58a0d16e2254416b0b2596ee14cedb1525cb63bda57be454616086ddcae603510694e1b1a6f113f94b4821e9770b40d661e3d44bb8bb32777e9b63e0141bd012",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-sf-romance",
+      "title": "Science fiction / futuristic romance",
+      "summary": "Engine: novum complicates intimacy — other worlds, futures, alien biology, or tech regimes change loyalty, body, law, or distance — while romance HEA/HFN remains the emotional payoff.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-sf-romance.brs",
+      "sha512": "09a572b9a0dc71d3d47d84655c53e272b51a4612c8399ed08cabf922a6f71616772c340060a37e939faa70d0a02f7a0bda5ef96e25d0dae087fc9cbd2f049d57",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-slasher",
+      "title": "Slasher / survival horror",
+      "summary": "Engine: predatory pursuit. Body count vs survivor agency. The threat is (or was) human — walks among us.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-slasher.brs",
+      "sha512": "89322851cef1abf38537f4862a2b764de61a985efdf4c124c01c542295a04f22c30c80a699493043b942fa02d1ad5af46fdb94ab284fc9a2890cddc4c5b14d41",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-slice-of-life",
+      "title": "Slice-of-life / quiet novel",
+      "summary": "Engine: texture and character over plot machinery; meaning accumulates through ordinary days.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-slice-of-life.brs",
+      "sha512": "04d4bffda9b000c362766b795c9c072d9bb7a758ec53d0a65d8a6faedb3c84ba4d6368c5a45abe91cd5bc04466625ac4ba1b88603cb78ce3fcaddc25961aac6e",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-slipstream",
+      "title": "Slipstream",
+      "summary": "Engine: cognitive dissonance / “fiction of strangeness” — genre furniture and literary technique bleed; the familiar made strange (or reverse) without full SF/F market contract.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-slipstream.brs",
+      "sha512": "15140f6b64c8e13c0c0e121e7dabebe690a99d1bbbe214b74e20bcd1a7012f23bb5d3d27bcaf82d703dedab40fbe5f67f27466b8b74a74d55a9e960c9f6d15a3",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-small-town-romance",
+      "title": "Small-town / community romance",
+      "summary": "Engine: ensemble town pressure + central love story — gossip, history, and overlapping relationships force the couple’s choices.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-small-town-romance.brs",
+      "sha512": "b135e88dd6a3623ccf82a1f759b3e007e4ce8696313889dc9a25a69096a69fd268a442797cdf27777982fbe710bb3c95028be79aa783571d97b81456ba02598a",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-soft-sf",
+      "title": "Soft / sociological science fiction",
+      "summary": "Engine: **culture, language, psyche, and institutions as the novum** — soft sciences (or human emotional consequence) foregrounded; physics may be lighter or handwaved so the thought experiment can stay on people and systems.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-soft-sf.brs",
+      "sha512": "720e14b6a2328616942be9db4fe7056024f22b202090c867943fba0b5f1cee18e205828088f12c1e64438fa53f891c8938e356232d90da1320f016ef4e63f451",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-solarpunk",
+      "title": "Solarpunk",
+      "summary": "Engine: **solutions taken to radical conclusion** — sustainable, community-scaled futures (renewables, mutual aid, ecological repair) imagined as achievable; optimism without denying crisis.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-solarpunk.brs",
+      "sha512": "b910764cc29dda614126598a42c7d4e97c601639ab1b50673e3955093f5ed2af64a3ceb9931f115e101b827f6cab23360e5f9ea7e3cc136a198ea517e81271d0",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-space-opera",
+      "title": "Space opera",
+      "summary": "Engine: **epic scale in space** — FTL (or equivalent), large stakes (war, empire, civilization), adventure and character drama against a vast backdrop; wonder + momentum more than lab rigor (unless “new space opera” hybrid).",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-space-opera.brs",
+      "sha512": "c8fc304ebbb555b6de0cfaa3b62d88c4058eb1a51d120881281a35dcf254746aeb9b73f8f85772f12db01d457b65c3794c291a67221baa5fcf44b193221b2491",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-sports-romance",
+      "title": "Sports romance",
+      "summary": "Engine: athlete / team / public-performance milieu pressures the central love story; remove the game and the romance should weaken.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-sports-romance.brs",
+      "sha512": "48a2e6ae52e7c2e74671da85fbceeb8127281b3c668c639c9455fa0d53b965d953126ebe0e09a5a8b20090add966037e97bd7e3e876b6909ed763ea1bc840d41",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-spy-espionage",
+      "title": "Spy / espionage fiction",
+      "summary": "Engine: secrecy, tradecraft-as-behavior, betrayal, institutional friction. Tension from what is known, denied, and compromised — not primarily from open force.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-spy-espionage.brs",
+      "sha512": "a064a47460c59e726b88967e914345caade21f530e905f524bf284ed25db723d445daf0a38ee00bd88a4ba3adb35640413080f70a7c4ab3a7bcdfdbd35a7195c",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-steampunk",
+      "title": "Steampunk",
+      "summary": "Engine: **retrofuturist steam-age tech as argument** — anachronistic steam / clockwork inventions reshape society; Victorian (or analogous industrial) aesthetics serve a question about progress, power, and who pays.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-steampunk.brs",
+      "sha512": "65cc46334feba8828e5887979d53793be11f65cc327f36560d4a7a190ec52b6cf65303dbeedf4d7cb37ebf9f16cd9cbf049fc0ba25729e6d223e8de17e918b78",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-survival-adventure",
+      "title": "Survival adventure",
+      "summary": "Engine: environment as antagonist; skills, luck, and will under scarcity; the plot is staying alive long enough for a harder choice to appear.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-survival-adventure.brs",
+      "sha512": "98205687e04fd97e63f9752cdd580886b78c01a759153688dc662b1c7efbc98b3c46fb533ae62c75854eed14a897ee599aeb3a275fb49b1fc44fb34c9f460f9b",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-sword-sorcery",
+      "title": "Sword & sorcery",
+      "summary": "Engine: **personal-scale adventure with pulp velocity** — sword-wielding (anti)heroes in invented or legendary milieux where magic works; situational conflicts and survival/gain more than world-saving good-vs-evil crusades.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-sword-sorcery.brs",
+      "sha512": "cdeb125fc27096210b1444b2f6859f79b9ef7392c3053e44a282665fd7a6e6797e5270a898f0f56de2bfe2ad52b18e46acf17bea44d7fd7c2185fa02de5653f7",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-techno-thriller",
+      "title": "Techno-thriller",
+      "summary": "Engine: **plausible near-future (or present) technology as the stakes machine** — thriller pacing + exceptional technical specificity; the plot turns on *how the tech actually works*.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-techno-thriller.brs",
+      "sha512": "c2c360e5754ff09df11e83b5cfd54ad959cfb29e21ac0f42d9c16ae9606c3d7abd1f5646061e143dedb8a0b51c63c0bbc8665947d74b48cf57af52d2e33e0f8b",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-thriller",
+      "title": "Thriller / suspense",
+      "summary": "Engine: pacing + escalating stakes; reader feels the clock. Mood = apprehension, anticipation, anxiety — if it doesn’t thrill, it isn’t doing the job.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-thriller.brs",
+      "sha512": "2c87f4b7ce73d1febdcf80a24f6e3af58d387f4b828ee6a7043046a99f61f840ca51e7ffee3b778552da4fbc124290de1546d6e746a6e9bdeea12f61731580cf",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-time-travel",
+      "title": "Time travel",
+      "summary": "Engine: **cost and logic of moving in time** — paradox, predestination, alternate timelines, or tourist/war uses of the past/future; the mechanism’s rules are the novum that generates plot.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-time-travel.brs",
+      "sha512": "a5a28b212daa2564027ea9f50f78fad8b0b3659a8e2c23911ec32421713d4be797c90c659e6da65b0850ce7345aeb8a40b21b7ee8e50bcbac858c03558f4f308",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-true-crime-faction",
+      "title": "True-crime novelization / faction",
+      "summary": "Engine: a real case (or tightly researched real milieu) scaffolds a narrative; drama shapes truth without inventing harm carelessly; ethics of naming and invention are load-bearing, not afterthought.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-true-crime-faction.brs",
+      "sha512": "44fad8db2f209d5ade46c1bfdaa30099564497d43e52a940d7dd2c91a1d644e4ada4d310e52033d15945e43d792901874816d0f8d36b6756ee2d0c440fe25ea4",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-upmarket-book-club",
+      "title": "Upmarket / book-club fiction",
+      "summary": "Engine: page-turning plot + carefully crafted prose + discussable dilemma. Trade/publishing positioning more than a bookstore shelf label — writers use it for query/comp promises.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-upmarket-book-club.brs",
+      "sha512": "087ed60c723d751363972d4ce7ae208345f909847a306de6a9126ce5134e544c5dc702b4fedfe8455d9c5c7efcb84e7cd581dfba33556a19fb2d9116d68d9770",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-upper-mg",
+      "title": "Upper middle grade (upper MG)",
+      "summary": "Engine: older MG voice with slightly sharper stakes — still kid agency and hope-forward, closer to teen complexity without full YA autonomy/heat contracts.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-upper-mg.brs",
+      "sha512": "a6cb6fa28a8a4fd2763f88e34d19805aabee32c86682eba0fab518f40268791412ab16738e6403962fe90bbbeaf75728bbd2c91bf9673198b18d113ea44cce4a",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-urban-fantasy",
+      "title": "Urban fantasy",
+      "summary": "Engine: **familiar city + secret (or newly visible) supernatural** — friction between rent, phones, and the uncanny.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-urban-fantasy.brs",
+      "sha512": "6e989c7cf7f63563579bf08fcc11e5a983aedfec6884dbefd52fbc1deec94bb4bb00978b3e633488bf5ff8c0dea6d322720fa0f04779ba387080f10919948f5f",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-utopia",
+      "title": "Utopia / ambiguous utopia",
+      "summary": "Engine: ideal (or would-be ideal) society under stress-test — the thought experiment is the social design; plot proves what the utopia costs, whom it excludes, or how it holds when desire and difference appear.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-utopia.brs",
+      "sha512": "05949c5a133f2306a22461d2324756a675ae75c749190e083617544bd7be36c0a9dee8d8248b6ed4455c2ac70579d21d8ebd1bd8c7190b6dc099a2adc948ee4c",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-war",
+      "title": "War fiction / military / wartime historical",
+      "summary": "Engine: organized violence and its human systems — combat unit, command, home front, occupation, aftermath; loyalty, fear, moral injury, and mission pressure; period accuracy serves lived cost, not only hardware.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-war.brs",
+      "sha512": "09abb5def9944979ba28608c6aa9b0ef979214b69d6695ce2646754ad0b8e2dc8c2c9171e4dfddd5976120949cd07b48bbe6d6a332db5ae368e3c9933b547e49",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-western",
+      "title": "Western",
+      "summary": "Engine: landscape shapes character; law vs freedom at the edge of civilization. Cost of order measured in what gets destroyed along the way.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-western.brs",
+      "sha512": "e9ca4a5426802b4835b8093d3ba718c2269e5ea04b38a9fac08af5b0003838c3fef9c86af0942eb9482002b7efcf66d93f2ea4049705dc5c6e8ba8ce17622275",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-womens-fiction",
+      "title": "Women’s fiction (genre engine)",
+      "summary": "Driving force: the protagonist’s emotional journey toward a more fulfilled self — not “any book by/for women,” and not automatic romance.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-womens-fiction.brs",
+      "sha512": "60beee573840aaa60d4855035e1492491c793b967cf883a599153d936255f5c65b060ab0007efcdce644306529f44a1f37a02e7960d7ee24e0fee31cd49b2a30",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-ya-coming-of-age",
+      "title": "YA / coming-of-age craft",
+      "summary": "Category defined by protagonist age + narrative stance for teen emotional experience — not “any book with a teenager.”",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-ya-coming-of-age.brs",
+      "sha512": "3d0fd707bc61551bbc5c6d80d761c05e7a441e77b0ce1800deb1372cb8948b128ecd7df78fb1b1c87cf16dfc0eecca95336b50051195b3be8bcc5fce2a59663a",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    },
+    {
+      "id": "genre-ya-hybrids",
+      "title": "YA genre hybrids (romance / fantasy / SF / thriller)",
+      "summary": "Engine: YA age-band contract + an adult genre engine — voice/agency/stakes of YA stay primary; the co-engine still pays its obligatory moments.",
+      "kind": "craft",
+      "version": "0.1.0",
+      "engine_min": ">=0.11.0",
+      "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-ya-hybrids.brs",
+      "sha512": "a0a5fc10b7d4f7e1e2d0ff9079788869de89e89453996158fd3381120a813bc33484135bab1cc19907d666a241ce45664f6bc7e0b3bebde0548aec339b728c43",
+      "tags": [
+        "genre"
+      ],
+      "category": "genre"
+    }
+  ]
+}
