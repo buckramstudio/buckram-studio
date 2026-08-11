@@ -1,5 +1,14 @@
 # Plot beats
 
-Install this craft pack when you want a commercial beat map for outlining — eight plot dots plus act quarters so Act One and the ending do not collapse into one lump.
+Commercial beat map: eight plot dots + act quarters that keep Act One and the ending from collapsing into one lump.
 
-After install, open the pack wiring in your book and use **Chat about** on the beat worksheet when you are stuck between acts.
+Installing this craft kit adds focused guidance into your project Library. It steers outlining, drafting, or revision toward the topics below — exact Agent use depends on how the pack is wired after install.
+
+**What it tends to cover**
+- `builder-outline.md`
+- `builder-plot.md`
+- `craft-plot-beats.md`
+
+**Tags:** craft
+
+Open **About this pack** any time before or after install. After install, use the Files list to read notes and turn off pieces you do not want attached.

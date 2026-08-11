@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-11T11:37:06.921Z",
+  "updated": "2026-08-11T15:07:06.189Z",
   "groups": [
     {
       "id": "craft-character",
@@ -126,7 +126,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-antagonist.brs",
-      "sha512": "2b8ae772411c205008fb16a1ab2ad253eae7648aa12e88e9cc84e49fab101183e6b9a0c4d60752864f6876513b67f37c194daf34b60862ad473967f195892b82",
+      "sha512": "89262ed19170eb0010c4ccad92e5e3dfde5296c66844f4ea6784adaabf2f8a8e04bcafb5e82e4c83a002f46e9ec31a6747b99e27ff4550b12678a6e83f8960e8",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-antagonist.md",
       "tags": [
         "craft"
       ],
@@ -141,7 +142,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-antihero.brs",
-      "sha512": "f469db823fe3b6dcc986fe5a5591c6f992b69e90d4d8373db8731f87eadab1db424cabf69bb5bf1769524dfff304e5f1addf98f3335e78b1e4e8c982c7516d1b",
+      "sha512": "882562a3490419fa15f99f24d315fc33880ba222c4354815496470a34456389f80ba4c3e001060da8a72223a6cf90b7a718552fd8ee6d7c579113ad76b8e4e74",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-antihero.md",
       "tags": [
         "craft"
       ],
@@ -156,7 +158,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-backstory.brs",
-      "sha512": "b48bc0064a85de1c8246f5ca4632e4a5aa77857d5b89d0310b043950727e06581d0c42bc44c2ecdf86ee9e6cbaa276f32211f3a4d53e54bd4f67841074f3bcff",
+      "sha512": "816dc8d373a927fa671543da0e03e337491db4a6062995bc5736f4eea582c2fce592a98bc6f359f3ac096dcd2c09ca229a75d78c3621ed10cc210abda0a03f30",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-backstory.md",
       "tags": [
         "craft"
       ],
@@ -171,7 +174,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-beta-reader.brs",
-      "sha512": "7097de28b25ab38f6c6e1c97be7c246ee0657b8856ea5932208ec4a6c80e0f679d337f41995ac92f6b85e785956e73f637d0b98787c9cb38164fb2d3d6fe4e7e",
+      "sha512": "254ae6c0b1ee008437fd5cb43fd42a1627e9e438f80473a0a827739cec9f6589a354da9d8c6acc830c5a2664db070037181de23af83e71b0cbc2e2c258f20d0a",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-beta-reader.md",
       "tags": [
         "craft"
       ],
@@ -186,7 +190,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-catharsis-tragic-ending.brs",
-      "sha512": "5ade3a25fe7cbdaf18000f3c4cca285532060a91d2b4627d2cc29957edec4143a6eee5dbecb6cbef34346ab62d50cf733a14d6584228d16e84c1e9a81aaafa34",
+      "sha512": "058346d6dd93ae2be72f8178c710c47f138279f39622265fc053483fb0d9c1ea8ec00d374622275ad2462b949d6121b7104973b22cf891b454a90a1a7daf7b95",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-catharsis-tragic-ending.md",
       "tags": [
         "craft"
       ],
@@ -201,7 +206,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-chapter.brs",
-      "sha512": "74ac3920bdd7cb3ac3df85c9f262fedf1ed44fa39aff00c5f2fc0246c4cc2ff6f6529df7bc905d93d03f0e3191e28b9bb003e90919cdcc9b317306bf76532708",
+      "sha512": "5cf45d86368a32d4c7854d9ff7d0f9e63bbe92585ee7efd03c6094c86224bee7f1267620bd3375be106d80300ec6a5deeb4a30c13f9e79290b6921d48f776861",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-chapter.md",
       "tags": [
         "craft"
       ],
@@ -216,7 +222,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-character-arcs.brs",
-      "sha512": "ff15fcbe4ae6e3b4afce154b9717c27faa53fd994f6bca9eb9e2861027f93d488646d67d4f7beeae741ced7570f196e715c250c096291c4a09febf97731d00d6",
+      "sha512": "2553fb260b6235bd63bdc613f697c29c8c8a81e672b5e36d9f5844b62d9ca86c11df06eefa7ac750b6a4b1898682ee613cd44453444b855cd15d61487a0afb70",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-character-arcs.md",
       "tags": [
         "craft"
       ],
@@ -231,7 +238,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-character-material.brs",
-      "sha512": "ba1180e02a77a8a4f66249af720385b8eb09b836bb60ec1e88806d891531a6d446fe2cc135446541f9834102f280dec673ca5c32b971db05e0a928fb8279e41f",
+      "sha512": "5fea9fbe60200fb475930e3c2dbdecb950fac97c273123111b18db07dcb21ac4b03537aac3797932a67af639d77e8233b7169afc015f384825fdeec0a7ef5ab5",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-character-material.md",
       "tags": [
         "craft"
       ],
@@ -246,7 +254,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-character-voice.brs",
-      "sha512": "5657da32bcfabe4a69f29629b103ad832a9a8adff37ad2bb78b60c301bfce303745756922ecc5b00e412fe6e4dbfd93956c6bffc741a46a06f2a11b5b1525544",
+      "sha512": "b48a7505d86f1acb272b1fd3ac6e1a77295b8549b2aded6a384c0ebd239538fb7886a23f9714ccb6fedf991e0123c9e60db7ae47562bdcc3d8aca8cfae64ff5f",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-character-voice.md",
       "tags": [
         "craft"
       ],
@@ -261,7 +270,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-clue-red-herring.brs",
-      "sha512": "99646be56b1df075dfd217537a733b0b214d6fb977bc1427b8d2e32e2cd42b966cdac3026127c9fc16e5664b4b6261cd922c2ed0dc2e7c4865172e5499b7cd89",
+      "sha512": "4f88460482205ced041550f98dc5ac44d63391a8448adf6b78f351e7ecbfea8c085d7b4e012330c208e86d5c47d02677b99deb52cf1b6dc740dd716086b31a8e",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-clue-red-herring.md",
       "tags": [
         "craft"
       ],
@@ -276,7 +286,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-coincidence-causality.brs",
-      "sha512": "a67542edcb40dafaadbe82983acfbcc0246b4d65663889abd4248e8474dcc8c4434e262496ced6c48cd446ae070d22506b8d811fa362e288c199021ec300dd29",
+      "sha512": "940b242c236a88e93484bb9175d61d57faafda7bb87adb6315af5d24f0ec847ea6083468e146b127813d175effea1789017bd48820964df243c59b4267e14b7c",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-coincidence-causality.md",
       "tags": [
         "craft"
       ],
@@ -291,7 +302,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-conflict-gmc.brs",
-      "sha512": "18e5e30ba39da35700923d7ee00e86f8598d39d1af5ab1e2b475dc7a0264aa2b33f097c2b314e893025863e42e225ed2a7f69adbb125b9dd1d70512e7b4c84a7",
+      "sha512": "50faa524c244d975985159d47161ec4da01326e01cea4dd3ba3b1a3a5beefc39f31119819923620c99b29f548bc200ee34fe54e8b6849d9f8dd48540c7c2fa2e",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-conflict-gmc.md",
       "tags": [
         "craft"
       ],
@@ -306,7 +318,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-crowd-set-piece.brs",
-      "sha512": "a3f852e031265cddcad5cbd9147ace86594ff63605b878493fdaba830a70b0ab4bbbf23c59553b0187ae074a6eb0fb188ed0c4036c31a9d867a3af9d3b5fc1f4",
+      "sha512": "4f32aecca1a3d697bcdbd97f2b71326ff0184fa67f9ab147e820fce17ea1fe9ddb9a7ee2a9306aa8d9daaabff9434da7760be5dbf07eb820e693daa53984c62f",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-crowd-set-piece.md",
       "tags": [
         "craft"
       ],
@@ -321,7 +334,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-curiosity-info-gap.brs",
-      "sha512": "f1ff814998c9feabf716488bd833a58c94925ae8ef969df8b4d019374caf7b7664beef9462d0c2d3a875e8e1b7056809e5d4a48da8a3156b9b0635501a278667",
+      "sha512": "b78b72b1113f2f8b18988f9e9a15739f8be9a7bf260fb0288d9f5bb8d821d910c9d29db471d0a519b57863dd1066c376b3065adfac87e11dc0be54aa8a5cac04",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-curiosity-info-gap.md",
       "tags": [
         "craft"
       ],
@@ -336,7 +350,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-dialect.brs",
-      "sha512": "db457dab1d9cc594a6827bb204973e3d85758032fa660be1cf2367e98ee0f4ba5b7ef57e03d3bc98d38edc660adf559bd973d36d047dba7e7c14c23c6e41c5f5",
+      "sha512": "25c5e9da73ada9149b4fc4ddad8ab32cad786ea7a73dd261e87aa4021c4b5fdae3fad7f12c345f3ca1e82d47eae30e1a707419c0167532cf03ba71ce514054ac",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-dialect.md",
       "tags": [
         "craft"
       ],
@@ -351,7 +366,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-dialogue-subtext.brs",
-      "sha512": "f49d0209f69d15a57fe60b5637dab39c590111360df5fe0e9154f7406221ce27c6c10b9a6203548234c26d430c0f0f64f8ef66a52de7730726ccf6d7427e4611",
+      "sha512": "fc999b8a3f678856133798f19e23bd42436ca6a48df6afeeb91f2c1a33d5e9c76f276d17c3b97a725f22262e9027c7a3333f14354dc88c2951e130370438f291",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-dialogue-subtext.md",
       "tags": [
         "craft"
       ],
@@ -366,7 +382,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-drama.brs",
-      "sha512": "82fda82056cfe33bf8594ce01895fbe019f47d0b0661f920fd9bae72715704dd87c33fbe8fbc309602862cc1fa675fc2fedf0dd82dde0046a745b99b0d8222cc",
+      "sha512": "b050ac91fc553e69bce4be3b48ad5c69b91a32ef8d3581fb2b996d4e1bb44c9d2ba8d3e7e942358d45b5b8e4b259872f3231a665cb5fca8b0f623b3e62095192",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-drama.md",
       "tags": [
         "craft"
       ],
@@ -381,7 +398,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-dream-sequence.brs",
-      "sha512": "8f664425824509b04542fbf39a9e5bc18ba8a6f6ea54a34ba8b59f5f20d29aa30d20a6f34b30b2d22d7eeeedd8f6e5216fe561a0c554b0570bdd0c8c9d1e1829",
+      "sha512": "0a0d75ea0e9ca369ff67828b7963692b06eda86f3cebc4b4ff75e0cbd125e1a6a9ace7c3f8e90318e4c60e4eacfb3c6fdff8f2ccf931b9e2182c7eae5d5454f8",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-dream-sequence.md",
       "tags": [
         "craft"
       ],
@@ -396,7 +414,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-dual-timeline.brs",
-      "sha512": "c70f36db177c227dc5e173db515ab2ef10d14b5eb35ea946759f8ec5e3e5bace591541ce69c5ede94b06932658dcdf140880d8de86b0f076dd4c1149a526a981",
+      "sha512": "15f7ec8a8905ad6df7160377d8ed97ca784faaf0b49323a279fea7c2791001c883f2cba326878ea93222938684052a2ffc8083dd9e968f4724f2692de3250ef1",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-dual-timeline.md",
       "tags": [
         "craft"
       ],
@@ -411,7 +430,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-emotional-wound.brs",
-      "sha512": "c1dc39301e1673c9ec41e69a65a39d315cf07632326b751a954e1d09b31c196b1b533a44c9ebdcce64597fb8e18a2cd5dc50b58290161e2ea184585a384f7cc0",
+      "sha512": "f56460b7945819517d7e42938fb19837f189de131bebf59bad074aca51d9ba4617923861ae1b2e7072d13e2879fd338464f123c564e9c61678d8c4a7c6a5a81d",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-emotional-wound.md",
       "tags": [
         "craft"
       ],
@@ -426,7 +446,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-endings-resolution.brs",
-      "sha512": "97adbf818d703f9b0f027e970e27facc253d9ec61db209409a16e54f5f02dabba8d176dcee81b69d0a841fbd88fda09318f73ad985253e162c0953e7e1af8255",
+      "sha512": "caa7fb6baec01fada56f4c7e963759a3bac2073fbbb5b2aeabf6b2721db90f876139e4c817837eb4ea4e792891ec88049afcc0ea13a079624901ca7052d19778",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-endings-resolution.md",
       "tags": [
         "craft"
       ],
@@ -441,7 +462,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-epistolary.brs",
-      "sha512": "da34da5a3e3adecd4f27f12d97d51a6d825c6184102db93f96dd143f068003c81d7bbe21966f43d31c2b06337e1529285fc2d6189960326b9ab3e52d31fa31dc",
+      "sha512": "fd08961f7a25a70dfa1e354a3acaaf4a87c9124bd5ccf3af8440d629e22de751b6ff3cac589d9eba2513e38bcda08cfc2fd88a549119c94ffb397198472dd713",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-epistolary.md",
       "tags": [
         "craft"
       ],
@@ -456,7 +478,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-erotica-style.brs",
-      "sha512": "02f50b35379c4f61319ebab5dd89cb421e1784730d207351aebca6246601dea5b032167a0dd1d8f827a62f7de61dbfa0b15a166fe0e79601b4300710df17a0ab",
+      "sha512": "e10d2033ff02e7e1fff28c1fc7b4c82aa2e29903850b1e9e157c1f0ad4efcf75b74df62cb1f711928c82f6d0ed44120c7adb5eacafef2b70db0d0affd6cb4d57",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-erotica-style.md",
       "tags": [
         "craft"
       ],
@@ -471,7 +494,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-flashbacks-prologues.brs",
-      "sha512": "474afc9cc04e42c5c3e0344620694a587cd3859cbb4df80710cbac1bfec9b28beaa0c9ba787c50015c3d3551b0f1723750b916bf01086f92219011b2c54f0f99",
+      "sha512": "2e59df4fe6b2d903a380198523f96488d21a946e481238a3c0e8fb19b262f86d5f27f8796604edaa247f8e013a22645205e19cc3d39ab613cd66fbed05293b94",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-flashbacks-prologues.md",
       "tags": [
         "craft"
       ],
@@ -486,7 +510,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-food-set-piece.brs",
-      "sha512": "7d1005570ece92e5b281fb9dcbfc8c5a997c467f488964fd4bd0e76c183aa56db440e01bebe38872399da1f5401133356528a60af4b6f258e7a692a92db9ca2e",
+      "sha512": "50c6a1e6e3250a704427bb90d02ca70e51e21811c4f7594b4c3510d69216f14c7b50a3b1d7b69947014cd1674fc4e12242731f0ed326edefdddf9517b49eb603",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-food-set-piece.md",
       "tags": [
         "craft"
       ],
@@ -501,7 +526,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-foreign-language-on-page.brs",
-      "sha512": "d1848c4edb50319dd2f8a2fbc47ecc3a77e6e3a6469a408f1aeba7f83fbcff3eb010de0aa9ab422f17a90b42b09383af1ba9918c603beaa5909771050d26e15c",
+      "sha512": "82cc77e2d26778a123b876dd35e6333f927d00fd3fbb902df16ac62fdb7c9deb2cc336b647354cf4885d1881119258ad474845496ef391d39c5fec640fa14c98",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-foreign-language-on-page.md",
       "tags": [
         "craft"
       ],
@@ -516,7 +542,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-frame-story.brs",
-      "sha512": "0559acb5674898821fb5433299deaf4061447009cf317c76f0d370f47b887a8f2d88a5e7f19e3c9459a0b6f0282de7d53f820062e802c3ee613693effdc9d711",
+      "sha512": "c32492f1f0f8cba3b35c211a8cfc0c3d233749dce6e49e1069c670ab90684403666cb805a5f0e11461f74521a51d8fb8106f0b652cf8453d2641a3e11feaf55a",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-frame-story.md",
       "tags": [
         "craft"
       ],
@@ -531,7 +558,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-humor.brs",
-      "sha512": "777c5e240894bf1f3c9caa50003405183cbb734dfb1f423fcc68a041de5e068184a28e5c36c4de43481479c0573d933ffa67958a12f7af0a84f1f4a199470184",
+      "sha512": "26d32fb124097b4820ccda699cb445ecae4fb434d1a583439f0d4b7085142e2a20fad9a5a4887e289ed1ef57efe2d614a3820b6531a586731e21052452176d55",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-humor.md",
       "tags": [
         "craft"
       ],
@@ -546,7 +574,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-intimacy-scene.brs",
-      "sha512": "88a46cbe6d7357a04efce18f6886d67d30fde40b4761980c78f5ce05d4524101c817a9fb30ecd5e1e5e0c117767663626c526b5e28e3d22344c0f4776e21861d",
+      "sha512": "dd6c000c3d99eba9dc073565c9e3c71326e53eb0bf391c23e5b07c11636e2b3644bbdf9e2aceb81fc746a7eedec7f1a2a2a275a2d8d3f31b0c24dd573baab9cd",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-intimacy-scene.md",
       "tags": [
         "craft"
       ],
@@ -561,7 +590,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-jungian-archetypes.brs",
-      "sha512": "e171c133cae0e69eb7bd824baf8335a462fa55ab1481179bfcc97ef25a6f4047fba8f5540b92c2cf627fd7fdf094ca0e57f44364bf8b2c2e331ba78371d1ff90",
+      "sha512": "978466267f1d05d62e62cf4893039564f711314e7c43f46f9ce4d2e5a8bfe5869fdedf5472d8de8895495ad614a1ca3c1d74b2f48cf55df37a28260eba198f41",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-jungian-archetypes.md",
       "tags": [
         "craft"
       ],
@@ -576,7 +606,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-literary-fiction.brs",
-      "sha512": "73e2695a3f923e4c5a7392c688a95d6dacee717803ac74f27bb48875c6ce92ef74db7e9edc861b0abdddd3b3c365c47bf7da93e998284b09db5a5557d7f8f9a7",
+      "sha512": "2f53aa505d1a5c0c5d52def742f2eca0127a13ed3e110855bbf3aec728ba9691320f20bf9e9e603b7d624384478fce33efbfbba1c669250be24fbfbe4d084391",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-literary-fiction.md",
       "tags": [
         "craft"
       ],
@@ -591,7 +622,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-macguffin.brs",
-      "sha512": "f831df262028359669d90c4ad04b6b9bd8d3aeec90cc2d5eff3e2a894d517794522d8bb97ec3c0996ffa4acb181d3a82647ef804ff32d7d5884bfd73069f279f",
+      "sha512": "37ebd50ec6d45105e2a43b85f92bf7bd5c4cb0842a96376599e81ea951d86573246487d7084c3633fa283f8a2a0a44f1b35ba0adee74f6aaec3058e2384e2528",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-macguffin.md",
       "tags": [
         "craft"
       ],
@@ -606,7 +638,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-moral-dilemma.brs",
-      "sha512": "62b54d3c48e30ef2cf6e877f6f67006afa8945c52dd930d006eb8f64a49baad8ee45fb91dcd5656a1e3325683c30c8658727c106f2e5222793660810dcdcfbb7",
+      "sha512": "e84a45bd2338f0513be26cb9b5ac1ef938ab76b0ffe3a4195737b5ab30d8602e0307e7b67a22b35ac43dbb5f0db6fddc8aef7b09a5df2c51979a2035009b79a2",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-moral-dilemma.md",
       "tags": [
         "craft"
       ],
@@ -621,7 +654,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-motivation-reaction-units.brs",
-      "sha512": "63504270987ca315dd45a00343e3bce7258c7ac6a1e3492bf53d0f870ff07f9d9a7464d6845db5aa266c25eb09bd3e9a41faba431cc163a982350c5ae810e9e1",
+      "sha512": "622b2c02d779bcda908054c75ee1e02931459e6f191fc05532e3dad82dcc3a0c23b9023dee67111a68c8be8b0b8677230c805c006b2583d0a554497169ad04fe",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-motivation-reaction-units.md",
       "tags": [
         "craft"
       ],
@@ -636,7 +670,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-narrative-devices.brs",
-      "sha512": "5f15a2e955f4ba40ba43e6c8c4dddd5db1f36152fcbeac7e5c9d1a0678c9efcfeb902b105164fc2f827ba6916c58d68b17070379b3e68e2de19ff0e4f06e60e4",
+      "sha512": "4323ba591b5e465e30a836b6502ec4a68fe8794bb6e6b1641e415ad7c9c85406f545451a62e712a51d089d8af3ffc5fca9eef29bdaf4e385bc8033c701137adc",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-narrative-devices.md",
       "tags": [
         "craft"
       ],
@@ -651,7 +686,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-narrative-structures.brs",
-      "sha512": "e618e4b12f83f27367faf7e935df38630f6ecb52cc26770cc735b26d82596eece724a87a7d3bc0946107d70514fe8a8c5fae70781ce321799c0d19629c281ce8",
+      "sha512": "673e5c94e9329e6376d3180409b343c60f8c0ce5bf22ff23dcb3f08f69d545c4270b5e15ed4ec396f90a7c5deb25729d7a6d54ba02a9ec4ee26fd90780e143cf",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-narrative-structures.md",
       "tags": [
         "craft"
       ],
@@ -666,7 +702,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-narrative-voice.brs",
-      "sha512": "1504a09591bb4ed250656b25d42add62e7eba60699f2daa7da0054ae59f9a653d67d81513ce29a0f595430ba6210347f6a51c1326e2f3b89c2a483bb8c859296",
+      "sha512": "7b951221d636cc6f7a53cb59e92be055b1878a7ba64d83915e7ff53a67f96901074342553155507f7ca172c442424e0efe1053a16ce50e94f0d81190f0f51d4b",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-narrative-voice.md",
       "tags": [
         "craft"
       ],
@@ -681,7 +718,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-novel-process.brs",
-      "sha512": "bfb58f0c95889cf533df5750b7690f6986f8765c7d2e96a1839a5bc04462ddccdb3609865624cd6377460394f59ae01d644ae212a725967fed0e123662f3db8e",
+      "sha512": "f142bf9554d60781bccdda563c755c3382fb8978e4222796d7e31a3cbde8923a0dda49345dc48bca1076aefea7facc4e44d2567cee1cc8245a8425fdc16eee34",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-novel-process.md",
       "tags": [
         "craft"
       ],
@@ -696,7 +734,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-openings-hooks.brs",
-      "sha512": "0ff517384d8e64d2e79c710ea211294f4f095b4f754650ef31a3890895971ec292bd8b6dbeae73409614f00e50e3ba3e0c78e0f5a1d054a4a3ae1e5561f90efe",
+      "sha512": "5cc7a183ac578366a0946889a3a6092bf88202d256342f6126126d4da8e183d8e2c2eed2d804e9e4b1a9754e8501a8aba86c95c12e4ea7ebcfb1a4961498930a",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-openings-hooks.md",
       "tags": [
         "craft"
       ],
@@ -711,7 +750,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-outline-schools.brs",
-      "sha512": "924a49e981e713131a55cc4dd5f1803cdb737f124cc6676d9dcb0efa73400572b1f468f1ebdc1ed5b11361a32e86a8571c2d64ddd61768bfaa58284a742120ac",
+      "sha512": "ea33e5a16fd2dcbd38762f0a2a2ecc997c7fbaa2751c57e22f6dafbd9cdb09bae6e6f69a7191b70907e3f12b7028e5357477c3a1809c6c6a942ca6a84bcd1f1c",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-outline-schools.md",
       "tags": [
         "craft"
       ],
@@ -726,7 +766,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-pacing.brs",
-      "sha512": "45478607b494aea5bb82d8083b07d96161ebae44900f70d9494155a18a3302987a11863cb59a156a73cdbdcda8b5b048136a2fc019c83ae0d1a554181604e6af",
+      "sha512": "9a61a23dd47beab4b17378b045d92affa51f997f489b046a943025fb002c8a4009310671027e824cfd8cba6c8904eaeb92575e4db21caa91b7f2e21153cc7dcc",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-pacing.md",
       "tags": [
         "craft"
       ],
@@ -741,7 +782,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-plant-payoff.brs",
-      "sha512": "9da0c6d98af87ffaee904121aec0f21a2d6938b42160923592568e676f517a41a400ddfd8ce2a5c336903339a16b39ecb30e2f56af38e98f29f0c067606c0d11",
+      "sha512": "b97cb0b25e08cbddf071e63bac8f6abe7d9c9949ea0d208c6f1beb53d961b770c36b41ac4d381b32bb2df795008b41cfffef70a50b0a9015800f656043ec419e",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-plant-payoff.md",
       "tags": [
         "craft"
       ],
@@ -756,7 +798,7 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-plot-beats.brs",
-      "sha512": "d13196ce424f34e8406c5599bf3806193dd89154ce278e73f3374b67eb7782006bdb3d0d709e28f8371de9a91c2469c2249dac3e4994ff662008839bafb83b64",
+      "sha512": "a80f49a1425a6d23d9de55e7f1ed46393bcf8ef019d8307815d3b32dbd4cfad868586f61ccfb1913dcba24bebfe0d91450fa81cc4c4c2c4fdd710f752d33d99f",
       "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-plot-beats.md",
       "tags": [
         "craft"
@@ -772,7 +814,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-pov.brs",
-      "sha512": "55eb8b191282d698aa028ef21c33237cd871791367bda9a95b03223d2f7a7e9cf4f336db1484d7fb24c53f1084197e8e874c6aa50206fb8b0fd6990aabfa966e",
+      "sha512": "973ea746f003922ee141ac79d4cc11c1734498452bd73af114bedd5d6c1a634cdc096627bf3cc5ef7ebdc003676467ef767452ff7898fbe6bd33030163c5d373",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-pov.md",
       "tags": [
         "craft"
       ],
@@ -787,7 +830,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-relationship-dynamics.brs",
-      "sha512": "eac206722c109293df728aeebf8fde6de5413ff126a49b8f506f40512e413611d9294d30cb22fa13a53fd90c651c89fd09b241a3cd7cab4b15244fcf9ee3b338",
+      "sha512": "848143ead7e07012f6047e75a0861d637a075f7352a00aaa66ea96eae12cf0ab67d6ba4c09c1c89dc0ff3e7b3df7965ad755d4b9e361852f870e1fa2c1c327b8",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-relationship-dynamics.md",
       "tags": [
         "craft"
       ],
@@ -802,7 +846,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-research-method.brs",
-      "sha512": "d17086112479a56210d1c637c3b96c2706df45d87979e7c0fff065a3108c5b47151ee7b0d3f39ddc141db123c3a007b35e33e1e0208e04ad1a4da5b36e2f62ca",
+      "sha512": "0708278708e88282e3a6618829b16099ca43ff6467ec97af5f8255a08434ac13ec7b5e02066b494bb72973644ae186a714137f4d20e51d69afec96cc21eac1a0",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-research-method.md",
       "tags": [
         "craft"
       ],
@@ -817,7 +862,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-romance-arc.brs",
-      "sha512": "44d50cfa40fd0319d6cdc9b11eaf1c9674165e2ff835e5f0135ac4bd972d7f58536d35d2c9d9b43879da2c9d74daebb2bb2e160343baa524b6badcb90314ebab",
+      "sha512": "137362b503730086609707af4c83a1d4ee15ab6e8e644d4a8e791e4483fc99231c6f45e2c09687bffdf0afec68336e58f40f856556552d8fbecf60d23fc955cf",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-romance-arc.md",
       "tags": [
         "craft"
       ],
@@ -832,7 +878,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-sagging-middle.brs",
-      "sha512": "95350ceafdf02072f1785c0677de9829a786a78ed5115b3022d79a8b44420f397d8a2fb1dae27aadd2bfd87430d24d7208724dfadb26e563ae3a69c437babf04",
+      "sha512": "878bda42ac5f74fedf9554295679d52d0e7b23066c562553a448a8284532ae713fbcd254a5922d77b047f1d49850f4ca39c2415bba48083eb2f8ca604b3ebb14",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-sagging-middle.md",
       "tags": [
         "craft"
       ],
@@ -847,7 +894,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-save-the-cat.brs",
-      "sha512": "b62199c18a6ea6ad0d769cb54d449d3acd14376d3d096527abd676b6dd6c39a5bbd8e63aeea799e967cc67e970a79c1901408b626c26db40815f35dda770d05e",
+      "sha512": "d2605a569b46a4222a79648a8d2745c24228bbc2e08a368cd4f8507bd3faeb0fb3a6372546c03be471c96023a40149e3393c396fc23d3b18a3b71e7a2ba23751",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-save-the-cat.md",
       "tags": [
         "craft"
       ],
@@ -862,7 +910,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-scene-sequel.brs",
-      "sha512": "e0bcdf3dad9be9f369110cfaf5aea1b737dc72eebb754557cc123ae1722f80e1dd5f7b267d0fbe3e1e64b0e07c99c223f8734ef4ce08711a7769530ce73693a1",
+      "sha512": "2e2540e508de7bd148e8ff9854efe6fc3b9da69eafd900eeee73d8b022fc82e4a4a4379023622cace4f1fea2578dfb492bd2a2d6a961908afece089ef2032966",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-scene-sequel.md",
       "tags": [
         "craft"
       ],
@@ -877,7 +926,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-second-person.brs",
-      "sha512": "950ad23fecaea41c3175e2443981302af1dc77eec84a0fa11f9278fd209cc1ea4298dd8bfee64e6d7b551cad778a30239907841daae86e90b82ba80c34194dae",
+      "sha512": "d7d796134af3808e3881c7b44327de2e9705e28698656c1f9bf40aa8445d958368eb241fb05cebf08d379d1b07ed697e8abe15455f47c8a071e546384edb8e6c",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-second-person.md",
       "tags": [
         "craft"
       ],
@@ -892,7 +942,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-series.brs",
-      "sha512": "25f49438fa9bbfdaf36c250956fcbc3de4bfb76a023f8ea3498d367d01da034d2aa1cb60612c34202e26b1e7d3d77425b05cb44d57e15e31674997696a497451",
+      "sha512": "a05cb3657003ff3e658241ab45d4755f5a31736d7ef7462a21da89196b670c417d7e67c52bc4f18e6352d7377f8015f3c8f8332061479800987a6af0d5457a58",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-series.md",
       "tags": [
         "craft"
       ],
@@ -907,7 +958,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-setting-atmosphere.brs",
-      "sha512": "d23820057b7b818494145664bc6f44132ea4d5577774a265bfc5d7c3c7128cc5e721abcfd03f06089390f1a3c0160a01c16aa35bc03b3add7fa3fc73df65feaf",
+      "sha512": "3810c36a2ea6ac440d25bf5065614ff164108f44e22e161347e4c6ce7ec9bd819cf0058e9ca8d6b51420499a30e928ec07c7b371966b45711997d9a8d1c4cd25",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-setting-atmosphere.md",
       "tags": [
         "craft"
       ],
@@ -922,7 +974,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-show-dont-tell.brs",
-      "sha512": "e84a87d5cee777738c03e60fa267677a61e93b0ba95b70b792f59bbbff13c52b8d9b51fb2b7e663425e9209fbaded196165a2276a1715ece7601465084889548",
+      "sha512": "0784061f777232c46b4f45f19e558b4b8abfc7ebaa0f5804b7e127bceb6773c674fd4fa0995fa918c5896cbb788c4a6b43ab8add2abafe6feb6ffe57422878fe",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-show-dont-tell.md",
       "tags": [
         "craft"
       ],
@@ -937,7 +990,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-snowflake.brs",
-      "sha512": "07c8b8c9b26c36a8bbf72a1d782df31e34bbd45147da33f41239f06549782fefa610027690ded009f4eb01f72a9cfb148f991d92b1020402bfabefcfea34afb1",
+      "sha512": "008858c74e084d876bbe5e3b9be41926356cdd51a51c13137cc44fcace99a1098ed77e269d0f1fca13a493c797e6052f205947b419bd0c3bd03aea3704176b18",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-snowflake.md",
       "tags": [
         "craft"
       ],
@@ -952,7 +1006,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-stakes-escalation.brs",
-      "sha512": "4ecf88d40aa34a43c38e405dcf09b01198fe5705e20f9eae51335b3b10e3078f28f6929e18f0596c0ef2ee5df2fe575db6744c4dff086934192f2f7234406423",
+      "sha512": "a2cb4d8aee0aaf356d1f2fa91033bfca30185fd862904ee82e638d0d88f361af609a49869d6dd2bd17263c4605cd4f89c639ebde2c1d84ead855c6afc727a8c5",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-stakes-escalation.md",
       "tags": [
         "craft"
       ],
@@ -967,7 +1022,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-story-grid.brs",
-      "sha512": "408dcde2a00e84b10615c1b225ff3b5d3355f4263a87c6c9d1e818ec74e8c3b357e843858000cf104f5e7c8e203586f92fad60489b19ede93af354f9f13e7045",
+      "sha512": "fad6ab03847d0aafed5d823d5c6562b0b23946dde1c9845f6020b974beb3535bd879b1361ff5175c0955c95bf80e5ee099abeaff73b63fea8f39eec9029a65cb",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-story-grid.md",
       "tags": [
         "craft"
       ],
@@ -982,7 +1038,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-subplot.brs",
-      "sha512": "dbd8d15760cb27582a6eb0794f87afc743b92a12e65ccc67a5e6844d5adfd637c6446905f696c1fcf9e6a2b495bb21ea10ca0f3c810d437db4491ce58c88c254",
+      "sha512": "db7ee7035c57f16391f1035b0f128ad1dd9e0220b7cd42b0e02b929893fdc650e1b4d3d6c05dc30824930719fe473e88563fd5a6bc8f1a6203bc502fcf945397",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-subplot.md",
       "tags": [
         "craft"
       ],
@@ -997,7 +1054,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-supporting-roles.brs",
-      "sha512": "bcfffb2047952309942df1a5cb0b6160f7d223320f455efa8f8974b405cbf1e7de39c0bbda4a57fe59d391cd455046a8264779974e73da24c73a3f9d37d4385a",
+      "sha512": "c56cdea5bc2c846e74079e938b6720d84989b8a919f4f285afac65c3cf3f624e91a2df7a8637f870fe0349ff7eb4fb15fe082551359eeb1acec7d410ed485aa7",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-supporting-roles.md",
       "tags": [
         "craft"
       ],
@@ -1012,7 +1070,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-symbolism-imagery.brs",
-      "sha512": "895aee82dffd0af3f17cd98a1aee932890abf76f50f318ec36ce574520e9b04cfed3d28dd84833396ddeca9c8659211402a969f90761d2ee1207ed8aaa80e29a",
+      "sha512": "f85372afc35456ddecb993ed15a7bbdb9a1cbb02f4d42ca1254eaf328487bf7aa4d6b6667f29e09e9ef74af4f3bb7f315afbfc57c5f33cd128ade54ba18cd50a",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-symbolism-imagery.md",
       "tags": [
         "craft"
       ],
@@ -1027,7 +1086,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-tension-suspense.brs",
-      "sha512": "36e9c6c7592420b42cbf8881499b0c2a04aa866d76cf0049d67af8ecd024f1f5f1f24fc5013e9fc128aed0463acaf56f963bfae399150826371732477f2d8ab0",
+      "sha512": "5d2fceaa0e0f79df62ee5748e29fea6ba5186081a3ca98b1433f04ad92e41f79fe6eb68e51e1ef2b03057ee4b6c2b719b1dcd7f0ce82d6e47faeacc4d71e92dd",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-tension-suspense.md",
       "tags": [
         "craft"
       ],
@@ -1042,7 +1102,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-theme-motif.brs",
-      "sha512": "00e79724724186417e021ff039b448ef9b7680e7238bee03ad1abeae45213d4b128f6e90137d76818e9d105829b07473f28ed9ea39feca72119cdccffea9d937",
+      "sha512": "1228ec7b2b1cbdd2d6279bd426c545fefe552d47fff7408418114a4d6743044bc028da05ace30c7928c6c97f2efcc9be75ace3faf2292b17f499f458b175030a",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-theme-motif.md",
       "tags": [
         "craft"
       ],
@@ -1057,7 +1118,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-tropes.brs",
-      "sha512": "e32e8ea58cc4511fe0542a390b3bfac8b627707c36fdfdd93886e7d9605f88ff383f1a2da4e25b9af146ecde999ceca0672f5f8845b33c22b71044842dc78087",
+      "sha512": "23473fbb4570959e28f2008855c81218a86308570be8b18eec872d0d5a6e8730494c2a87e9c1df29139051b845b461621502fc75d8124073fbaa2d5e3bad1997",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-tropes.md",
       "tags": [
         "craft"
       ],
@@ -1072,7 +1134,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-weiland-structure.brs",
-      "sha512": "8fb2d4344cf81f9bff598d9eebdba475868cd0458457359ca3ee89b42f94e01e549d7a3b95a625eb10cdbb3a7f0c6a7215b0e627ff652fea9f783f04cb7344cd",
+      "sha512": "a0e41c138ba48556504f13b9da23b76cb110d65d0eb776224df08c0cfe715e69a1fe29b4b8fc9fb29ff6dc5a3957917257a5bc0f7f92977f8265dd3d89354f27",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-weiland-structure.md",
       "tags": [
         "craft"
       ],
@@ -1087,7 +1150,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/craft-worldbuilding.brs",
-      "sha512": "f16b866b9a7990b18b6a3fa622b788738bf225d79f78f8654fdd73453da99e90602c5f6ae0fb753b913ea361237d611f4630943647cfa8ffef5efbae16c4457f",
+      "sha512": "907ea908b085ced01c5bd791a4ad851e52b71eefec6c1c3e38a6063d17dfde53dec2f7a9def7d51c4d8add6fae3fd7d4885b1ffb87a3cbb447168d74b68593a7",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/craft-worldbuilding.md",
       "tags": [
         "craft"
       ],
@@ -1102,7 +1166,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-action-thriller.brs",
-      "sha512": "ffb738420dd8f413913384794f0c88395042a7c920dd7ab1d4c69c92d76747191661a7e6b88664c05d075ee8b74541a50ef67e09a470f91316463cad405cf350",
+      "sha512": "a233ca9dfdf30d5e4399266eb785008bb04b1a631d3c305fe9ee6c10f6d409da216fa412612cd78171e292cc0ca3131a34fa2ed9bb5f8a2669ad2c621b104a8a",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-action-thriller.md",
       "tags": [
         "genre"
       ],
@@ -1117,7 +1182,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-adventure.brs",
-      "sha512": "ed657fec67c434b740787b7d17742da949bd6395d80c469e93d1cd1a207753dea08d0c34d507cff40d4b768fdb72139dd560f85388c1dc298302ce1e0fa8d8f9",
+      "sha512": "d257528121e9e0b4d8e87c944e88d0a4c59a7660a43956ec88edef10809aaaa2aabe3b70c93867976ff0ae673bec6f191406cdfc4acafd1ecd7224c323e1cd70",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-adventure.md",
       "tags": [
         "genre"
       ],
@@ -1132,7 +1198,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-alternate-history.brs",
-      "sha512": "1bcc068bee9853e69fda9d301a682e2836cf3cb067df5fd7ddbb8304559421b67c736fac2c49527810010048d7e4721633ad1110a6fc1122449f231d7cb28431",
+      "sha512": "2ba01bca7895f1366fc1da6a594565195150824630fbf8d412051f973361ee7052481966c65931226dc4c26bf9150f2a9ab3a68e876ab2086dff92a218c36b22",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-alternate-history.md",
       "tags": [
         "genre"
       ],
@@ -1147,7 +1214,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-biographical-historical.brs",
-      "sha512": "43dd96e8185e2a268a5d8abfd3cdc50564f1030bc4b750e772315f46427f6ff89e226d53b510602027b9a36f76143b54b0ff1ec956f99faf408bb8383c1edc7a",
+      "sha512": "7417f81205417be9ae023fab386d4c077ab887bfe7e4e1a089497b3a02a2f0e0653852247f61ad69d2b1015f4ded28b4a77baf99f430038a3052247751688221",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-biographical-historical.md",
       "tags": [
         "genre"
       ],
@@ -1162,7 +1230,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-biopunk.brs",
-      "sha512": "1144aef3bf8d16c2564399e74b24beac01c5f4baec6d195e821c500fb380e48500d10f7ea6d3664c703db1a70b14aa84ea20544a9e8084166339bc2407f83a36",
+      "sha512": "0e575005b9590a204a6baa9aeb0bec405890bf6bed3ee3e314a6b4e0b33db37f928d84b4a624f10ea6db1478335beaf5bfc78ff9e3051c1dc016d9fa75b59429",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-biopunk.md",
       "tags": [
         "genre"
       ],
@@ -1177,7 +1246,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-body-horror.brs",
-      "sha512": "e3ce701db73719497bbc4dfd9e6868ac0557c0928895a375930885375663cf9b92d76f14c441f47cd81d8d810f44677ab9a148c547c62f9e1696b1fb54696d45",
+      "sha512": "2f5901425a8ca95d61151e025582ecc14f253c7f28008683ee055482886da627a72927622939a8f12987ba853ed2edb7bc280468c77fc6add224022520b8ab9c",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-body-horror.md",
       "tags": [
         "genre"
       ],
@@ -1192,7 +1262,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-campus-novel.brs",
-      "sha512": "ec8a6c7f07c560156f6655a80d37683b18320c2f70f963ece0f2f33e78e04711645dca58c12832f2c02f80fa8e8d4f60b23c9d9b3d312d10b5758ac0d681a3a8",
+      "sha512": "d6771c8aa08d5166021f9884d2c22e5de367e6e88d40f4d22b0a64f8b28e571153880380f5638f152db951d91001031e541221dde61bfe64f31196f80403a3bd",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-campus-novel.md",
       "tags": [
         "genre"
       ],
@@ -1207,7 +1278,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-chapter-book.brs",
-      "sha512": "486916e6a9f8fac8009515b696409c111aa9b2473442f38faac5e42fe4644f96bd5a24571f964eda243887d59f4ba960b5b1ddbcb233ef278a3b787b8eb3ca81",
+      "sha512": "c4cf6c00cd58d8678141173e9ca411e09c058cb2bcb78c7376baa23eeddd269a8679c924a14ffe7963507c5bb5f11c1531a164484db7989d9cfc92320ebca676",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-chapter-book.md",
       "tags": [
         "genre"
       ],
@@ -1222,7 +1294,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-chick-lit.brs",
-      "sha512": "aec9a93123d549b1770c35f67919e7dc69f49cb73d5bc4f0b3c2ee9dc72dfe0d171114c92fb4a4261d5732164c4b38119e32ee4c552205b04e5a6d7fa2830525",
+      "sha512": "91d24e8ddfe8f850976e167e96bc6fe7eade6d66cdb5cd9e1b3672cfd2633a8d343c234b645bd5fb6e6deee6cd0bf76f57d4efb4c4da682817b3a782a1407103",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-chick-lit.md",
       "tags": [
         "genre"
       ],
@@ -1237,7 +1310,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-climate-fiction.brs",
-      "sha512": "ac8b1af3ee3d8af3ce19314e1da5b32485809f720fac058bbc44aeb45a1b04e166c9d82207b7600fb278883398011353ac39fb9bc3f418f2a58507e2d628f01d",
+      "sha512": "bd62f524cf09306437d995a9c026109c3602e8661ab9b1e313954ec5b8fe2ecff43bf7c8e7a843e73ec90b3ceea1a919d0bf08ba364ca3321ee771ef9089a5b8",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-climate-fiction.md",
       "tags": [
         "genre"
       ],
@@ -1252,7 +1326,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-comedy-satire.brs",
-      "sha512": "9b62e2018fe0c622d19fd5c3aa80d1411c89f4e9cb955449e10df2f252a8f34c8e8f8804ae6a4e7e0574826beba6077a66a95abc3594e9ab0b97244840cddd99",
+      "sha512": "4feaeccdddc75f04ca2acfc7039ddded1ba7d7c5fb749a4a25dd486d13482943b3a6be1daadef4e118575e8926d82964391f00aa9512dfbd12f8889271f733de",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-comedy-satire.md",
       "tags": [
         "genre"
       ],
@@ -1267,7 +1342,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-coming-of-age-adult.brs",
-      "sha512": "7f08f8c9765dca7dd1618151d7c5f95718f429d1371cbfaca05177565bec2f29afe1ed0d1604f098547e9bb1384151fd1bd1eba8fc80dbf5a155e55e3d3db03d",
+      "sha512": "56511848a3a029eb1e82c1212cf82381d15436a97d22b895226c91a332df2f9607bc21ae2945da3e1cbf28cbc3d2ec200dadc01bcfbc330d3263796a38a54738",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-coming-of-age-adult.md",
       "tags": [
         "genre"
       ],
@@ -1282,7 +1358,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-conspiracy-thriller.brs",
-      "sha512": "0ee3d647fdd014fae1c4232ac25160e9765b9d70ed08507a67329c9151656647a33c4b542319e7c648ff6770c810d91add8d1eebd31510e475388bf346cc19a1",
+      "sha512": "7888183da276262680ed2eb7aedce8f8960fb5a5925cdc769911b59514e5a47b44956969c4bcdb6572b00615ea1bde2852d52991082f0699af9e619161b7abef",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-conspiracy-thriller.md",
       "tags": [
         "genre"
       ],
@@ -1297,7 +1374,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-contemporary-realist.brs",
-      "sha512": "21f20d372b6b5b19702fac93027c711e414af527b7b3991f5e371058c11a197498ebe2a2e55166cffbb5d1735bf2c58addf38a118f472b1335232b41075b6347",
+      "sha512": "11f90cc5625e7ced22af72218f219cc58b62b58d7284e32024cb8379bad4b231e3db42ac87a616fa9a324b2ad48a1a47b3a1a16c00318879ed07f1d13b9dc23b",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-contemporary-realist.md",
       "tags": [
         "genre"
       ],
@@ -1312,7 +1390,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-contemporary-romance.brs",
-      "sha512": "bcc5715bea8d61802a7f0a368c72aa8c2adb0749bee513b4f0a9418ab53eaf01b1412862465384efa96a4c2b2318f9549210b140b8f03208b97aaabca55cf6ff",
+      "sha512": "1fca0f84e08f185476322080ac928b1dd464ec2cadd14452b55f264a66b059731eb9cc466eaa8a82c7872c82c6432ca719471071e578def8b076ff6d1ec1c6ca",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-contemporary-romance.md",
       "tags": [
         "genre"
       ],
@@ -1327,7 +1406,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-contemporary-western.brs",
-      "sha512": "171f028aa2cd37bd9f8b59ef9175988e6e780796683a44c088e006a5142090b81d893977e269c5ba8c79fb91a2ebbda1afa92d2b5f6054c4dc49ed38280fd27f",
+      "sha512": "a19a608458fa495f2f0b23c90c6d0492d42b7343d563c1991c0e7dc67a7a41707725d4e21c4e72b0474719fd2014366c3b0e3029dee94be2048d006063398206",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-contemporary-western.md",
       "tags": [
         "genre"
       ],
@@ -1342,7 +1422,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-cosmic-horror.brs",
-      "sha512": "17401783dde5a70296eec2eefbaffa19f53566d3104bd82efb34a3e12aed2dd3695b7b56147aab350fd83d20d761e1037dbec52ca5346dd82babea6c58066f67",
+      "sha512": "e59fb199d3dcee370f46e15227e957bea4d7971acf79e651fed23c35d533df11a0a4456294b9dda7283bd4c2c02250b47491c0c82740b104613c7f4f714317df",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-cosmic-horror.md",
       "tags": [
         "genre"
       ],
@@ -1357,7 +1438,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-cozy-fantasy.brs",
-      "sha512": "38d4503e731a8da81e55ee4ee95cef367c163020763514f0c314b3e7527c455f7f7661f5361514eb81ccd6c7b09b95e20b1ce863effc4ea8076d5863954beaac",
+      "sha512": "817e23d389296e4d4c0457b3644255f57209ac0f3eb90a7d9dc692af2ce1964985e353a201683b7c5e8f67de3353cb150fd3065d95e86abe88fae7a88732c236",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-cozy-fantasy.md",
       "tags": [
         "genre"
       ],
@@ -1372,7 +1454,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-cozy-mystery.brs",
-      "sha512": "6fe3a179706e542740976459cf30c472048195dfd129db36e5b1091ec9699a69663434d1c156f2381ebbd74380effdb0a28cfb1862a15a911d3abac57fd467c1",
+      "sha512": "e0b4eb9c0d12a5ad0353adfc4571d3e2380221bf17a3cfc4e24d7f74a30a23e43e080a01270fac7cb5df5f4185ea4371415538b8d59824ef162f0405fe4d50d5",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-cozy-mystery.md",
       "tags": [
         "genre"
       ],
@@ -1387,7 +1470,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-crime.brs",
-      "sha512": "bc7f2b1d38583c282b4bc0a090471da4269a5a0dc518e6b949679beb5b20c63d2ecd34711ba80ff5891a949b7f6cd9077b9e3dab345d82b04f03cb8f2f307d68",
+      "sha512": "22f117d09e87bd0278fcca407879bb69f8a5b22bbb676e920eb2cec6c9f9d1e8970dc57d7ddd6bbcddc6961b47020cb05a7913d8af4c45e50ed39daa6fe63d1c",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-crime.md",
       "tags": [
         "genre"
       ],
@@ -1402,7 +1486,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-cyberpunk.brs",
-      "sha512": "383c2568b698922825cc3588499595ac9b4856bac86ade80ea0dfac11148881c1eed76a12f018119abee3c3482ab254a70652d320c67f39d8c87abb307626721",
+      "sha512": "bf202402a24b2bc2dbae3113057df7cae83b3a70b230d9bfd1032bf6ea877bb2bca1a6e1f6f3a831aa28dc4eb26f4252b66c3eefde21278c96e570c5cad48cd9",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-cyberpunk.md",
       "tags": [
         "genre"
       ],
@@ -1417,7 +1502,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-dark-erotica.brs",
-      "sha512": "72a55ae59ed4bb2a028f4e077a22a5843ae8a1aa1e443706eff159b24aedbd6d6e268ed80f3c4f4f637cfefc53cc251c36bd54e7a615018b184b5d12b86b6cb8",
+      "sha512": "e598cc49a43573e49d6c5a0ea73ddd5802942c742bc1b9f6b990654d82874fedf45c590265b41be2198b17d384fc8052c2063d0715350a27a1d7548bb0adcb23",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-dark-erotica.md",
       "tags": [
         "genre"
       ],
@@ -1432,7 +1518,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-dark-fantasy.brs",
-      "sha512": "f2d5e7a0af4b781c9353771220d9f3879be5e700409dc7ad3fd833c8013b59b30207c61a6d85f1064bcd7f73c4470ed71795615ae435ff94046b7a03b5fe2f44",
+      "sha512": "763ccd3ff45fcb56aff54b56385a90b7017d63cec8001647dcd0d7f249729a828a923956ceaab149f9343540924c962e059dec009a0d6a77e6ac9acd6b51924d",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-dark-fantasy.md",
       "tags": [
         "genre"
       ],
@@ -1447,7 +1534,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-dark-romance.brs",
-      "sha512": "6d74fcc2ca2fa0c5f3371292523445d109c04b796a253a924f07999fc74c7c52cc7f50f27373846f09671344582a9c543d73d980f90b7998eac0746ef4c50d0b",
+      "sha512": "fed74844ee05aa4b099cb4263829239c8a00abab8015a94a41461b8113d7d9767669f3b28d4950dc44bee4bae6c59682521983bec2f41b9f46138bc006a3e00b",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-dark-romance.md",
       "tags": [
         "genre"
       ],
@@ -1462,7 +1550,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-dieselpunk.brs",
-      "sha512": "2ace7e612a914d7d19ca0afd212924bf5db8866efbd339d33bc2a03b907d5d64352252a3318b3ddea2ac0bb9935a6c50a3e40f9b9e31af62d57e0c614a5b0d02",
+      "sha512": "740ba1e93ff4e1d199d5e5c29276a855032613ad720b31a0d145e5bc57a8cbd2d10a4321c520bb380138a575c3cff579db6a572d2d949d19482d06b1c9db96fd",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-dieselpunk.md",
       "tags": [
         "genre"
       ],
@@ -1477,7 +1566,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-domestic-fiction.brs",
-      "sha512": "325ecc2b46c6e7bb89724622452fbff8e304f462bed3c70328a7d21973c9c4c2edcba854e909453c3a7f4d53f9a0c418145eec79ae202e68fe69bcc08734449b",
+      "sha512": "421f2bb359050783c48fb041c3f195c85625f19836974294b98a5fe3da1917b0a3a6728b1c237da4214e1b03d2300acd7e325a01804ced163cdc387bbed73a8a",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-domestic-fiction.md",
       "tags": [
         "genre"
       ],
@@ -1492,7 +1582,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-domestic-thriller.brs",
-      "sha512": "ee3df484dfc536f35ba4066b80de059773137cfead7de62590835c305c451c45604058c942a9ee8d957db3d4ec9936855896c3e1803454e9ace2bb30bf3f10b1",
+      "sha512": "d6589cdee742a0d9702751bf94201e6117b26a05544f8435a522c1e9829d6e9a19591cab3baff3049d7a9e8eff0e8cb12018f4b3264bc052f272440981dddd77",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-domestic-thriller.md",
       "tags": [
         "genre"
       ],
@@ -1507,7 +1598,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-dystopian.brs",
-      "sha512": "619d84dd81064abffabcd4595a475e72a31a9976b7d2ea00ca348bdc32df33f7a73ac758f8771566f42c88095c388e0a24f55faac9c73ea5377a7a27669f25da",
+      "sha512": "d3d581e334ebf44f9661511dcb3fde72580e89af1e3c712dfd2ff2b46418b90dedab66adc7c9f63494a6b57156a39f33fcb7ad0065dc37de9293a88e20dd4525",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-dystopian.md",
       "tags": [
         "genre"
       ],
@@ -1522,7 +1614,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-early-reader.brs",
-      "sha512": "c906e1f28e68b702b82bd306f8b33775b665503017125a5a32fe9f9f9b81e867a2568d4c0472f8f5a6eb32cbc3b3a6c50b80ea7f41d46cef87d11af0fe7d7fe5",
+      "sha512": "22626f718e4f56dc93dd9068b608b87a90566254fcb790e500b12a2e87edc41bb4a9df708dede8021cc09223bcd32acb4e6bb2183505f9eb513f0cebf9966368",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-early-reader.md",
       "tags": [
         "genre"
       ],
@@ -1537,7 +1630,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-epic-high-fantasy.brs",
-      "sha512": "66df1e05783d48c3c9bd6899dc671e4015ea2a366917e30ea3f97ac579ccd4e6a3c290a6b95a88762a7594655ff12bbcc1710e4c57fa4a1bcee911286328d05e",
+      "sha512": "e16c5ac90336ee8cb76d24110788c3ccbe23fd1c286cbd0b12ed2ed529503ccfc34f0edad9e31f74aebe20de80d0f56171270eff80432e045bc93cff033241b3",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-epic-high-fantasy.md",
       "tags": [
         "genre"
       ],
@@ -1552,7 +1646,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotic-romance.brs",
-      "sha512": "74cd73fcd0640edf9406b5dcf8c133e900dfac3de56b36df54261d7234404850b0a72446775eada803d62bb08512289ce8c5a4eeca10fc6124a81f5cc2bb3432",
+      "sha512": "cd2cf3682cb03ed616d4a31d2610a5621138e68c6ddcdd01b1d9d13db502b5db9a5a06da182d9852985c38d095576693adb96525b5ba1854904ded6407d046ec",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-erotic-romance.md",
       "tags": [
         "genre"
       ],
@@ -1567,7 +1662,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica.brs",
-      "sha512": "9243f1e8ee235bad78ddc5e343548255146da81d1968a3d174705b7921e5f7f7ad06f94b234028bde9cb4274a38271f493ab3a0213973a780d9d28366ea2c7c7",
+      "sha512": "0e3814b789467aac354934bc761ff99a51cf759a1d259756dfa4b6ecd1f2ca7c4fb31c8b6d723b72178f13a42e3542bb931abc4b468c956be1bfce636a9c26ab",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-erotica.md",
       "tags": [
         "genre"
       ],
@@ -1582,7 +1678,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-age-gap.brs",
-      "sha512": "0bb2ec530a19dcc612b59808572b44b32b66fdc3d5c9e9c7a977628d085ed7358c506e0efaab05633564284ed4e8f6447cb01997ef57c81baabb9e79d1663cb4",
+      "sha512": "588470fb1ec9b2cae919d907be0c23fe125b071a38a8a8af49b277a1b45a5184aa24933e7c29d16d9c836cb013a01bed43028d6d7252c58abe58452bde291238",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-erotica-age-gap.md",
       "tags": [
         "genre"
       ],
@@ -1597,7 +1694,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-bdsm-kink.brs",
-      "sha512": "44f2e396e6bdc7b39e28b7b455ec8f3d72f267f0dabbc888ebabe1ab501e8c37de182ede869413fc78b58bf9529c79133880dd50b9eec7efedd6178f7556c4bc",
+      "sha512": "949c763c556e4fdd00bae4dc5f319f80d318a603ec9775bb57b8f397fe2af5c1a931d8e017fb6df080b87b0571f8e4c146eaf5f7c1e1a1e5e61f75990134865f",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-erotica-bdsm-kink.md",
       "tags": [
         "genre"
       ],
@@ -1612,7 +1710,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-billionaire-workplace.brs",
-      "sha512": "369c4874086cd4836e1416de8802e70cdd3ff6d5f037e0ee8dd2f25af681056b7f18edde43112a58705f6c141180e5cfb2d96d4d734c8e3d19eed8b38b1f5fed",
+      "sha512": "41be1ebcba15430c3c4f19d78d716b8434b5eec45e1a28c97d188aadb834d07bae063cc0681c029567e671260590b7abb349d5fe8cbec4332566ec91e011971a",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-erotica-billionaire-workplace.md",
       "tags": [
         "genre"
       ],
@@ -1627,7 +1726,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-contemporary.brs",
-      "sha512": "038f572295db09d2bbc5a3989dd5a92be062c8950e1015b26794dcae2e7e8424fb9d5105c4b6e9b3d9cfb16d70c353c585450e8cf6367270debbca114862e45b",
+      "sha512": "9ccfca5fda4f2c0fcf5332eab8966f8ceefd021718798147bc83fd7d6ad37486287f6f36897e5205fa75dd7dc7ce922ec3b432c24e9d2db7f4754d5b86cb16db",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-erotica-contemporary.md",
       "tags": [
         "genre"
       ],
@@ -1642,7 +1742,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-fantasy.brs",
-      "sha512": "20c0443bd9cf54847f1966bd14a89781ed35af130d3532e87a864218079f35bb12d5ffdc9e0db0d358e77c4211573920596fa0570f1ae05713fb229272d2f65d",
+      "sha512": "2f637dfc3468a59d46b5518ddbc14819aa00f6f9bdd905f41bda0167189ae5bf3d38c4b6586b3a889a45676627216034bc20d23e3f1423c004bbf92ccc834416",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-erotica-fantasy.md",
       "tags": [
         "genre"
       ],
@@ -1657,7 +1758,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-ff.brs",
-      "sha512": "d61e115c4af79cfb75938676a4a5b8194f9841acc8913119ce76192b6bdb82b644542ca112cca5b43ae28042030c955d50ec3d8eacd6efadfa636ce8618d23da",
+      "sha512": "157426bfe789dcd53bdb1f59baef75baad0085d9c07965dc4b164b29f65928a8cc47ba6202be430a294aa83c7c9d8f695d59d36f72eb5ece6dcd34b228f6d225",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-erotica-ff.md",
       "tags": [
         "genre"
       ],
@@ -1672,7 +1774,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-forbidden-taboo.brs",
-      "sha512": "34e66c199f2c08c9e132f4a7099de9486251ddead999592d2ba17ac1b46078c9cf37d0b5a01ad1e90d4f54b609fed7d5b4424a22d89f78f3144eb6d649f41776",
+      "sha512": "0c48dcba790a0b62d126efde0c796d0943713cd90d610f087e95abaae5b56509cc6a8f36c5af3d52798f068dc3481fb00d705c9c2f3a882c9a929fe3aab40211",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-erotica-forbidden-taboo.md",
       "tags": [
         "genre"
       ],
@@ -1687,7 +1790,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-historical.brs",
-      "sha512": "c7e5a7b2aee3672ae3123fba4974faa008081f75d08c8338b316ca0e99aefe188bf9bfe94c688d33ee0d0468820827bd74f16587b8691fd69a5bf89197bb10ac",
+      "sha512": "d647b5d1b3c49326ef9417cfdc9251f02ce803bd84df64182b2a21ab1269755a842c441b21816f62d57b0f92837ddcdbbfddd2d1f3be15496d19bf5f586f9840",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-erotica-historical.md",
       "tags": [
         "genre"
       ],
@@ -1702,7 +1806,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-literary.brs",
-      "sha512": "cca5791b3e9df5f64e9612ee7eb258a86f5e94abfa1e7b6243e16b843771cf9801a6e67533edfbf5b17c13d9ffebb0ab9013c378b84624ee16ba54771b673482",
+      "sha512": "3b0996a38226cfc866a51fb6d326cb7ca8d645466523e834ae65bae3cb662183d622b151d01aea2715230e825ed693d4380fb0787dc65556b03db3aab7ba9c40",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-erotica-literary.md",
       "tags": [
         "genre"
       ],
@@ -1717,7 +1822,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-menage-poly.brs",
-      "sha512": "39520a68c6823ff9a56e595c71d8fccc3792f50cc3c65b4fb312395f72fb7ccb8faefb7f075189f368534c016679f3651b6e246897ede99709dfab4c76c646c4",
+      "sha512": "3707bed181fab9251a37ba51009dbbd0cb6b5d10d081074ec4b46d452fba621afdf98e6359c7cc84fcd152dbbd7212e001dca424334b20b76cc3c1d2c2b89145",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-erotica-menage-poly.md",
       "tags": [
         "genre"
       ],
@@ -1732,7 +1838,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-mf.brs",
-      "sha512": "ae6a7ef34aadf9f171db703053de5d5905308287473cf227539a70cabcdb61d8fb060ed98a14976faa9aa08a6401cbfc1ac14cfe0506d6eb65aa9ab780d66169",
+      "sha512": "aa6ae8e8290575a9eead9546d3e88c02aeac17a2b2b102a7f261ec1664751aeb4aa04281512ad9cb991730a0332900dd2c2aac2994dca212efe0aba31025c20f",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-erotica-mf.md",
       "tags": [
         "genre"
       ],
@@ -1747,7 +1854,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-mm.brs",
-      "sha512": "c82ec63f28bd4c5c65412e0c44b9d6b308d840837ab7156e6b19ae6c61c155a0848deea2a068260cd4c7b7b973dfc0e41e5b64dce8ecb92d62b80b73dbdc0db8",
+      "sha512": "f6d04384d7661e51a0d686a1b5273ceaee2c8a9050800ce39ee90df0e5a287c60210903f2d988843b077b8c2d16d8ee4963b018152e92fc749447bb2e0edd29b",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-erotica-mm.md",
       "tags": [
         "genre"
       ],
@@ -1762,7 +1870,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-monster-creature.brs",
-      "sha512": "035c8c63aa3836d1d323927d26323d7c17e656c903bd98d22379821da25f7f20277f291bb3a2631f6b14fb60bd06cc53412af7d7a1677af5bb97553b0b33a933",
+      "sha512": "a5be950730d3a66891ebd8f93cf6adce7a12a302a6198932a65a352545d99f895be66b10f9c85506ac1fa7bb109adcfc18a751e89e6ce4a56f915d781aa1e9df",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-erotica-monster-creature.md",
       "tags": [
         "genre"
       ],
@@ -1777,7 +1886,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-paranormal.brs",
-      "sha512": "d1d488673fc2654df487af9af269d465db48d3d9f9f836d2e1d0673043893dc0393eb0439e3fd2a11a296ace383da820031256e4db7dc0810cbde4fb4ff087ee",
+      "sha512": "e2584fe352253e243864c3c91a6e45ed2fd50e4eda8a6e5c92eb030eaae57b9b9e955e6e7a43d486a59ad276f86d8691bc544c013992bd186053b00d2c3dc019",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-erotica-paranormal.md",
       "tags": [
         "genre"
       ],
@@ -1792,7 +1902,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-reverse-harem.brs",
-      "sha512": "e69e33b0767174936ef6604aff8647df517ba73856aada22cfaee9ae39fc445536f808a1758c2bebc1d96d87e14d373bf55ac026c33fad6cc93fb4d306fb773c",
+      "sha512": "b559b6b9ad663b7d9fad0e6722f2b61b73d1179af69e6f6cf25a89e8920ca6ade499e9f95ffa51b8cb0f49aa3fa39174be85945c0a20142a798d1a4ccfdbf7f3",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-erotica-reverse-harem.md",
       "tags": [
         "genre"
       ],
@@ -1807,7 +1918,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-sci-fi.brs",
-      "sha512": "5cedbb978766f652879d96a5fc5fa2c7b01b5bc0c5e11952e452187f178111b7723924b748de7529e760ac11e138ae1c8b520289292af7a21c7730593570473e",
+      "sha512": "ecc5cbfe7b3e92f6f482b4238762547f52deee321bc97ef897fb817f9c1f56103666ad07dcc2c0f22e38530e303e87a53aaa6f66a4dc0b4e2b51ec97ea4a7703",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-erotica-sci-fi.md",
       "tags": [
         "genre"
       ],
@@ -1822,7 +1934,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-erotica-short-form.brs",
-      "sha512": "27de6b31787f6414af0141a548af21df3049bf3b9e3f82749485a4893703f8e9de2857fd5288b6deb96acb7d1121bb3a038e595e6464c3a229605c83b53e59ec",
+      "sha512": "d08357ba3783a7cee480d825ff1326fbec8fa26788f92349846f78db34b6b3abfd913603a2b373ba06233dc480e517f1fc15f08a811ebd6f650fbdea3aa788a8",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-erotica-short-form.md",
       "tags": [
         "genre"
       ],
@@ -1837,7 +1950,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-experimental-postmodern.brs",
-      "sha512": "19d6f332bf234ddb0b91b635849e63fbef069a8b145e933b955cbaceaf24cb714c2f97d0b5396c4ee8982107c9b958bb1219a5b19910c5270abb52489fce8368",
+      "sha512": "0f84cfe1506d0df788a1297cdc6329c830fc081b1f57e056ec14bd44e700dd020dc85a72724136526a440aca614bc853e249a9d3b593dcbdb31516bd5d9363dd",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-experimental-postmodern.md",
       "tags": [
         "genre"
       ],
@@ -1852,7 +1966,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-fairy-tale-retelling.brs",
-      "sha512": "d80f9d82444706e7f118ca04eb7411b58be9d571320acb4fb563acffc60a8153d81dcd878dc3988dfa20c747b13e86416204ef8dc4ca05aea12e7cda484e7a8c",
+      "sha512": "b3281f540a4602e09a03672eab9fea7f3762c43cbbd034e12f6bfc01023150deeae36ff7c698e07065242935ddffaf46088a8004bedab13fb65011619e88a56f",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-fairy-tale-retelling.md",
       "tags": [
         "genre"
       ],
@@ -1867,7 +1982,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-family-saga.brs",
-      "sha512": "aa346857c98cfbceb2064f4d2b7b568dc8785c92a8fc9404d08e0fe42d7c04cbd3f37c38d01fa392563723518af9db1b93b6830ee7ee2cacfa41368635fa078d",
+      "sha512": "d942a73262bd00ddac00d2fd32297abe6ba74c17ff1c609954ee5e17a3610c8f3393e6c1d28ae78cfd81057b9ddc679af1b05d827eac4106c78247729ea93938",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-family-saga.md",
       "tags": [
         "genre"
       ],
@@ -1882,7 +1998,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-fantasy.brs",
-      "sha512": "984ad6951f3f72d87f21b54a0041024a42100dad8da1d45a43422197d72dd92820cc84b3ac26121240fcd9d0303efaa64bb664ada70347aac281f2fe991fd07c",
+      "sha512": "7d0d1a78b032ca8561a539672a8fe79ca953392526e859e94d3bbd3690160f4c5b3adaf82855ab8802430f8f53159ea76483847a975b6a30012ce27fda602ceb",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-fantasy.md",
       "tags": [
         "genre"
       ],
@@ -1897,7 +2014,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-farce.brs",
-      "sha512": "65b5ddfe8bf5cf87344ada6ba23f671cd2d736863b3057012a1eb4b47b020301ddf99a30bbfef6bb62246f4004d76dd46916ad3dd081b0c595e210ecee1f829a",
+      "sha512": "5bebd576a5ac3c43e64ce1fe339a42a5156d81355420034433fee6671cf113b5bb4556104e2cd247529a6b053c638701dd3aa0011c7b3d7316f658ab55b64069",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-farce.md",
       "tags": [
         "genre"
       ],
@@ -1912,7 +2030,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-first-contact.brs",
-      "sha512": "f37213283e3a0e45fb292bb08acb3a9808d601e38929fb7d5e24605a0f2e06856977822a851a5801ed74d1b42708869ccae779bc6786547f23a77045b1875731",
+      "sha512": "32c01441af739dc68827e1ee0578ee971887792467ef9275d60669fab81f5232190238a9499568e55acbdcf5f62c4018307571e538a597b498e4e1d267d8e617",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-first-contact.md",
       "tags": [
         "genre"
       ],
@@ -1927,7 +2046,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-folk-horror.brs",
-      "sha512": "a2052ad833beaf95431fb3adc475eb7a37f897da97b4727912d994a6ee246da15bfa6d30794457b9961a913aa9719188d09b1fc6a0b880d08c588b0445ceb6bf",
+      "sha512": "b3ae5a5e1806756d4a1df40ccb4820b175b68e936847abe801f68c5d2723c7e666e59f983bcd54fcd9cb1cb18b51dbaa4b65827bc8839440dd8c3c615c19fe5d",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-folk-horror.md",
       "tags": [
         "genre"
       ],
@@ -1942,7 +2062,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-gaslamp-fantasy.brs",
-      "sha512": "44d5433764849335420119455749dca4f9d985cdc007aa3ebea41a319043296de37b86c3fccd2edaa1c509a86d312a7ee88f259994cbd9926366c552a01b135b",
+      "sha512": "ea846612433a9c2c68401b4e223259d5e43ddab283abe06cf539f599ad3f684d5f7c03f1740876632ac0c1d64d36e28f13d50d432a7aaf7277e8c53142d3e670",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-gaslamp-fantasy.md",
       "tags": [
         "genre"
       ],
@@ -1957,7 +2078,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-generation-ship.brs",
-      "sha512": "873aecb96d6de086fd9f133c2c69a0a2c3de8dea00ca86babb1231e736f1e0dda10e80debf94e15b3924439730bf27688426cc4b82d5004d2d129e318ec42868",
+      "sha512": "3cf88b9af7e267c695da26d9b82bb48d2ad2fd6b332f7981559867a43776221ae9b2a1d8358bf4e5908b3206acb7dac3570eba7e32bf5161917fac0f938b9e04",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-generation-ship.md",
       "tags": [
         "genre"
       ],
@@ -1972,7 +2094,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-ghost-story.brs",
-      "sha512": "f9698dbab9d1ce222d4bea329705ba6ee4520d5e6fca75ad7c5385b47008af1a3c31c99c4359197c48918a3754a126bf144524f53798a7556d5dc2b1b5535d3a",
+      "sha512": "325292196d4163a32cd0d0f6eaaa26282f97ef9841c6830fa66b05be3013f5272c40799eebb98a6334bfb8e1dacf99bb2b6d767ef2786467e52e97e9f8f63277",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-ghost-story.md",
       "tags": [
         "genre"
       ],
@@ -1987,7 +2110,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-gothic.brs",
-      "sha512": "0b2dc3c9fef429c288a1bf66cd2e39562097ad8688fb13ef838588b87284115c524d7fca278df7510f3fb78e98c69463f9dc6b896c3593cc63a04a362f201034",
+      "sha512": "7b135a893f303adf25f8120e7e6798b0fb6c4fc45b4007ef1edf1391ec2706315dfd3e663b1d92aaf0f3abf23f87b8ee507d978cb39e287d1c02127fc9474fd6",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-gothic.md",
       "tags": [
         "genre"
       ],
@@ -2002,7 +2126,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-grimdark.brs",
-      "sha512": "6b6de90330ad570ee7590f3b29a8ddab9106f18e9e545bfca0dcb495a7aa57c5bebccf25c98b1964990a754e4f4f100bf3e3a7d9d417cde13016a15c8c35fa27",
+      "sha512": "7260c0f453681bb6920cdafcb15cefda88f2894bb29eee3f64d1bd5a7625ff922c2ac71777642e1fef7f5d81fe5702a098729b0aa886844f656030d3043d4c29",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-grimdark.md",
       "tags": [
         "genre"
       ],
@@ -2017,7 +2142,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-hard-sf.brs",
-      "sha512": "ec6aa358885d7ea7a1a6e98e3d665a0f8314a89c41ab258f2ad8b466fd819e092af9d43985d5cae373f06723002f192cfe71cc2f17437aa4a454a6e9d72fea79",
+      "sha512": "3d1362425d8f498370e5b6a666205ebb62ea4d93b20e82332c401e6e4c9f2b1f44b5f8ab1c48aed1532214f5f8489a93d7aeec08e8b35418a2c866f580de9952",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-hard-sf.md",
       "tags": [
         "genre"
       ],
@@ -2032,7 +2158,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-historical.brs",
-      "sha512": "a3b153a7a56f8e1b00150c5bf57927e8ade2f34727720ebc3f31f71d84b98b01e9a4b6be688f98330385508a180e64075c90ad4f69c2958bf7c9e38493590a99",
+      "sha512": "4ba980445f6a9fae1356227e134f180c96a805157fbecba610a162b9e95759eeb6760490361cf19370aabc46335a4aa3e4b24145be838496b04991eecc746e8b",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-historical.md",
       "tags": [
         "genre"
       ],
@@ -2047,7 +2174,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-historical-adventure.brs",
-      "sha512": "5a841070b447962e1ebe040b080c44a69659edba2404592bfa3e30e417f723b1b51f9604d9ed500b4df6104bcb3e8dd14c5eb946f2c36fd25a7910db1ffb370f",
+      "sha512": "bb8336c1ea16de01b96056e6063ba71cb18646d35d44d70166d0ec917184dc4881094abe983533748c4ea319a331a95aa630a292a5b2755d1a9ab36f4847b701",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-historical-adventure.md",
       "tags": [
         "genre"
       ],
@@ -2062,7 +2190,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-historical-mystery.brs",
-      "sha512": "6f42e987517378ab8e805ac2512ae5db01c4cbc9ae7c2477dd90de9946b76ea69ef53dae216394d44e94a535fe5df0e15de48fd9910f50fa8f66c3a3d4897ce5",
+      "sha512": "a01bf793c1461e81a18e5cb0907941672259f581eb18bb03e52996b84c0b9a69363c6c24dba14cdf24412f4711fce664ad31884f2c2a29bebf06f269d2026ea1",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-historical-mystery.md",
       "tags": [
         "genre"
       ],
@@ -2077,7 +2206,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-historical-romance.brs",
-      "sha512": "fb9647ae3d6a10a72f1428f562f15aabfe19143983c1085a9fb85c093ac0ddbab29eea4e032be94aab23f8bd26704e1af18b1b417d19bb583d4538aad9e8f837",
+      "sha512": "700f27fc542376f9f43bdcac05552970d5deb628d33de1f233d792159d9cb5881207115c251059cefc8a3525bfba544134fb649d053daef213e7744788172ee9",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-historical-romance.md",
       "tags": [
         "genre"
       ],
@@ -2092,7 +2222,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-horror.brs",
-      "sha512": "a23c710f053ed70080eedf168baca358a4398bde4fbb2af0faf795f7af59821426385d219a6cc8d3efd5963e08053e05a94c30cc1fb422b116110a947f910001",
+      "sha512": "386e1164bb486631ac3dde99ab3456ecaaa03e898ad6cfdf29ed82d520538e01aecd28c96b16c6f80f434bdeb8f742ca4c8207a134979ac051a27177cea8e5f7",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-horror.md",
       "tags": [
         "genre"
       ],
@@ -2107,7 +2238,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-horror-comedy.brs",
-      "sha512": "9e4909921f8b30165e7dc0ad12bf9dbd8b76bdc89f28f54c274cfc044d00d36798eebc65954f17efe745be25abb017f8155200bdfa21fbf17c3b6f2b1f6ade70",
+      "sha512": "6f439249fefe2ffe7d9efca727de1a175a7fedec8bd8cd67bd707f8ec12e4ab59817ef89b3960d13f1f57a70c3b968de186b65f1733358f1e9ea8434948a36b9",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-horror-comedy.md",
       "tags": [
         "genre"
       ],
@@ -2122,7 +2254,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-legal-thriller.brs",
-      "sha512": "d75788cfb4f4a1fa73d4e2998fafc40b5fef3cd1925c353258e30d5fb0ad6c6ebb1f3819566ef26c2251dc35e12dc1df9f9af27b0ae34e82e1f1c462eec61641",
+      "sha512": "3c0c33d2355b15dd84ea1c1785c3b5e21293e5d08fa2629b5e56254add6b8eaba4d62afc8760d48bbd868396e71e2b0908a37bdef312c9e9aebcd603dc43bbb4",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-legal-thriller.md",
       "tags": [
         "genre"
       ],
@@ -2137,7 +2270,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-lgbtq-romance.brs",
-      "sha512": "368c56f30a11a2988a8303ded93bb204cc803151efd88b516439151390270a561fe0114a7f061ebfd1703da6cb87484faebe3157dbb1c606f7f9b5b82ec48747",
+      "sha512": "96caca7bf54aeac093edd5ff3f4a7ad54319b59855ab05c168f4a0d5cb0f835635bb6b2159971cb1a13bac6cd0e68e24004b84c4bc06a0b3ee36ebab9ad8263d",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-lgbtq-romance.md",
       "tags": [
         "genre"
       ],
@@ -2152,7 +2286,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-litrpg-progression.brs",
-      "sha512": "7aa85367bea185adda6616b955caa810b87b9cabefeb407efcef0f5502ee14dc9ae04c8c7a92ff2cd6e4cf2806562cc13f3174b42d43972db8d5d56319cf3c00",
+      "sha512": "fdc5f0967e2f06d20559cc918280cce01099c19d336be2a44f36597902da008c553497c65b3032aa61e50de9a7059b60285a2c9ca2db6564572d7cf660ec07e2",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-litrpg-progression.md",
       "tags": [
         "genre"
       ],
@@ -2167,7 +2302,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-locked-room.brs",
-      "sha512": "20db5390fa1e0a1bee9171d05acbccbd3e478ac83b0a13064efe1904313867942bb1c21a74ea3786eafd022f7a5a7b3291d25c535b15361dce2fc8c89e6250da",
+      "sha512": "f39fa2411145cf36fa3b8444636c0efcfeaa8cb5575352f6f8f0c947261a550cbe2dd42a4b7403642f7a1c255a62150c285a559eb579fae57479fa3a0c6400b0",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-locked-room.md",
       "tags": [
         "genre"
       ],
@@ -2182,7 +2318,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-lost-world.brs",
-      "sha512": "e42c0735b2454dcafd46f4cf76205edceb368e084ee1c16c59dae8f76c6199938bba52966886d7c92f0639ba98a2c0bcdcfb9763987c3731df878b426a792f9f",
+      "sha512": "89d38e5dc0feeda0be573d3be16a84c99e446de575e66cc230592c6bbdd80087da2d79030bcf95e293795eb07fbf2317d7da7fdb441310d1e42b8c76e9fcb677",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-lost-world.md",
       "tags": [
         "genre"
       ],
@@ -2197,7 +2334,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-low-fantasy.brs",
-      "sha512": "0e5650fd0c9d7809a9308b06c4c57d1a11db0fdf6ba8eea7f2e87e35247a67468ab4e221f4efc6c5f866e5429aaf47514969de791ef6c4fbc1ada7d5d17d0ea9",
+      "sha512": "533fcfde777ccd5c1ec7e4116b26bce5ae0bffb67ca8d22d132e842b10bfbd1f13fc033ee7bad7a4df3e714fc4cf1378e5cca67704d2cfef6457f0fef531ae48",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-low-fantasy.md",
       "tags": [
         "genre"
       ],
@@ -2212,7 +2350,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-magical-realism.brs",
-      "sha512": "b74c161a5ad6722b51fc59c83b860213c149122de5622599ed4a26fed57b90ffd5570c2a7e8f4ac4eba8912b55db4e15fe6ce10f67a5338aad51770971e49763",
+      "sha512": "4572dd06c00cad6fd0b08cdf2bc7d538de3f7351353b1d9b7636ca069f4b8e847f42954ff416dfe9d31b6dd32d6ae98ca6880c4afae7df2a3b5d3f2ce3a4e803",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-magical-realism.md",
       "tags": [
         "genre"
       ],
@@ -2227,7 +2366,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-medical-thriller.brs",
-      "sha512": "86168d3cd2f7a4718bc4c1124a8b6ade684a46b924f23c3f6dc6f6835162020aeb930454471e0a021f27a5cd5dd1b5b89c1e3db39bf5824608d9c0a53ddfe3a2",
+      "sha512": "3f4bfdee1879e92479f6952544539ef081f6fbecd28303c063a69ea7f4e46ce623bd1f8d923c6f16c34d232626668db7da19177ee63e2a94c4841496bd5c7a97",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-medical-thriller.md",
       "tags": [
         "genre"
       ],
@@ -2242,7 +2382,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-middle-grade.brs",
-      "sha512": "c2951ca3a0671d9d72ed1ba61642f0a1ab66096cb43a2c80b00596b7c3a08363c49b0bacf2d0551f655293dec6372c7f564711324b024dc0ca1e73c30f26d4fc",
+      "sha512": "60bec89a7ee6ba85e20e01ddeeaf989cedd70a505f9540caca5381c275a2ac374cf67e10eef4936bc910825cf862dc1bcc2dac1cb25703b3af384909e61ae2b0",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-middle-grade.md",
       "tags": [
         "genre"
       ],
@@ -2257,7 +2398,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-military-sf.brs",
-      "sha512": "c581841411b9fc6cf554e254d587133add6056dad5685840a838cc63052db1b796ef01a3b3a1235f21eec533aec6a3400534b7a771a9fa269c367461928e350b",
+      "sha512": "2cbafa59077174aa3593e653f68c0a5d71e5f9f7f5568ec7529bac36c61db6c04fb92ca21281e51ec659160fcda210e9c862379896fac410449ed6d85d59d7ff",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-military-sf.md",
       "tags": [
         "genre"
       ],
@@ -2272,7 +2414,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-mystery.brs",
-      "sha512": "0632b75d6150b87fb2833014d98f36759cc5151cf3841170c860d04ea6620b9b928bb77a96167397ac6f9e9e245ff7360519acf4526fdb27a7668e4b4b8a29d5",
+      "sha512": "bcaa1542811f2faef63d5b9e4820c8324a9f55edda2d90aa6989b3ed96051805858ec7bf7a441af58eb937f47dafe3615f48c215afa5f8be214d022aeb21cc3b",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-mystery.md",
       "tags": [
         "genre"
       ],
@@ -2287,7 +2430,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-mythic-fantasy.brs",
-      "sha512": "8d6de8b898580c0c35fa7771917542c47158662c28870f8ce8629d7b4896c7e37d5fc30a453ca4dfb2af3b72ee45027ba6eb3ef75071fad0e5fba116b75e9a38",
+      "sha512": "0727ebe456daaabe409ccafb58e146c65a3489f87682e4d8442a5d7e4e5ebf93d77c4921379e2bb4c770f6055e3bafad05316e4ecfdb1520bc47d64985aee8e7",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-mythic-fantasy.md",
       "tags": [
         "genre"
       ],
@@ -2302,7 +2446,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-near-future-sf.brs",
-      "sha512": "2061e7b640396db7b29b15da91a4daeb4730c03058c73e3c35ac41029969ef11b1b60a8e52ac7afbfeacf195fb2de156242d26b8ff5b97346ca5c9b373939064",
+      "sha512": "73ef53c0805416a8b5d0632934ecf727f13be6d091be82c55dce75bd2f3bb750145a1bc7811159911020e7f4e9e428a6b465bd81374cf94aeac0c8b67807af2c",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-near-future-sf.md",
       "tags": [
         "genre"
       ],
@@ -2317,7 +2462,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-new-adult.brs",
-      "sha512": "a4386f826544ad108f78b75acb4873ab6286cf1dde7fbddbc1862331ca9480ce54f39d100cb1f44f70d4d8c13c1f55f7a8fda04b382fc924c7757f746beac009",
+      "sha512": "b95d2b54bceb103b8dc48bca5fc8c26e519e3d0708fd06c85c4f91fd3215e2f8bede0ed5ac9bfefb0ba8fe584dbed62d259e404011b6c2a11eb62b2f8014f1ca",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-new-adult.md",
       "tags": [
         "genre"
       ],
@@ -2332,7 +2478,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-noir-crime.brs",
-      "sha512": "429db4de053cf6578ff340937e70889d879425ca11f795871004096476bace816da1fba6e82b545d2a03269273ef3d0bd066c19c0e996829e07f399e2fea95d8",
+      "sha512": "e6d641302d60d4536d21cf215996f0de099c1b8a572a74562994669f4fbf0f9c6aef985cf4d160dcf7fae5187013892791c97ed9f57cceb64ea014e24c00ece0",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-noir-crime.md",
       "tags": [
         "genre"
       ],
@@ -2347,7 +2494,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-occult.brs",
-      "sha512": "9b87b4d3b4295cdb42826b599acd3d2e8f0182b614a878c45b8b586d38a6dcfa15159b591676e16556f32268598a3df2e13e874782348e90735de943acb0ad39",
+      "sha512": "7335aa47adf40cff788bb0df5a8ac8598238c1b1ef77d10b97481ad30c61dcea7c2688d4c7dcd367931eb850d6621ee1411694cb659d093a2631191dfdd59861",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-occult.md",
       "tags": [
         "genre"
       ],
@@ -2362,7 +2510,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-paranormal-romance.brs",
-      "sha512": "5b9ad19cf3131ffc3f5b1bbc34fd7c740f2c36221ff0c285c53af37f0f9a9f6582975f4844162b9bc370fc1cf3c08590e671fe0694ff02fa8128e8c3484d340b",
+      "sha512": "f75ac002d84bb35c6c8a92c9940c1de1d7290f234a9e021b9937c64c675254dad7a701f1cfc531c2c2fa5c14a66d0c7614ac1c5a1c8b7e8b44bb7a7fd005c729",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-paranormal-romance.md",
       "tags": [
         "genre"
       ],
@@ -2377,7 +2526,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-pi-detective.brs",
-      "sha512": "59d34864c356bfa582730885d108731b2b144802c0450c1c4f30cbcf8efddc878e836500e92f388c70dd9e7158490c90a95b7db48bc2e34126ff0a98ccf27b48",
+      "sha512": "1c9cfd83fc4caf81a0ee9ed178303672c234e4dabf63ef43a2fe793e453a08aa9591a2aef3cfb4afd4bc8a517b39d8612736b13ea9e9ec7131f50dcade0ccb76",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-pi-detective.md",
       "tags": [
         "genre"
       ],
@@ -2392,7 +2542,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-picture-book.brs",
-      "sha512": "44904864f3128b8fef73f672dad804e3837cb6f675b1e9d07f94575872feccbd588d7cc41001f032547552ce7cc450f154f38de7e5d676019d97f2064206f063",
+      "sha512": "779f1fbf62d7aeaaf600e530a621a4db840491a31969db373a1f0b04f9ad87ea22487e5d2573525d04fab29284f092c7cc91daef2b8349b0f518a77beb251e03",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-picture-book.md",
       "tags": [
         "genre"
       ],
@@ -2407,7 +2558,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-pirate-nautical.brs",
-      "sha512": "d71c70fa9ad0bec30e7ddf53a9d8c217879af705255efd00b0bb368ea0b32b6e03ea0075957e276d23fa4601e596268976ec6882ed5657bd0e78084c02cb272e",
+      "sha512": "99df52f4189c53c0f409ef70a9ec13e1beb8de5ed26a5a63291638d1f49a55fa807175e96981ec9e010434b14c9f6b29e2378003e4ef2d150fdbeca0b4f3f87f",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-pirate-nautical.md",
       "tags": [
         "genre"
       ],
@@ -2422,7 +2574,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-police-procedural.brs",
-      "sha512": "91afbcd5b8ac80fb1076e754e9d1fc2437227e5f6e6150d487c5f987b06245f2e4392b0edc934373cbafe365d72133605518b432ab763cc4c3c92a5b74b1025b",
+      "sha512": "b6df9c6c4f11e0aefb9a1081a257b3c1f202b98b6562ad5c3619f32a4c85ae33268effb5bfe0fa3f8c2416281390ce09aa83ab3a87a05e9128076a2f9ed971de",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-police-procedural.md",
       "tags": [
         "genre"
       ],
@@ -2437,7 +2590,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-portal-fantasy.brs",
-      "sha512": "812e9c2654b56577b733901bdac32aaa7d84560e98afd585860cd57d0c02851f3b4129f9c884a96f928fdfecf426a9bfa6aa4f8f75cecec2a86403967e53e818",
+      "sha512": "394b0cf8e10a92928a6b4291116b3436f50a7e76ba573c8153931049caf0ce1b448a8e5cf89b7ee3e2d094c3eaf15c8beb9e67fc9a18c24bd149319b6fd7d6f3",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-portal-fantasy.md",
       "tags": [
         "genre"
       ],
@@ -2452,7 +2606,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-psychological-thriller.brs",
-      "sha512": "ad9e3fec48e3b54b6a7f265f1ef8dac0c8e8517e9e572280b07a4bd80474d92e0f89b85d3418da98983537d58a8cb883f275c32a36542589cb1912e7cf7f268f",
+      "sha512": "68182768a4aa0c596b5df6eb98d90f65d7afe5efa7b0ce2724109be05423c5f27829c22f8f50d847273046d85a383d998ace914019e923f099685e72399248b2",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-psychological-thriller.md",
       "tags": [
         "genre"
       ],
@@ -2467,7 +2622,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-regency-romance.brs",
-      "sha512": "705b29d2c81b05b35240f4d274ca79fdff1370c61db62af9d801c7742925e702640fcb19475480e4c2fb6999cea634ee899b2e4a160f258a428f42422865392c",
+      "sha512": "eb04d1a2ba045013f4cda03ab588c7d68b2a513f43e94031b88ffa65370f81debdafbc28d59b2f0f9306a60b24b8c51e50d7f70a293b5e839f0bc54ceabc98f6",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-regency-romance.md",
       "tags": [
         "genre"
       ],
@@ -2482,7 +2638,7 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-romance.brs",
-      "sha512": "024ab4553cabc74e7d09e16c97c505be4a492189a2249326a39dfaa29149a3498a138f33567975a1b14f16389a15b5382a26b7d2d83f64a9e0292c9a050b0d95",
+      "sha512": "0f1a6e4bb2334a0c3d1ced0ed787bee8429b61f80386fe7691a95f6f805f685f324703cf37b91d4b4ce56a66bc42d1716922e08be2da1fc08a63c18e1dd691ac",
       "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-romance.md",
       "tags": [
         "genre"
@@ -2498,7 +2654,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-romantasy.brs",
-      "sha512": "430330cebbdf98fd09ad66c993362ad1358efbb0655f1941ddc39a9feeb44ea2f601914a1ad4b758c9e51c260e6c48c5b7b2dc1a23233caced1daf14e561ab4a",
+      "sha512": "bd23bc226fc37dde4935d4c7147779ce2fec61cc32f8e05d1f69bf641b926ff4776483e5856cae410a4697d4eb9a9f61028e4dcd4ab8a76b63472bde4a3bc41e",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-romantasy.md",
       "tags": [
         "genre"
       ],
@@ -2513,7 +2670,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-romantic-comedy.brs",
-      "sha512": "46d2365f98314cf9026128cf1772609d1fe7e5cee36b8efb1be56155700970eb2386151d19aecdbb93f3e61167195071263234a1cec3f38bb239ea63a28466b4",
+      "sha512": "c42c2369c2f414d7ca4c7ed443e0f4645dbaa70f1bc8e09637733f1fa5ff0e6d94c0f757426da1e6cd84ba1942b7b833e9e815bd74b16e6c001c28c76a41be8b",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-romantic-comedy.md",
       "tags": [
         "genre"
       ],
@@ -2528,7 +2686,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-romantic-suspense.brs",
-      "sha512": "d08ad55e679439ed5642411f5e5c7e0ee6e6a4671c3875e4c4dbfdcdda11413388d3939220fd786f84a621af038a76abafe9d5412f221ea564a9892985ff5019",
+      "sha512": "01f98f4a2bd98449a773a50effa7866e733a32296315dd77bb66bd03a9d8e328c12aabf3835c9a3acae10d6cf6b6a2d7cfb5b92743260dc2e1f56768269f4228",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-romantic-suspense.md",
       "tags": [
         "genre"
       ],
@@ -2543,7 +2702,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-science-fiction.brs",
-      "sha512": "037f8a0f9c2d733226316c3672784c44aeee4478e7f8dd038e51bad952dbe5d0df154636652cdbb079236034c50dcd78e38994a8ca37de9bc25550902efbb9fa",
+      "sha512": "1a1348dc4de2938c62568f2945fb3e14d8a58463861e96a63f2aace78ddf6f2185a3afd8a427f29d5191436f11a9f8e998cc30d5a951cb983bdc7b64ade72e78",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-science-fiction.md",
       "tags": [
         "genre"
       ],
@@ -2558,7 +2718,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-sf-romance.brs",
-      "sha512": "8bc951b45fb2685677c5f2a075a60ffa119f01b38725e3a52022d182aeef9d7bc6d1d219ef2c15d699c7022b3b5fda191339c01a0922740e0734f5e5089861f3",
+      "sha512": "8d8ee998017ca6fdbe8d95143ba2b54c046e8f888256f8715aed0b86b35a95695f08e2d88a28967332483516836b73aac1fd99f132a0d0a6b93927ac7c4a4038",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-sf-romance.md",
       "tags": [
         "genre"
       ],
@@ -2573,7 +2734,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-slasher.brs",
-      "sha512": "858ed90d2259f6681cd9cdc76129d12855a3dd857ac0a83c18273722ca8420b2e5d0e2a3bc4ccaf1a8a654f79626f803ba12c2b4903188979245fe081f60434f",
+      "sha512": "ca8a0c9d93fb1f3c6a9df4790a308f14494ca153e16c368ff813ddb610dd80237cf93366140869c4ad486c3c3bad8e89b5d5f39d422b0c7fd1c31b0afc90b47c",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-slasher.md",
       "tags": [
         "genre"
       ],
@@ -2588,7 +2750,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-slice-of-life.brs",
-      "sha512": "ea4a894c64cc6965ae0e3e603c2394f6d46ef08e07ffcb030267c6a0e427ee8fb097a142c198e1168eff461206edf0742692219c73fb962cd250a96f47046bdb",
+      "sha512": "183c25616beadf48731120f96ef01d503b74924f7b67e1cd70e3fb38ec4f23eb0ce5feb3c3f77a450f1db944f398af4f6164da5b5b3c23d5d898ed0bcb27b0ec",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-slice-of-life.md",
       "tags": [
         "genre"
       ],
@@ -2603,7 +2766,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-slipstream.brs",
-      "sha512": "045bfec253bb413bf22b976d7be313e44daa350f0fd654e181d7713caa2dc46a4721cbdfa1662a0e399ac44a79cc84bc168b1c136311c7c42a90d98f337dd5bd",
+      "sha512": "8a7071531ccf3c8a4450609a023b4428f85447b43d9c3e734549815c795e61d48cfbf851b8e7103bc0a5d227099a17fd08c258c76d038827b8ba8e94f9a84201",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-slipstream.md",
       "tags": [
         "genre"
       ],
@@ -2618,7 +2782,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-small-town-romance.brs",
-      "sha512": "9ff82042a2e9c8f1e1cfbae57ab36d903f1da4b66a0d594548c10347cc75cf9dad7830894d03bea937f33383920e37a568529faaef34394fbc448549f2039e72",
+      "sha512": "b1b7afb2856188dd88f5a0a7470f9b2e315293185ae51d0024c17b63f05a507573447e096a6f17bc3246b67fa1b5df27e0e80c2d5b8c2030a4b9f5929ecdaac1",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-small-town-romance.md",
       "tags": [
         "genre"
       ],
@@ -2633,7 +2798,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-soft-sf.brs",
-      "sha512": "10ed0c1e91d70dce09cb0be967388cab4b8b60f616966facb94c337abf94a1ddd14b302b83728c5777f02f6de347d0f07f8882706cb47b742c5a6f61448b2b2a",
+      "sha512": "d306beb7640b2c053f52b5d5cd15eaa00e5ef40f602e918143269a485c876566df5b80347d5c1a4bb39249bc515f10796f6b384e97c31f7b70d185fdbe371024",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-soft-sf.md",
       "tags": [
         "genre"
       ],
@@ -2648,7 +2814,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-solarpunk.brs",
-      "sha512": "1494c610fd767d746011b82e106643908e7497e9231100728f6862a812008e1fceba8bcd47fcf0d158957b8df3d68744cd6e870e2145748e0b82522039c17900",
+      "sha512": "46047ccf1309bb88df8f00836a121fd95a01b6db3e9fd8d9ab07eb83362b05b47fb85fc4fa64c7c55d8faebb486f9700b35e86c9c4e5625a4790140fb1f8821a",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-solarpunk.md",
       "tags": [
         "genre"
       ],
@@ -2663,7 +2830,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-space-opera.brs",
-      "sha512": "1fc75f289acc5a10ff260ad4064d5b99dd1b7fcf73f0a9cb778875ed69b1162730531b96731b58558e4bc0168b89ea336139e593932445950e195a20e3af4cd1",
+      "sha512": "bbf7f1e583cd654a32ef8e2e476f75d1e679e704b2c38e5b14dee9b1f828bad6d9639edd5d13a898f82f91828d1ce910882b47ea2bae404de8dbdd268dd8a726",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-space-opera.md",
       "tags": [
         "genre"
       ],
@@ -2678,7 +2846,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-sports-romance.brs",
-      "sha512": "0ff9bc059ccf5eeff57b192a0c974ed09ab9a27a59ee5bd88cbbc4dde7d6dd08e0cdf1feae6edd8496736c2aab0c0397b1e61bef52e6b026713de4e4d3d3ab6c",
+      "sha512": "e925daf32bff9422add8a870607d83a734014941bbcd890bf02fae2be93381b6f4aca1cd5c8e071eacda7e8c4cd4161851f9fce7be24382f36d69a82ab7366cc",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-sports-romance.md",
       "tags": [
         "genre"
       ],
@@ -2693,7 +2862,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-spy-espionage.brs",
-      "sha512": "cc96acc2ac140c09b42d10ce4977eb8b0cefbac5750b1b8737e98a2ecd5f985b00ce786ed40c4051bc67f7275c2ea9b09b6b06488b5865526235e448fe0c1cfb",
+      "sha512": "b7b3eb687aaf9e4679217f4003ca5270f703bf977a9e921a0d25b5e9034632fd2af8344b6dde7cd4b5e800e4d28ba4266958a6016a84d54b084654a912912f63",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-spy-espionage.md",
       "tags": [
         "genre"
       ],
@@ -2708,7 +2878,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-steampunk.brs",
-      "sha512": "85f72ea0d41b73781658f21d21310e31605ae0192106a37ee5d5ed828b927a3b1785ce9150ee22f940c6fab9abf7ba028aca020a85f81ebc7c35c8ed22e2da0c",
+      "sha512": "a426bc4b740c05205fa4ceeb65054c455a69af1b6a6f07345e93da0ff4c10ed8506ab0a1dadbf19c1084f6486d395ee62c0f413191dd21b323fb74c029fd68b1",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-steampunk.md",
       "tags": [
         "genre"
       ],
@@ -2723,7 +2894,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-survival-adventure.brs",
-      "sha512": "40384a54d53ba1e9a8a958fb7b1a0b71f2f73e1038b39d5986dff8531c3077cfeb30a1737769e87152776727e97d238eb1d95fc6c39a2bdaea00af80dac4ba9b",
+      "sha512": "7db50ea5020d8e98cfa862dd2c14e79dff25392d5a6806a7a694ae64aaf86c9825a60b5f5ffd3f6d498d03841a06feb18b5642264c4da8e254004bb726c6af1d",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-survival-adventure.md",
       "tags": [
         "genre"
       ],
@@ -2738,7 +2910,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-sword-sorcery.brs",
-      "sha512": "a82ae74de40cf6b33c7949bc3151013efbd73fc04e197c91cbae03ca56669abd01b29f2d21c4cc1ff15894c4f8e7c0b33640b148824046c7f2980ad249ef45e3",
+      "sha512": "a9ee38945bde9a7ee5c48a3ab63f611468b2e1074d7c56732ae8e3dbd3a103e8a30da3e5a6bb0ba97e96de4955b882e9f1dbe09ba4e2da769b40bc223ed2e08d",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-sword-sorcery.md",
       "tags": [
         "genre"
       ],
@@ -2753,7 +2926,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-techno-thriller.brs",
-      "sha512": "2237abf343f557daf5383a0d9afd3cc3fa3abd44d654b697e1368fac823ff1970ccf77d8ab7952a9bd7a6abf9433cfa5a7296c33dc681a94a4c1dc5175696c95",
+      "sha512": "4b6fbf7b40671c2452d476fac542f200346b592aa899e33d8f767e06a770bb3a614fcaa07d1983784064c4c9669a3840bbc9a929d434fa0d5362f79e2d16e196",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-techno-thriller.md",
       "tags": [
         "genre"
       ],
@@ -2768,7 +2942,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-thriller.brs",
-      "sha512": "c56936221e9732fac55287db9553d4d3c05087b11c5adcc53758a383e6ae2f8b0557955eeef3fb318c65057ced4053749fd15c51a99c3d54cbb391131a43de68",
+      "sha512": "ff5f5b848ddda1a73e357c5e9df4d4d394ea0de02582086e4d799748a43c4f32c4ea97cf483482e126384fcd018ef8df404f9145e56e3adf001fa103995bda2e",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-thriller.md",
       "tags": [
         "genre"
       ],
@@ -2783,7 +2958,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-time-travel.brs",
-      "sha512": "32e2666c8260023afd78e17c1004bae5fddc66c601edfcd174a30622d475764dc4f2db822d18a4efad8e881a3577ad72743c58212190b19ebd7c38202efd3dc7",
+      "sha512": "b4e4d4a994409a6f1b603dfae318f90492ca1e1f434a752a48794b4cfbb2fedb4a1413385038c510611637c69371819a63a2c293dc3f108cbb8e2d5241e3e359",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-time-travel.md",
       "tags": [
         "genre"
       ],
@@ -2798,7 +2974,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-true-crime-faction.brs",
-      "sha512": "5e100603586514404ceccfb7d341f884003f20de60e3efdd50dee02ba3ad062009fdebb60907e041d73ff0f1fe525ec68158a548a52e058064ec5cc5b5ef996b",
+      "sha512": "bf9ee46f86530c52e9bbab56ff2d83fa1d9209233ec7f161ad45d361715dba302cdd6355093f9b1c263f7caaa8dbd167c05b4a79f125c4afd5697b89c26622fa",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-true-crime-faction.md",
       "tags": [
         "genre"
       ],
@@ -2813,7 +2990,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-upmarket-book-club.brs",
-      "sha512": "59b9db734c9ab8e4c354089f3049d0288b3d72023b2ccef34f2b979864c2c590c5fe622ba8f7138679ac048f0f535e750b024643c5b4a3c580c25d28f9e63f49",
+      "sha512": "dde8249dff64ee5b2caff45925209d0157c080dc445b2237f50048e2b323e7e85ddd0116fa7e659b3b5ce3b7680a3c80cc7393edfae17a988c1195ff739c4a00",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-upmarket-book-club.md",
       "tags": [
         "genre"
       ],
@@ -2828,7 +3006,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-upper-mg.brs",
-      "sha512": "5eaeeafe6999ad027f674a3c1668f8c306373899d32e41650f923bc239865e258fbf4513e742cfd1e4128c10d92307b2e23eb3f614108b27f9b6875a9b2fb846",
+      "sha512": "f4e047ec0c359a410ef540b7eae12a3591a3ee02496569d7b638f79a67f4b34706b4717eb3c6fa4619c8418faa760a1731a4843c5dc3b0fe8e71bfe5314af2b9",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-upper-mg.md",
       "tags": [
         "genre"
       ],
@@ -2843,7 +3022,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-urban-fantasy.brs",
-      "sha512": "70596f60234b4940d9ba47ee85663a8688b53b55bd4339ff025d0a15c34a8dad5f37164af38a3f0e4e1283560f67f239e834d59213c7af68ff36f3b109606276",
+      "sha512": "a4854a1504df5aad88ed967ec02ee3aed4586c18f7f53a03800be04448e08fb0d1a8dd6e78634fa1519ca0dbff8602c0f6a895e948ef0ecbb9ddc63666cc2648",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-urban-fantasy.md",
       "tags": [
         "genre"
       ],
@@ -2858,7 +3038,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-utopia.brs",
-      "sha512": "b121f53a658e0ac81bc272c3bbececa12ab3cc61800d522b01da0fa088882f0a5ec86c73250d1efade3bdbf184cc601935f15bb674507eaf9d6864a67ab6d967",
+      "sha512": "9f1f35e16a5254d56f3c711a03ff6798e29799700a4b90cdd07764c7434c84bc4c3b6d98b4c49072996e07d6e95fe0c1c7b6fbc4d6a0705a9c5a0290a02fb498",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-utopia.md",
       "tags": [
         "genre"
       ],
@@ -2873,7 +3054,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-war.brs",
-      "sha512": "9ea81327927037530bf076893a5fc167ca189ab7f44d2863627ff91a3424c8c5a6440f298d3bb2434db4ec670256f8e8e6feb845c41435f535aeb5d64619a5ca",
+      "sha512": "d6ec1abff79284ae86aad125447a18be1ea09600d8611025604480302dd0750f91605e5946bbac41fb8f30e37c4050ece8ad39022e0661e8a72ff0ec8c009384",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-war.md",
       "tags": [
         "genre"
       ],
@@ -2888,7 +3070,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-western.brs",
-      "sha512": "c70c53419d72f7927b38ac8f3986eb9c02cbfec54c63c9692cd65484c1f4c3ce3938bf336e4316c5934b1f89f6d52c99999f3cb69aac951e7944b344af4a0149",
+      "sha512": "d1c617da060060786d1990086a0f47fdf162cb07518cd5a1468f9f69a0602a4574ecff6d8d895d740b7515dbe143543432ee5d90e2a96d48db193693960b7bbc",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-western.md",
       "tags": [
         "genre"
       ],
@@ -2903,7 +3086,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-womens-fiction.brs",
-      "sha512": "7364aaee99dc5ce0d47d859c5982dd8b4d471197fe5760ff230cadf908015dcab9960b4bc1bb890d9ef8b5f67dfa6aa1f7f6bf0f589dc56c3c375af0c4e5cd68",
+      "sha512": "925ababb2139f310450a5330f5ccb7fe7fc5b0a28b4db138a90eb029e343f69850a77bd3c432d0a310924c0c1f35c0da75f46bfa89573b4680f47e32593709e7",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-womens-fiction.md",
       "tags": [
         "genre"
       ],
@@ -2918,7 +3102,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-ya-coming-of-age.brs",
-      "sha512": "d7df6575cba9ad7ece13d6fb312dc91f0af455355282e35528d8271ab41ac07b11f9776ff9beebea0b23b483be34618d481e93df327ba86037ebf7caf9f21b13",
+      "sha512": "9de9feba92d141b7683eebe04b47dcd6b683c541cab3d294c230607e6fe7ca48c35599ea39899b5ce6b36e017f373690efb982f6b3d9d38edbdf33c56f843d23",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-ya-coming-of-age.md",
       "tags": [
         "genre"
       ],
@@ -2933,7 +3118,8 @@
       "version": "0.1.0",
       "engine_min": ">=0.11.0",
       "download_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/packs/genre-ya-hybrids.brs",
-      "sha512": "995fb4cb728b381733df8d2628d6020feab841264ca80a3350865a1756242151e4156fe30bd5d47d685c7da139a4d697740b80aa5fdcea210ce41712c297642e",
+      "sha512": "f59156e20ab507e37b750c0c279c67bbc5b044c0e860dc00658817cde2124d4f78389113925b1b04423b49819de6f1e591bbe9984cba0739ff9f228ab3cb49ab",
+      "docs_url": "https://raw.githubusercontent.com/buckramstudio/buckram-studio/main/shop-packages/docs/genre-ya-hybrids.md",
       "tags": [
         "genre"
       ],

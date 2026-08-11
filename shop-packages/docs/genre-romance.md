@@ -1,5 +1,16 @@
 # Romance (genre engine)
 
-Install this genre pack when your book’s market promise is a central love story with an emotionally satisfying optimistic ending.
+Market promise: a central love story + emotionally satisfying optimistic ending. Couple beats → . Heat scene craft → . Erotica (distinct) → . Erotic romance → .
 
-Use it alongside couple-beat and heat-scene craft packs; keep erotica and erotic romance as separate lanes unless your subgenre calls for them.
+Installing this genre kit adds focused guidance into your project Library. It steers outlining, drafting, or revision toward the topics below — exact Agent use depends on how the pack is wired after install.
+
+**What it tends to cover**
+- `craft-intimacy-scene.md`
+- `craft-romance-arc.md`
+- `genre-erotic-romance.md`
+- `genre-erotica.md`
+- `genre-romance.md`
+
+**Tags:** genre
+
+Open **About this pack** any time before or after install. After install, use the Files list to read notes and turn off pieces you do not want attached.
