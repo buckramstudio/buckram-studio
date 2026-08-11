@@ -5,5 +5,6 @@ summary: Keep cast members from sharing one formal default voice — each speake
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: craft
+group: craft-character
 tags:
   - craft

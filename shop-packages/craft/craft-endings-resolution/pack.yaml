@@ -5,5 +5,6 @@ summary: "Climax → Climactic Moment → Resolution / denouement. md`, , (Chekh
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: craft
+group: craft-scenes-chapters
 tags:
   - craft

@@ -6,5 +6,6 @@ summary: "Engine: discovery of a hidden place (valley, plateau, city, pocket
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: genre
+group: genre-adventure-action
 tags:
   - genre

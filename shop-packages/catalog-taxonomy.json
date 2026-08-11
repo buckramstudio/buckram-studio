@@ -1,0 +1,23 @@
+{
+  "groups": [
+    { "id": "craft-character", "label": "Character", "parent": "craft", "order": 10 },
+    { "id": "craft-plot-structure", "label": "Plot & structure", "parent": "craft", "order": 20 },
+    { "id": "craft-scenes-chapters", "label": "Scenes & chapters", "parent": "craft", "order": 30 },
+    { "id": "craft-prose-voice", "label": "Prose & voice", "parent": "craft", "order": 40 },
+    { "id": "craft-romance-intimacy", "label": "Romance & intimacy", "parent": "craft", "order": 50 },
+    { "id": "craft-world-theme-process", "label": "World, theme & process", "parent": "craft", "order": 60 },
+    { "id": "craft-other", "label": "Other craft", "parent": "craft", "order": 90 },
+    { "id": "genre-romance", "label": "Romance", "parent": "genre", "order": 10 },
+    { "id": "genre-fantasy", "label": "Fantasy", "parent": "genre", "order": 20 },
+    { "id": "genre-science-fiction", "label": "Science fiction", "parent": "genre", "order": 30 },
+    { "id": "genre-mystery-crime", "label": "Mystery & crime", "parent": "genre", "order": 40 },
+    { "id": "genre-thriller-suspense", "label": "Thriller & suspense", "parent": "genre", "order": 50 },
+    { "id": "genre-horror", "label": "Horror", "parent": "genre", "order": 60 },
+    { "id": "genre-erotica", "label": "Erotica", "parent": "genre", "order": 70 },
+    { "id": "genre-historical", "label": "Historical", "parent": "genre", "order": 80 },
+    { "id": "genre-adventure-action", "label": "Adventure & action", "parent": "genre", "order": 90 },
+    { "id": "genre-literary-general", "label": "Literary & general", "parent": "genre", "order": 100 },
+    { "id": "genre-age-markets", "label": "Age markets", "parent": "genre", "order": 110 },
+    { "id": "genre-other", "label": "Other genres", "parent": "genre", "order": 190 }
+  ]
+}

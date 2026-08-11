@@ -6,5 +6,6 @@ summary: "Engine: dual engines — intrigue/crime/threat *and* courtship — eac
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: genre
+group: genre-romance
 tags:
   - genre

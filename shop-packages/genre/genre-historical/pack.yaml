@@ -4,5 +4,6 @@ summary: Past lived as present. Research supports drama; drama isn’t a museum 
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: genre
+group: genre-historical
 tags:
   - genre

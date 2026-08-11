@@ -6,5 +6,6 @@ summary: "Relationship growth as a through-line — external plot + each
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: craft
+group: craft-romance-intimacy
 tags:
   - craft

@@ -5,5 +5,6 @@ summary: "How bonds *behave* in scene — status, intimacy gradients,
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: craft
+group: craft-romance-intimacy
 tags:
   - craft

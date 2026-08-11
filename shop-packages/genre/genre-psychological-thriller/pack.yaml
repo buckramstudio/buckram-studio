@@ -6,5 +6,6 @@ summary: "Engine: thrills from mind games, unstable perception, and eroded trust
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: genre
+group: genre-thriller-suspense
 tags:
   - genre

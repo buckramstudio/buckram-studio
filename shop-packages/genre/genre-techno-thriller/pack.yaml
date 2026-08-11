@@ -6,5 +6,6 @@ summary: "Engine: **plausible near-future (or present) technology as the stakes
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: genre
+group: genre-thriller-suspense
 tags:
   - genre

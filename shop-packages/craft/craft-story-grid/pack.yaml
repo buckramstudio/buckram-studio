@@ -6,5 +6,6 @@ summary: "Shawn Coyne’s Story Grid: nested units that each shift a **value**,
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: craft
+group: craft-plot-structure
 tags:
   - craft

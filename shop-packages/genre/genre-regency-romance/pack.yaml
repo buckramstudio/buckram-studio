@@ -6,5 +6,6 @@ summary: "Engine: Austen-adjacent manners market — Season, reputation, marriag
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: genre
+group: genre-romance
 tags:
   - genre

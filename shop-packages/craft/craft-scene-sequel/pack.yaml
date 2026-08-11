@@ -4,5 +4,6 @@ summary: "Large-scale scene structure: proactive Scene vs reactive Sequel, alter
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: craft
+group: craft-scenes-chapters
 tags:
   - craft

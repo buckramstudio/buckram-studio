@@ -5,5 +5,6 @@ summary: Second act dies when pursuit replaces transformation. Pinch Points +
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: craft
+group: craft-plot-structure
 tags:
   - craft
