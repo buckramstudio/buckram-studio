@@ -6,6 +6,5 @@ summary: "Engine: dynasty time-scale — inheritance of conflict, property,
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: genre
-group: genre-literary-general
 tags:
   - genre

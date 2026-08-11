@@ -1,0 +1,11 @@
+id: prompts-seedance-2-5
+title: Seedance 2.5 video prompts
+summary: "Chapter-draft craft for Seedance 2.5 visual prompts — camera, staging, continuity (~30s), refs."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: prompts
+group: prompts-video
+tags:
+  - prompts
+  - video
+  - seedance

@@ -5,6 +5,5 @@ summary: "Genre engine (vs romance, structures, consent as craft): . Erotic
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: craft
-group: craft-romance-intimacy
 tags:
   - craft

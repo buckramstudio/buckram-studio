@@ -6,6 +6,5 @@ summary: "Engine: **retrofuturist steam-age tech as argument** — anachronistic
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: genre
-group: genre-science-fiction
 tags:
   - genre

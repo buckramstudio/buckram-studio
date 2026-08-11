@@ -5,6 +5,5 @@ summary: "Engine: ritual, forbidden practice, and entities that answer. Faith,
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: genre
-group: genre-horror
 tags:
   - genre

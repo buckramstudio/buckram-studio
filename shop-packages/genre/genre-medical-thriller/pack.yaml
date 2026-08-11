@@ -6,6 +6,5 @@ summary: "Engine: body, hospital, research lab, or public-health system as
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: genre
-group: genre-thriller-suspense
 tags:
   - genre

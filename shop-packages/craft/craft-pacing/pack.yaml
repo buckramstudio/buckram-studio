@@ -5,6 +5,5 @@ summary: AI tends to resolve conflicts in the same scene they appear. Guardrails
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: craft
-group: craft-scenes-chapters
 tags:
   - craft

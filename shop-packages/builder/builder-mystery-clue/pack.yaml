@@ -1,0 +1,9 @@
+id: builder-mystery-clue
+title: "Builder: Mystery clue ledger"
+summary: Spreadsheet-style clue / red-herring checklist for fair-play puzzles.
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: builder
+tags:
+  - builder
+group: builder-story

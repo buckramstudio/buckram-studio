@@ -18,6 +18,11 @@
     { "id": "genre-adventure-action", "label": "Adventure & action", "parent": "genre", "order": 90 },
     { "id": "genre-literary-general", "label": "Literary & general", "parent": "genre", "order": 100 },
     { "id": "genre-age-markets", "label": "Age markets", "parent": "genre", "order": 110 },
-    { "id": "genre-other", "label": "Other genres", "parent": "genre", "order": 190 }
+    { "id": "genre-other", "label": "Other genres", "parent": "genre", "order": 190 },
+    { "id": "builder-people", "label": "People & voice", "parent": "builder", "order": 10 },
+    { "id": "builder-world-place", "label": "World & place", "parent": "builder", "order": 20 },
+    { "id": "builder-story", "label": "Story & outline", "parent": "builder", "order": 30 },
+    { "id": "builder-scene-chapter", "label": "Scene & chapter", "parent": "builder", "order": 40 },
+    { "id": "prompts-video", "label": "Video", "parent": "prompts", "order": 10 }
   ]
 }

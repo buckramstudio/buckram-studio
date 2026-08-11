@@ -1,0 +1,14 @@
+wiring_version: 1
+assistants:
+  - persona
+  - styleCreator
+jobs:
+  - book.discuss
+entry:
+  - builder-voice.md
+mode: entry
+tree:
+  - id: core
+    label: Core
+    files:
+      - builder-voice.md

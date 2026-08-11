@@ -1,0 +1,13 @@
+wiring_version: 1
+assistants:
+  - pacing
+jobs:
+  - book.discuss
+entry:
+  - builder-chapter.md
+mode: entry
+tree:
+  - id: core
+    label: Core
+    files:
+      - builder-chapter.md

@@ -1,0 +1,14 @@
+wiring_version: 1
+assistants:
+  - persona
+  - cast
+jobs:
+  - book.discuss
+entry:
+  - builder-antagonist.md
+mode: entry
+tree:
+  - id: core
+    label: Core
+    files:
+      - builder-antagonist.md

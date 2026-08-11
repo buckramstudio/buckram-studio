@@ -1,0 +1,14 @@
+wiring_version: 1
+assistants:
+  - setting
+  - settingsIndex
+jobs:
+  - book.discuss
+entry:
+  - builder-location.md
+mode: entry
+tree:
+  - id: core
+    label: Core
+    files:
+      - builder-location.md

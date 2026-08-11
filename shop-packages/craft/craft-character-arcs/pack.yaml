@@ -5,6 +5,5 @@ summary: "Weiland five-arc system + shared ingredients. md` (% map).
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: craft
-group: craft-character
 tags:
   - craft

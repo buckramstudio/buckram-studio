@@ -1,0 +1,13 @@
+wiring_version: 1
+assistants:
+  - codex:clueLedger
+jobs:
+  - book.discuss
+entry:
+  - builder-mystery-clue.md
+mode: entry
+tree:
+  - id: core
+    label: Core
+    files:
+      - builder-mystery-clue.md

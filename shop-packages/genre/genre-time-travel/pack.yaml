@@ -6,6 +6,5 @@ summary: "Engine: **cost and logic of moving in time** — paradox,
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: genre
-group: genre-science-fiction
 tags:
   - genre

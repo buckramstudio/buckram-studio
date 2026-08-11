@@ -1,0 +1,9 @@
+id: builder-character
+title: "Builder: character"
+summary: Fill-in builder worksheet for Chat about (Library pack).
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: builder
+tags:
+  - builder
+group: builder-people

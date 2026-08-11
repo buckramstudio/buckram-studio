@@ -5,6 +5,5 @@ summary: "Engine: human scale fails against the incomprehensible. Dread from
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: genre
-group: genre-horror
 tags:
   - genre

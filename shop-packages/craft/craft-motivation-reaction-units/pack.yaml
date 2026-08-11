@@ -5,6 +5,5 @@ summary: Small-scale prose cause-and-effect inside Scenes and Sequels (Dwight
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: craft
-group: craft-scenes-chapters
 tags:
   - craft

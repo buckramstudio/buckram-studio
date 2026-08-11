@@ -1,0 +1,24 @@
+wiring_version: 1
+assistants:
+  - writingAssistant
+  - manuscript
+jobs:
+  - chapter.draft
+entry:
+  - prompts-seedance-2-5.md
+mode: entry
+tree:
+  - id: core
+    label: Core
+    files:
+      - prompts-seedance-2-5.md
+  - id: companions
+    label: Companions
+    default: true
+    files:
+      - seedance-prompt-formula.md
+      - seedance-camera.md
+      - seedance-staging.md
+      - seedance-continuity-30s.md
+      - seedance-audio-and-refs.md
+      - seedance-failure-modes.md

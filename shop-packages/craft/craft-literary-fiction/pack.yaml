@@ -4,6 +4,5 @@ summary: "Engine: language, interiority, and theme — more than plot machinery 
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: craft
-group: craft-world-theme-process
 tags:
   - craft

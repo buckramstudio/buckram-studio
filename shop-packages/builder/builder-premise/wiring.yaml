@@ -1,0 +1,13 @@
+wiring_version: 1
+assistants:
+  - bookIdeaConsultant
+jobs:
+  - book.discuss
+entry:
+  - builder-premise.md
+mode: entry
+tree:
+  - id: core
+    label: Core
+    files:
+      - builder-premise.md

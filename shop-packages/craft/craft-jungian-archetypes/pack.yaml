@@ -4,6 +4,5 @@ summary: Universal patterns as lenses — not rigid character classes.
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: craft
-group: craft-character
 tags:
   - craft

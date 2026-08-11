@@ -5,6 +5,5 @@ summary: "Engine: the world and its rules (especially magic) — wonder paid for
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: genre
-group: genre-fantasy
 tags:
   - genre

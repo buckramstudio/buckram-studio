@@ -1,0 +1,13 @@
+wiring_version: 1
+assistants:
+  - persona
+jobs:
+  - book.discuss
+entry:
+  - builder-character.md
+mode: entry
+tree:
+  - id: core
+    label: Core
+    files:
+      - builder-character.md

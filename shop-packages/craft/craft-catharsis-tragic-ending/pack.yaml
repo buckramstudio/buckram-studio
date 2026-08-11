@@ -4,6 +4,5 @@ summary: How loss, pity/fear, and recognition land — without mistaking tears f
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: craft
-group: craft-scenes-chapters
 tags:
   - craft

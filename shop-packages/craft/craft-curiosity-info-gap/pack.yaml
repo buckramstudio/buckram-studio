@@ -4,6 +4,5 @@ summary: "Hunger to know — as a toolkit. Macro tension: ."
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: craft
-group: craft-world-theme-process
 tags:
   - craft

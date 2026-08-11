@@ -5,6 +5,5 @@ summary: Reader-state craft beyond thriller genre packaging. md` (devices/clock)
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: craft
-group: craft-world-theme-process
 tags:
   - craft

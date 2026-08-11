@@ -1,0 +1,15 @@
+wiring_version: 1
+assistants:
+  - worldBible
+  - customWorld
+  - worldCodex
+jobs:
+  - book.discuss
+entry:
+  - builder-magic-system.md
+mode: entry
+tree:
+  - id: core
+    label: Core
+    files:
+      - builder-magic-system.md

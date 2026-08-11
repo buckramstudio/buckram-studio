@@ -1,0 +1,13 @@
+wiring_version: 1
+assistants:
+  - storyBible
+jobs:
+  - book.discuss
+entry:
+  - builder-series.md
+mode: entry
+tree:
+  - id: core
+    label: Core
+    files:
+      - builder-series.md

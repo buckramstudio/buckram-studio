@@ -1,0 +1,11 @@
+id: builder-timeline
+title: "Builder: timeline"
+summary: Chronology / dual-timeline / elapsed-time worksheet. Theory stays in
+  craft (`craft-dual-timeline`, flashbacks, series) — this sheet is fillable
+  braid chrome.
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: builder
+tags:
+  - builder
+group: builder-story

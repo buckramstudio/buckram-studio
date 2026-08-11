@@ -5,6 +5,5 @@ summary: "Person, access, and trust. Narrative sound/distance/FID: . Dialogue
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: craft
-group: craft-prose-voice
 tags:
   - craft

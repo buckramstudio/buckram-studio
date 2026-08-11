@@ -1,0 +1,14 @@
+wiring_version: 1
+assistants:
+  - stage
+  - stagesIndex
+jobs:
+  - book.discuss
+entry:
+  - builder-stage.md
+mode: entry
+tree:
+  - id: core
+    label: Core
+    files:
+      - builder-stage.md

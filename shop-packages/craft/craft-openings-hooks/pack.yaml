@@ -5,6 +5,5 @@ summary: "First page / Chapter 1 craft: promise, motion, question — not
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: craft
-group: craft-scenes-chapters
 tags:
   - craft

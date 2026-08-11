@@ -6,6 +6,5 @@ summary: "Traditional craft: when explanation steals experience. AI â€œhumanizeâ
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: craft
-group: craft-prose-voice
 tags:
   - craft

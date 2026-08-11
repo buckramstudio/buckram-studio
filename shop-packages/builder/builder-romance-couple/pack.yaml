@@ -1,0 +1,9 @@
+id: builder-romance-couple
+title: "Builder: Romance couple"
+summary: GMC for both leads + relationship beat checklist. Theory → market → .
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: builder
+tags:
+  - builder
+group: builder-people

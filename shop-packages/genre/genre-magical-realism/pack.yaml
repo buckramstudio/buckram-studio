@@ -6,6 +6,5 @@ summary: "Engine: one (or few) impossibilities inside a fully intact ordinary
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: genre
-group: genre-literary-general
 tags:
   - genre

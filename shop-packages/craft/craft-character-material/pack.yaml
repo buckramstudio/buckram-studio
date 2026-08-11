@@ -5,6 +5,5 @@ summary: "Trait lists, templates, and character-craft notes. Builder fill-ins: .
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: craft
-group: craft-character
 tags:
   - craft

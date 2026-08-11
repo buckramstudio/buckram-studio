@@ -1,0 +1,14 @@
+wiring_version: 1
+assistants:
+  - storyBible
+  - outline
+jobs:
+  - book.discuss
+entry:
+  - builder-timeline.md
+mode: entry
+tree:
+  - id: core
+    label: Core
+    files:
+      - builder-timeline.md

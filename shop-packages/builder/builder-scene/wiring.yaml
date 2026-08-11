@@ -1,0 +1,15 @@
+wiring_version: 1
+assistants:
+  - plan
+  - director
+  - directorSlate
+jobs:
+  - book.discuss
+entry:
+  - builder-scene.md
+mode: entry
+tree:
+  - id: core
+    label: Core
+    files:
+      - builder-scene.md

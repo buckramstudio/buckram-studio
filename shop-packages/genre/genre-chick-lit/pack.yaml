@@ -7,6 +7,5 @@ summary: "Engine: voice-forward contemporary comedy of errors around work,
 version: 0.1.0
 engine_min: ">=0.11.0"
 category: genre
-group: genre-romance
 tags:
   - genre

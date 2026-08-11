@@ -1,0 +1,13 @@
+wiring_version: 1
+assistants:
+  - outline
+jobs:
+  - book.discuss
+entry:
+  - builder-outline.md
+mode: entry
+tree:
+  - id: core
+    label: Core
+    files:
+      - builder-outline.md
