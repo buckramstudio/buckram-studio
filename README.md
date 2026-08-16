@@ -16,8 +16,6 @@
     <img alt="Open VSX Downloads" src="https://img.shields.io/open-vsx/dt/buckram/buckram-studio" /></a>
   <img alt="License: Proprietary" src="https://img.shields.io/badge/license-Proprietary-blue" />
   <img alt="Platform: Cursor" src="https://img.shields.io/badge/platform-Cursor-black" />
-  <a href="https://discord.gg/Vgepx2ekYh">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-writers-5865F2?logo=discord&logoColor=white" /></a>
 </p>
 
 ---
@@ -69,6 +67,8 @@ You're not buying better autocomplete. You're buying **control** over continuity
 ### Continuity
 
 - **Cast & world** — Character roster with voice, world bible, places, research, glossary and motifs, clue tracking, relationships, and who's off-stage.
+- **World shadows & continuity ledger** — Each chapter gets a frozen, thinned memory of returning stages and people, plus a ledger of openings and gestures already used, so later chapters are less likely to re-introduce the tavern or the limp.
+- **Dramatic layer** (opt-in) — Direction signs for where emotions go and how people change. You invent the axes. Start with one book-level road (hope climbs toward chapter 12) or grow it into a playing field — same pressure, different holders and stakes (everyone is hungry; the rich guy is not; two groups fight over the hatch). Macro trajectories keep the state continuous; each chapter can crush, hold, or add a local turn. **Chapter → Dramatic state** is the resolved map. Generate Chapter is briefed on the on-page meanings, not the scores. Off until you check **Use dramatic layer**.
 - **Import world from prose** — Extract setting and Cast from a manuscript or EPUB **without** importing chapter drafts — handy when you want the world on disk and a new story of your own on top (fanfic, shared-world, research).
 - **Continuity checks** — See who vanished from the book, which clues are still unpaid, and which threads went cold — bookkeeping that doesn't burn chat tokens.
 - **Context compression** — Eco / Standard / Pro briefings so the model gets this chapter's needs, not the whole series bible every click.
@@ -79,13 +79,17 @@ You're not buying better autocomplete. You're buying **control** over continuity
 - **Get Started** — Book Idea Consultant, create a series or standalone book, **Import existing work**, **Import world from prose**, or try a preset demo safely.
 - **Co-writer** — Career-author peer stance for outline and chapter chats: genre preset (or Custom…), then refine with **Chat about my co-writer…** (**Settings → Assistants → Co-writer**).
 - **Plan rooms & Director** — Chapter outlines with scene cards, per-scene plan rooms, Director notes for pacing and focus, expand-beats-into-prose when you're ready to draft.
+- **Generate Chapter from Outline** — One Agent chat writes the outlined scenes as narrative prose, with scene markers and this chapter's briefing already attached.
+- **Chapter Council** — Cold lenses judge the outline (or an existing draft); a plan is written; you Meet or let it Auto, then draft or revise surgically.
 - **Chat about** — Opens Cursor Agent with the right files attached; you type first after **"Your turn."** Bigger runs end with **"Press Enter to start"** and never spend without confirmation.
 - **Assistants** — Writing, editing, and character-voice helpers in **Assistant Setup** (**Settings → Assistants**).
+- **Library** — Browse and install craft, genre, pipeline, and translation kits; wired kits can ride along in the chapter briefing.
 
 ### Editing
 
 - **Pipelines, translations & batches** — Build multi-pass editorial packs; prove them in **Testing** (sample → test → compare / Chat about results); stitch into batches and run across chapters with **execution plans** when ready (Premium for production).
 - **Craft guardrails** — Catch stock AI phrasing and tired gestures; keep each character's voice yours.
+- **ProseGuard** (Premium) — Stronger anti-AI mechanics at draft time, plus a lint-and-fix pass after Generate Chapter. Free still gets phrase and gesture underlines.
 - **Export** — KDP-ready DOCX, Markdown, PDF, and EPUB out of the box (no Pandoc required).
 
 ### Ownership & help
@@ -154,7 +158,7 @@ We charge for **workflow automation scale**, not your words and not a middleman 
 Your book stays as plain Markdown regardless of tier — files are never locked, deleted, or held hostage.
 
 - **Free** — Work Tree, Chat about, canon, and craft guardrails; unlimited pipeline authoring; the **Testing** sandbox (max 5 starts/hour per pipeline or test batch, then a 3-hour cooldown); a soft **50,000-word** guide on manuscript drafts (you keep writing past it — Buckram may nudge you every few days; files never lock); export up to **2 chapters** per run (DOCX, Markdown, PDF, EPUB).
-- **Premium** — Chapter and batch production runs, execution plans, full-book export, unlimited words, and unlimited Testing.
+- **Premium** — Chapter and batch production runs, Draft remaining book, execution plans, full-book export, unlimited words, unlimited Testing, and ProseGuard.
 - **Bring your own key** — Chat and drafting run through your Cursor Agent. You pay your provider directly; Buckram never bills for tokens or meters your writing.
 
 ---
