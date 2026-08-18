@@ -1,0 +1,12 @@
+id: prompts-suno
+title: Suno
+summary: "Custom Mode wrap — style field (no brackets) plus lyrics tags. Write
+  the song first; this kit only formats Suno paste."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: prompts
+group: prompts-music
+tags:
+  - prompts
+  - music
+  - suno

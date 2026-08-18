@@ -1,0 +1,22 @@
+wiring_version: 1
+assistants:
+  - writingAssistant
+  - manuscript
+jobs:
+  - chapter.draft
+entry:
+  - prompts-udio.md
+mode: entry
+tree:
+  - id: core
+    label: Core
+    files:
+      - prompts-udio.md
+  - id: companions
+    label: Companions
+    default: true
+    files:
+      - udio-lyrics-tags.md
+      - udio-style-prompt.md
+      - udio-paste-templates.md
+      - udio-failure-modes.md

@@ -1,0 +1,166 @@
+wiring_version: 1
+assistants:
+  - writingAssistant
+  - outline
+  - manuscript
+  - genreFormula
+jobs:
+  - chapter.draft
+  - chapter.outline.discuss
+entry:
+  - prompts-lyrics.md
+mode: entry
+tree:
+  - id: core
+    label: Core
+    files:
+      - prompts-lyrics.md
+  - id: songwriting
+    label: Songwriting
+    default: true
+    files:
+      - lyrics-brief-decoder.md
+      - lyrics-form.md
+      - lyrics-hook-title.md
+      - lyrics-singability.md
+      - lyrics-failure-modes.md
+  - id: palette-pop
+    label: Pop
+    default: false
+    files:
+      - lyrics-palette-pop.md
+  - id: palette-kpop
+    label: K-pop
+    default: false
+    files:
+      - lyrics-palette-kpop.md
+  - id: palette-indie-alt
+    label: Indie / alt
+    default: false
+    files:
+      - lyrics-palette-indie-alt.md
+  - id: palette-rock
+    label: Rock
+    default: false
+    files:
+      - lyrics-palette-rock.md
+  - id: palette-punk
+    label: Punk
+    default: false
+    files:
+      - lyrics-palette-punk.md
+  - id: palette-metal
+    label: Metal
+    default: false
+    files:
+      - lyrics-palette-metal.md
+  - id: palette-goth-industrial
+    label: Goth / industrial
+    default: false
+    files:
+      - lyrics-palette-goth-industrial.md
+  - id: palette-grunge
+    label: Grunge
+    default: false
+    files:
+      - lyrics-palette-grunge.md
+  - id: palette-blues
+    label: Blues
+    default: false
+    files:
+      - lyrics-palette-blues.md
+  - id: palette-country
+    label: Country
+    default: false
+    files:
+      - lyrics-palette-country.md
+  - id: palette-folk-americana
+    label: Folk / Americana
+    default: false
+    files:
+      - lyrics-palette-folk-americana.md
+  - id: palette-gospel
+    label: Gospel
+    default: false
+    files:
+      - lyrics-palette-gospel.md
+  - id: palette-singer-songwriter
+    label: Singer-songwriter
+    default: false
+    files:
+      - lyrics-palette-singer-songwriter.md
+  - id: palette-hip-hop
+    label: Hip-hop
+    default: false
+    files:
+      - lyrics-palette-hip-hop.md
+  - id: palette-rnb-soul
+    label: R&B / soul
+    default: false
+    files:
+      - lyrics-palette-rnb-soul.md
+  - id: palette-funk
+    label: Funk
+    default: false
+    files:
+      - lyrics-palette-funk.md
+  - id: palette-edm-dance
+    label: EDM / dance
+    default: false
+    files:
+      - lyrics-palette-edm-dance.md
+  - id: palette-hyperpop
+    label: Hyperpop
+    default: false
+    files:
+      - lyrics-palette-hyperpop.md
+  - id: palette-reggae-dancehall
+    label: Reggae / dancehall
+    default: false
+    files:
+      - lyrics-palette-reggae-dancehall.md
+  - id: palette-latin
+    label: Latin
+    default: false
+    files:
+      - lyrics-palette-latin.md
+  - id: palette-jazz-torch
+    label: Jazz / torch
+    default: false
+    files:
+      - lyrics-palette-jazz-torch.md
+  - id: palette-musical-theatre
+    label: Musical theatre
+    default: false
+    files:
+      - lyrics-palette-musical-theatre.md
+  - id: palette-ballad
+    label: Ballad
+    default: false
+    files:
+      - lyrics-palette-ballad.md
+  - id: palette-anthem
+    label: Anthem
+    default: false
+    files:
+      - lyrics-palette-anthem.md
+  - id: palette-disco
+    label: Disco
+    default: false
+    files:
+      - lyrics-palette-disco.md
+  - id: palette-lofi
+    label: Lo-fi
+    default: false
+    files:
+      - lyrics-palette-lofi.md
+  - id: palette-holiday
+    label: Holiday
+    default: false
+    files:
+      - lyrics-palette-holiday.md
+  - id: palette-sea-shanty
+    label: Sea shanty
+    default: false
+    files:
+      - lyrics-palette-sea-shanty.md

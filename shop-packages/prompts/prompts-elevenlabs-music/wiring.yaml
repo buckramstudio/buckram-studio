@@ -1,0 +1,22 @@
+wiring_version: 1
+assistants:
+  - writingAssistant
+  - manuscript
+jobs:
+  - chapter.draft
+entry:
+  - prompts-elevenlabs-music.md
+mode: entry
+tree:
+  - id: core
+    label: Core
+    files:
+      - prompts-elevenlabs-music.md
+  - id: companions
+    label: Companions
+    default: true
+    files:
+      - elevenlabs-lyrics-tags.md
+      - elevenlabs-style-prompt.md
+      - elevenlabs-paste-templates.md
+      - elevenlabs-failure-modes.md

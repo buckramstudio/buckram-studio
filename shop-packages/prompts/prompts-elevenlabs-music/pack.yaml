@@ -1,0 +1,12 @@
+id: prompts-elevenlabs-music
+title: ElevenLabs Music
+summary: "UI prompt plus lyrics, or composition-plan text blocks. Write the song
+  first; this kit only formats ElevenLabs paste. No SDK samples."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: prompts
+group: prompts-music
+tags:
+  - prompts
+  - music
+  - elevenlabs

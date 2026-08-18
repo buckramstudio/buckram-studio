@@ -1,0 +1,12 @@
+id: prompts-udio
+title: Udio
+summary: "Guidance-tag wrap — topic plus comma-separated genres, then official
+  lyrics tags. Write the song first; this kit only formats Udio paste."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: prompts
+group: prompts-music
+tags:
+  - prompts
+  - music
+  - udio

@@ -1,0 +1,22 @@
+wiring_version: 1
+assistants:
+  - writingAssistant
+  - manuscript
+jobs:
+  - chapter.draft
+entry:
+  - prompts-suno.md
+mode: entry
+tree:
+  - id: core
+    label: Core
+    files:
+      - prompts-suno.md
+  - id: companions
+    label: Companions
+    default: true
+    files:
+      - suno-lyrics-tags.md
+      - suno-style-prompt.md
+      - suno-paste-templates.md
+      - suno-failure-modes.md

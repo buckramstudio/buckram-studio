@@ -23,6 +23,7 @@
     { "id": "builder-world-place", "label": "World & place", "parent": "builder", "order": 20 },
     { "id": "builder-story", "label": "Story & outline", "parent": "builder", "order": 30 },
     { "id": "builder-scene-chapter", "label": "Scene & chapter", "parent": "builder", "order": 40 },
-    { "id": "prompts-video", "label": "Video", "parent": "prompts", "order": 10 }
+    { "id": "prompts-video", "label": "Video", "parent": "prompts", "order": 10 },
+    { "id": "prompts-music", "label": "Music", "parent": "prompts", "order": 20 }
   ]
 }

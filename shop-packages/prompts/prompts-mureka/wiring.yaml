@@ -1,0 +1,22 @@
+wiring_version: 1
+assistants:
+  - writingAssistant
+  - manuscript
+jobs:
+  - chapter.draft
+entry:
+  - prompts-mureka.md
+mode: entry
+tree:
+  - id: core
+    label: Core
+    files:
+      - prompts-mureka.md
+  - id: companions
+    label: Companions
+    default: true
+    files:
+      - mureka-lyrics-tags.md
+      - mureka-style-prompt.md
+      - mureka-paste-templates.md
+      - mureka-failure-modes.md

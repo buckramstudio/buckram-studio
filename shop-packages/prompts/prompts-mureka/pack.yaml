@@ -1,0 +1,12 @@
+id: prompts-mureka
+title: Mureka
+summary: "Lyrics-first wrap — structure tags in the lyrics, style in the prompt
+  field. Write the song first; this kit only formats Mureka paste."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: prompts
+group: prompts-music
+tags:
+  - prompts
+  - music
+  - mureka

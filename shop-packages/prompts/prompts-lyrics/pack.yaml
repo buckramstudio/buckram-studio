@@ -1,0 +1,12 @@
+id: prompts-lyrics
+title: Song lyrics
+summary: "Singable lyrics for a brief — one promise, chorus first, palettes as
+  opt-in modules. Host kits wrap tags after the song exists."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: prompts
+group: prompts-music
+tags:
+  - prompts
+  - music
+  - lyrics
