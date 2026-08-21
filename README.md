@@ -26,7 +26,7 @@ Most AI writing tools are a chat window with a prompt. When the chat fills up, t
 
 Buckram Studio puts novelist planning on your computer: Cast, world bible, scene plans, and editorial passes tied to plain Markdown files. Each chapter can start from a fresh chat without the book falling apart.
 
-- **No prompt-pasting marathon** — Each chapter opens with only the notes that scene needs.
+- **No prompt-pasting marathon** — You talk about the story. Cast, world, and open threads are attached for you — no more pasting the bible into every chat.
 - **Continuity that holds** — Voice, world rules, and open threads stay available chapter after chapter.
 - **Test before you commit** — Try an edit style on a sample first. Your real draft stays untouched until you say so.
 - **Your files, always** — Plain Markdown on your disk. Uninstall tomorrow; keep every byte.
@@ -44,7 +44,7 @@ Buckram is for writers, including first novels — structure and guidance beat a
 ### Continuity — so Chapter 30 still agrees with Chapter 1
 
 - **Cast & world bible** — Character voice, places, research, clues, relationships, and who's off-stage, all on disk.
-- **Smart chapter briefings** — The AI only gets the character notes, world rules, and active threads for the scene you are writing now — not 80,000 words of past text every time. You choose how much context to send (light, standard, or full).
+- **Smart chapter briefings** — When you write with the AI, you only have to care about the story. Cast, world rules, and active threads for *this* scene are assembled and attached automatically — no bible-length paste into the chat. The model gets what this chapter needs, not 80,000 words of past text. You still choose how much context to send (light, standard, or full).
 - **World memory & continuity checks** — Later chapters are less likely to re-introduce the same tavern or limp. See who vanished, which clues are unpaid, and which threads went cold.
 - **Import world from prose** — Pull setting and Cast from a manuscript or EPUB **without** importing chapter drafts — useful for shared-world work or a new story on familiar terrain.
 - **Dramatic layer** (optional) — Track how emotions and stakes shift across the book. Completely optional and hidden until you choose to use it.
