@@ -26,7 +26,7 @@ Most AI writing tools are a chat window with a prompt. When the chat fills up, t
 
 Buckram Studio puts novelist planning on your computer: Cast, world bible, scene plans, and editorial passes tied to plain Markdown files. Each chapter can start from a fresh chat without the book falling apart.
 
-- **No prompt-pasting marathon** — You talk about the story. Cast, world, and open threads are attached for you — no more pasting the bible into every chat.
+- **No prompt-pasting marathon** — You just focus on the story. The Cast, world, and open threads are attached for you automatically — no more pasting the bible into every chat.
 - **Continuity that holds** — Voice, world rules, and open threads stay available chapter after chapter.
 - **Test before you commit** — Try an edit style on a sample first. Your real draft stays untouched until you say so.
 - **Your files, always** — Plain Markdown on your disk. Uninstall tomorrow; keep every byte.
