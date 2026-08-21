@@ -1,0 +1,12 @@
+id: method-sensory-lyric
+title: Sensory lyric
+summary: Build emotional pressure through precise sensory selection, recurring material images, and controlled syntax variation while keeping agency, setting, and meaning legible.
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft-method
+tags:
+  - sensory
+  - lyric
+  - close-third
+  - image
+  - controlled

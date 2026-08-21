@@ -1,0 +1,12 @@
+id: method-ordinary-wrong-detail
+title: Ordinary to wrong detail
+summary: Ground the reader in an ordinary, legible situation, then alter the scene's meaning with one concrete anomaly reported in the same calm register as everything around it.
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft-method
+tags:
+  - close-third
+  - concrete
+  - wonder
+  - understatement
+  - uncanny

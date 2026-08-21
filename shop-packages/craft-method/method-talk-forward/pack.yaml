@@ -1,0 +1,12 @@
+id: method-talk-forward
+title: Talk-forward
+summary: Let dialogue perform most of the scene's action while lean narration tracks leverage, behavior, silence, and physical consequence.
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft-method
+tags:
+  - dialogue
+  - subtext
+  - lean
+  - social
+  - scene

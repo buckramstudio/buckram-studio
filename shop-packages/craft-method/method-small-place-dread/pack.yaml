@@ -1,0 +1,12 @@
+id: method-small-place-dread
+title: Small-place dread
+summary: Make a familiar bounded place progressively unsafe by combining practical irregularity, bodily response, remembered local knowledge, and pressure from other people.
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft-method
+tags:
+  - dread
+  - close-third
+  - body-cost
+  - social-pressure
+  - mundane

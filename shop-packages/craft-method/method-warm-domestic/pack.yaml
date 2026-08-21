@@ -1,0 +1,12 @@
+id: method-warm-domestic
+title: Warm domestic
+summary: Reveal relationship pressure through ordinary care, household logistics, tactile objects, social memory, and the gap between what people do for one another and what they can say.
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft-method
+tags:
+  - close-third
+  - domestic
+  - warm
+  - tactile
+  - relationships

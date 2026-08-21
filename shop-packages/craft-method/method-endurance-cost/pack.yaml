@@ -1,0 +1,12 @@
+id: method-endurance-cost
+title: Endurance cost
+summary: Make hardship credible by tracking the accumulating effects of exertion, environment, scarcity, injury, compromise, and incomplete recovery.
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft-method
+tags:
+  - grim
+  - body-cost
+  - material
+  - consequence
+  - close-third

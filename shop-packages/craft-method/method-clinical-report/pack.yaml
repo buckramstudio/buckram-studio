@@ -1,0 +1,12 @@
+id: method-clinical-report
+title: Clinical report
+summary: Reveal human stakes through procedural sequence, institutional language, selective inventory, and the telling gap between what systems record and what people endure.
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft-method
+tags:
+  - clinical
+  - institutional
+  - reportage
+  - restrained
+  - procedural

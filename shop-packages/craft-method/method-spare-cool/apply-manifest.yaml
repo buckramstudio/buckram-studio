@@ -1,0 +1,10 @@
+apply_version: 1
+targets:
+  - from: voice-profile.md
+    to: series/voice-profile.md
+  - from: series-style-bible.md
+    to: series/series-style-bible.md
+  - from: forbidden-index.md
+    to: series/forbidden-index.md
+policy:
+  mode: overwrite

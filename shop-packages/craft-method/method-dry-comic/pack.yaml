@@ -1,0 +1,12 @@
+id: method-dry-comic
+title: Dry comic
+summary: Produce humor by reporting disproportion, flawed logic, status behavior, and inconvenient consequence with a straight narrative face.
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft-method
+tags:
+  - comic
+  - dry
+  - understatement
+  - social
+  - controlled

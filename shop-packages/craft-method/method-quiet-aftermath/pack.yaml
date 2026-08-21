@@ -1,0 +1,12 @@
+id: method-quiet-aftermath
+title: Quiet aftermath
+summary: "Organize scenes around what remains after change: altered routine, incomplete account, belated recognition, material residue, and emotion that the narrator approaches without fully resolving."
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft-method
+tags:
+  - quiet
+  - aftermath
+  - restrained
+  - memory
+  - image

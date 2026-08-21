@@ -1,0 +1,12 @@
+id: method-clip-thriller
+title: Clip thriller
+summary: Keep every beat under pressure by centering immediate objectives, obstacles, operational observation, fast choices, and consequences that alter the next move.
+version: 0.1.0
+engine_min: ">=0.11.0"
+category: craft-method
+tags:
+  - thriller
+  - pressure
+  - action
+  - operational
+  - close-third

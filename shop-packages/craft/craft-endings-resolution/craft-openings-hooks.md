@@ -54,17 +54,20 @@ Promise four things: kind of story, who we follow, world we’re in, question th
 
 ## Hard
 
-**Hook patterns (mechanics)**
-1. **Competence + terminal stakes** — expert at work; casually this is the last time
-2. **Slightly wrong ordinary** — detailed normal; one denial-able anomaly; dramatic irony
-3. **Return to forbidden place** — body language carries backstory
-4. **Dialogue in medias res** — argue as if reader already knows
-5. **Numerical stakes** — count + math deficit; world via constraint
-6. **Suppression** — catastrophic news; character refuses to react yet
-7. **Expert vs impossible** — credentials make alarm credible
-8. **List as story** — packing/inventory juxtapositions without commentary
-9. **Lie after truth** — reader saw blood-wash; now watches perfect alibi
-10. **Destination first** — open with ending fact; suspense is the approach
+**Post-candidate diagnostic mechanics**
+
+Use these only after inventing an entry design from the scene's job, pressure, and reader question. They diagnose whether a privately invented candidate works; they are never an invention menu or rotation slots.
+
+- Competence under terminal stakes
+- Ordinary conditions carrying one denial-able anomaly
+- A forbidden-place return carried by behavior
+- Dialogue already under pressure
+- A count or deficit exposing constraint
+- Suppressed reaction to disruptive news
+- Credible expertise meeting the impossible
+- Inventory or sequence revealing story through juxtaposition
+- Truth witnessed before a performed lie
+- Destination disclosed before the suspenseful approach
 
 Shared anti-pattern: explain before the reader hungers for explanation.
 
